@@ -1,4 +1,4 @@
-# sys-admin-guide
+# Guide for System Administrators in At‐Risk Organizations
 
 The **Guide for System Administrators in At‐Risk Organizations** is available under a Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License
 
