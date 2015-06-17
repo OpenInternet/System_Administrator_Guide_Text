@@ -1,6 +1,5 @@
 ---
 title: 'Guide for System Administrators in At‐Risk Organizations'
-subtitle: Subtitle goes here if you want it.
 author:
 - name: 'Mahvash Taqi Ghosh'
 - name: 'Srija S'
