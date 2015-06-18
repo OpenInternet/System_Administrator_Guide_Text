@@ -21,8 +21,6 @@ author:
 
 !INCLUDE "front_matter/code_of_ethics.md"
 
-## Part A: Best Practices
-
 !INCLUDE "best_practices/conducting_a_risk_assessment/index.md"
 
 !INCLUDE "best_practices/tech_policy_commandments/index.md"
