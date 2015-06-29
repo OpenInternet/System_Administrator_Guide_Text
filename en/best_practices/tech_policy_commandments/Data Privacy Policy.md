@@ -41,7 +41,7 @@ Analyzing data logs may provide deeper insights into data-related incidents and 
 It's best to collect minimum personal identifiable information from site visitors. However, if your website does collect visitor information to encourage use of interactive features, then it’s imperative to take extra steps to inform users about how their information will be used and protected and communicate practices to safe-guard user data transparently via a privacy policy statement. Internal business processes of storing and sharing user data (such as choice of a web analytical tool or backup system) should reflect security protocols communicated via this publically-communicated privacy policy. Annual review of business processes with respect to handling of user data is encouraged. Ensure that your website is SSL enabled. Refer to Chapter 8 and 9 for additional security best practices. 
 
 
-**Safeguard employee personal information **
+**Safeguard employee personal information**
 
 
 Collect only the minimum amount of personal information necessary to achieve your purposes. Create a data retention policy for employee data that is shared with all employees. A data retention policy should help your staff understand how their personal information is stored, distributed with the appropriate stakeholders and deleted. Employee data should be flagged as “sensitive” and encrypted during storage and when shared. In addition, be aware of your privacy requirements - understand local laws to ensure your internal policies match local laws on data privacy and retention.
