@@ -10,10 +10,10 @@ Acceptable passwords must be carefully chosen by the user and enforced by the sy
 - In addition to using passphrases, 2-factor authentication (where feasible to implement) should be enabled across all online services to provide added security. 
 
 Users should be reminded against:  
-●	Creating passwords that contain personal identifiable information (PII) such as names, birthdates or addresses- such passwords are substantially easier to crack. 
-●	Sharing their passwords via phone, email, chat or verbally
-●	Visibly displaying passwords on post-it notes
-●	Using the same password across all their digital assets
-●	Not logging out of online accounts, especially when using public computers 
+- Creating passwords that contain personal identifiable information (PII) such as names, birthdates or addresses- such passwords are substantially easier to crack. 
+- Sharing their passwords via phone, email, chat or verbally
+- Visibly displaying passwords on post-it notes
+- Using the same password across all their digital assets
+- Not logging out of online accounts, especially when using public computers 
 
 **ADD IMAGE**
