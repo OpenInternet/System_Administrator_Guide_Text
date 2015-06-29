@@ -25,6 +25,7 @@ An overview of terms follows:
 As such, Risk can be understood via a basic formula: 
 
 **ADD IMAGE**
+![Risk Formula](https://www.dropbox.com/s/50f05360uy7nt7e/1-risk%20formula.png?dl=0)
 
 The Risk Formula helps to focus on separate elements. In order to reduce risk, one of three things must happen:
 - Threats are reduced
