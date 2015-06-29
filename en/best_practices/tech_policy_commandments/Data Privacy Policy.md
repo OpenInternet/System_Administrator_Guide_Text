@@ -40,15 +40,18 @@ Analyzing data logs may provide deeper insights into data-related incidents and 
 
 It's best to collect minimum personal identifiable information from site visitors. However, if your website does collect visitor information to encourage use of interactive features, then it’s imperative to take extra steps to inform users about how their information will be used and protected and communicate practices to safe-guard user data transparently via a privacy policy statement. Internal business processes of storing and sharing user data (such as choice of a web analytical tool or backup system) should reflect security protocols communicated via this publically-communicated privacy policy. Annual review of business processes with respect to handling of user data is encouraged. Ensure that your website is SSL enabled. Refer to Chapter 8 and 9 for additional security best practices. 
 
+
 **Safeguard employee personal information **
 
 
 Collect only the minimum amount of personal information necessary to achieve your purposes. Create a data retention policy for employee data that is shared with all employees. A data retention policy should help your staff understand how their personal information is stored, distributed with the appropriate stakeholders and deleted. Employee data should be flagged as “sensitive” and encrypted during storage and when shared. In addition, be aware of your privacy requirements - understand local laws to ensure your internal policies match local laws on data privacy and retention.
 
 **Safeguards against publically available information** 
+
+
 Based on your organization’s Risk Assessment (Refer to Chapter 1), raise awareness about personal identifiable data of employees publically available in public databases or on social networking sites. Train staff on protecting themselves against social engineering, which usually manipulates publically available information about users to create targeted attacks. Ensure that your organization has a protocol in place with respect to exposure of staff and projects in online public forums and addresses the consequences of sharing sensitive information publicly. 
 
-**Safeguards against data breaches **
+**Safeguards against data breaches**
 
 
 Ensure that protocols are put in place for protecting physical information received via delivery services like a courier service or via snail mail (such as, key documents should not left unattended in a post-box). Based on your organization’s Risk Assessment (Refer to Chapter 1), it’s recommended to familiarize yourself with data-security-breach notification local laws that might apply to your organization, and to build an incident response team. For planning against data breaches resulting from improper physical security (shredding and access), refer to Chapter 8. To protect against data breaches resulting from poor networking choices - refer to chapter 7 for best practices.
