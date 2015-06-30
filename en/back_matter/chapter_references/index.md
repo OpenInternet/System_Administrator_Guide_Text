@@ -110,12 +110,8 @@
 - [TidyForm.com:](http://www.tidyform.com/service-level-agreement.html)
 
 ####Chapter 6- Ensuring User Data Protection & Privacy####
-###Chapter References###
-
 - [Wired, March 2015:](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
-
 - [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls:](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
-
 - [LiUtilities.com: How to Encrypt a Wireless Router:](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
 
 - [OnGuardOnline.Gov: Securing Your Wireless Network:](http://www.onguardonline.gov/articles/0013-securing-your-wireless-network)
