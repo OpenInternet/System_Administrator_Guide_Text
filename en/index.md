@@ -3,18 +3,28 @@ title: 'Guide for System Administrators in At‐Risk Organizations'
 assistant: 'Srija S'
 author: 'Mahvash Taqi'
 ---
+**TABLE OF CONTENTS**
 
-## Introduction
 
-!INCLUDE "front_matter/introduction.md"
+## License
 
-## How to use this guide
+!INCLUDE "front_matter/license.md"
 
-!INCLUDE "front_matter/how_to_use.md"
+## Attribution for Content 
+
+!INCLUDE "front_matter/attribution.md"
+
+## Disclaimer 
+
+!INCLUDE "front_matter/disclaimer.md"
 
 ## Acknowledgments
 
 !INCLUDE "front_matter/acknowledgments.md"
+
+## Introduction
+
+!INCLUDE "front_matter/introduction.md"
 
 ## System Administrator Code of Ethics
 
