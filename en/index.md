@@ -42,7 +42,7 @@ author: 'Mahvash Taqi'
 [Chapter 3-Staff Awareness & Communication](#chapter3)
 
 - 3.1 Usage Policies
-- 3.2 Relationship with “privileged” users
+- 3.2 Identifying ‘privileged’ users
 - 3.3 Change Management Plan
 - 3.4 Communication & Training
 - 3.4.i Communication
