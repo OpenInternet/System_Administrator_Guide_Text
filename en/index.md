@@ -19,7 +19,6 @@ System Administrator Code of Ethics
 Best Practices 
 
 Chapter 1 - Conducting a Risk Assessment
-- Introduction
 - Understanding the various elements
 - Step 1 - Identify Risks, Vulnerabilities & Capacities
 - Step 2- Risk Matrix
@@ -30,7 +29,6 @@ Chapter 1 - Conducting a Risk Assessment
 - Chapter References
 
 Chapter 2- Tech Policies 
-- Introduction
 - Password Policy 
 - Data Privacy Policy
 - BYOD (Bring Your Own Device) Policy
@@ -77,18 +75,87 @@ Chapter 5- Service Level Agreement: Do's and Don'ts
 - Recommended Reading
 - Chapter References
 
-Chapter 6- 
+Chapter 6- Ensuring User Data Protection & Privacy
+- 6.1 Encrypt User Data-at-Rest
+- 6.1.i Full disk encryption (FDE)
+- 6.1.ii Encrypt passwords
+- 6.1.iii Encrypt removable media
+- 6.1.iv Encrypt backup tapes
+- 6.2 Encrypt User Data-in-Transit
+- 6.2.i Encrypt internet connection
+- 6.2.ii Encrypt email messages
+- 6.2.iii Encrypt stored email or files
+- 6.2.iv Encrypt chats, phone calls and texts
+- 6.3 Anonymity during surfing
+- 6.4 Protections against the Internet of Things (IoT)
+- 6.5 Reading the “fine print”
+- Tools & Templates
+- Recommended Reading
+- Chapter References
 
-Chapter 7- 
+Chapter 7- Network Security
+- 7.1 Monitor, Measure, and Record
+- 7. 2 Effective Firewall Management
+- 7.3 Intrusion Detection and Prevention System (IDPS)
+- 7. 4 Access Control & Authorization
+- 7.5 Network Zones & Data Segregation based on Sensitivity
+- 7.6 Alerts to recognize Abnormal Traffic Behavior
+- 7.7 Advanced Traffic Filtering
+- 7.8 System Audit Logs
+- 7.9 Remote Access
+- 7.10 Secure WiFi
+- 7.11 Mitigating “Insider” threats
+- 7.12 Develop a system for day-to-day work
+- 7.13 Document Everything
+- 7.14 Develop project management habits
+- 7.15 Keep yourself updated
+- Tools & Templates
+- Recommended Reading
+- Chapter References
 
-Chapter 8- 
+Chapter 8- Data Security, Backup & Recovery
+- 8.1 Understand the data & processes
+- 8.2 Data Collection Protocol
+- 8.3 Data Backup & Recovery
+- 8.4 Data Retention, Archiving and Disposal
+- 8.5 Contact Management provisions
+- 8.6 Data security while crossing borders
+- 8.7 Physical Access and Security
+- Tools & Templates
+- Recommended Reading
+- Chapter References
 
-Chapter 9- 
+Chapter 9- Website, Software & System Security
+- 9.1 Website Security
+- 9.1.i Protect your website
+- 9.1.ii Protect your visitors
+- 9.1.iii Protect yourself
+- 9.1.iv Preventing website censorship via multiple channels of distribution
+- 9.2 Software Development Security
+- 9.3 System (Server) Security
+- 9.4 Security on end-user devices
+- 9.5 Secure Organizational Social Media Accounts
+- Tools & Templates
+- Recommended Reading
+- Chapter References
 
-Chapter 10- 
+Chapter 10- Physical Security 
+- 10.1 Equipment Security
+- 10.2 Prevent unauthorized access to your ISP connection
+- 10.3 Prevent unauthorized physical access
+- 10.4 System Console & Auto-logout
+- 10.5 Loss of physical access to the office/server room
+- 10.6 Know your rights
+- 10.7 Know thy neighbor
+- 10.8 Healthy environment for your hardware
+- Tools & Templates
+- Recommending Reading
+- Chapter References
 
-Chapter 11- 
-
+Chapter 11- Know your Rights: In-country Rules & Regulations 
+- Suggestions 
+- Recommended Reading 
+- Chapter References 
 
 ## License
 
