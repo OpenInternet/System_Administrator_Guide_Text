@@ -14,5 +14,9 @@
 
 [^firewall_management]: [Simple Firewall Best Practices for Small and Midsize Businesses] (https://technet.microsoft.com/en-us/security/hh144813.aspx)
 
+[^log_management]: [Log Management – Lifeblood of Information Security] (http://www.net-security.org/article.php?id=975&p=2)
+
+[^rights_suggestions]
+
 
 
