@@ -223,3 +223,5 @@ author: 'Mahvash Taqi'
 ## Chapter References {#references}
 
 !INCLUDE "back_matter/chapter_references/index.md"
+
+!INCLUDE "back_matter/footnotes.md"
