@@ -103,4 +103,8 @@
 
 - [A clever way to increase employee awareness about phishing, Network World, Linda Musthaler:](http://www.networkworld.com/article/2273153/lan-wan/a-clever-way-to-increase-employee-awareness-about-phishing.html)
 
-
+####Chapter 5- Service Level Agreement: Do's and Dont's####
+- [Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives:](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives)
+- [ITDonut Resources:](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
+- [Biztree.com:](http://www.biztree.com/doc/service-level-agreement-D778)
+- [TidyForm.com:](http://www.tidyform.com/service-level-agreement.html)
