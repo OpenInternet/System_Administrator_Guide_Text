@@ -203,10 +203,10 @@ Chapter 11- Know your Rights: In-country Rules & Regulations (#chapter11)
 
 !INCLUDE "best_practices/know_your_rights/index.md"
 
-## Community Resources
+## Community Resources (#resources)
 
 !INCLUDE "back_matter/community_references/index.md"
 
-## Chapter References
+## Chapter References (#references)
 
 !INCLUDE "back_matter/chapter_references/index.md"
