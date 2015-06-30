@@ -136,7 +136,6 @@ Help create a holistic security environment for users by educating them on revie
 - [BetterCrypto.org, Applied Crypto Hardening](https://bettercrypto.org/static/applied-crypto-hardening.pdf)
 
 ###Chapter References###
-
 - [Wired, March 2015](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
 
 - [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
