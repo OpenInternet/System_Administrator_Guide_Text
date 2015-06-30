@@ -81,6 +81,7 @@ Do your customers know how to reach you? Share your contact information with end
 ####Tools & Templates####
 - [Digital Hygiene Campaign posters for display in common areas from Stop. Think. Connect:](http://stopthinkconnect.org/campaigns/keep-a-clean-machine/)
 - Example of a Service Maintenance Notice to staff
+
 ![service notice](images/service_email.png)
 
 ####Recommended Reading####
