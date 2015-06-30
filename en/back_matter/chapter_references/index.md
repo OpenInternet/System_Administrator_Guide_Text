@@ -1,25 +1,15 @@
 ####Chapter 1- Conducting a Risk Assessment####
 
 - [NIST, An Introduction to Computer Security: The NIST Handbook](http://csrc.nist.gov/publications/nistpubs/800-12/handbook.pdf)
-
 - [RiseUp, Communication Security](https://help.riseup.net/en/security)
-
 - [EFF, An Introduction to Threat Modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
 - [Frontline Defenders: Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
-
 - [Rory Peck Trust, Digital Security Risk Assessment guide](https://web.archive.org/web/20140722111408/https://rorypecktrust.org/getmedia/f8ca7438-3202-4890-89e3-c1d8dba80bad/Rory-Peck-Trust-Digital-Security-Risk-Assessment-Guide.pdf.aspx?ext=.pdf)
-
 - [Humanitarian Practice Network, Operational Security Management in Violent Environments (Revised Edition)](http://www.odihpn.org/hpn-resources/good-practice-reviews/operational-security-management-in-violent-environments-revised-edition)
-
 - [Integrated Security, Defining the threshold of acceptable risk](http://www.integratedsecuritymanual.org/exercise/defining-the-threshold-of-acceptable-risk)
-
 - [Cisco, Network Security Policy: Best Practices White Paper](http://www.cisco.com/c/en/us/support/docs/availability/high-availability/13601-secpol.html#t4)
-
 - [EFF, An Introduction to Threat Modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
 - [PBS.org, Rory Byrne, Information Security for Journalists - The Bigger Picture](http://www.pbs.org/idealab/2014/06/information-security-for-journalists-the-bigger-pictur)
-
 - [Front Line - The International Foundation for the Protection of Human Rights Defenders, Protection Manual for Human Rights Defenders](http://www.peacebrigades.org/fileadmin/user_files/groups/uk/files/Publications/Frontline_Manual_pdf.pdf#page=83)
 
 ####Chapter 2- Tech Policies####
@@ -66,91 +56,55 @@
 
 ####Chapter 3- Staff Awareness & Communication####
 - [PCMag.com](http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
-
 - [Change Management Plan Workbook & Template, Queensland Government Chief Information Office](http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf)
-
 - [Prosci Change Management Learning Center](http://www.change-management.com/best-practices-report-toc.htm)
-
 - [Tim Tinker, Booz Allen Hamilton](http://www.boozallen.com/media/file/applying-change-management-in-crisis-and-emergency.pdf)
-
 - [Microsoft TechNet](https://www.microsoft.com/technet/prodtechnol/exchange/guides/ExMgmtGuide/ce0d5bce-3426-42ec-95ea-638aec4b83b5.mspx?mfr=true)
-
 - [Cisco Change Management Best Practices](http://www.cisco.com/c/en/us/products/collateral/services/high-availability/white_paper_c11-458050.html)
-
 - [Intuit Quickbase](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/#sthash.LZM0U59v.dpuf)
-
 - [Change Management Coach](http://www.change-management-coach.com/change-management-models.html)
 
 
 
 ####Chapter 4-Budgeting for Security####
 - [A Look at Targeted Attacks Through the Lense of an NGO, The Max Planck Institute for Software Systems](https://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
-
 - [Advice on IT security budget management, TechTarget](http://searchsecurity.techtarget.com/Advice-on-IT-security-budget-management)
-
 - [Middle East Cyber Security Threat Report 2014, Mohamed N. El-Guindy, Academia.edu](http://www.academia.edu/5522905/Middle_East_Cyber_Security_Threat_Report_2014)
-
 - [Cyber Threat to Non-Governmental organizations, Paul Goldernberg, CTOVision](https://ctovision.com/2013/10/cyber-threat-non-governmental-organizations/)
-
 - [Rising Cybersecurity Budgets Still Not Enough, GovTech- October 2014](http://www.govtech.com/security/Report-Rising-Cybersecurity-Budgets-Still-Not-Enough.html)
-
 - [IT Budget Forecast for 2015, ComputerWorld](http://www.computerworld.com/article/2840907/forecast-2015-it-spending-on-an-upswing.html)
-
 - [Cyber security not a priority for NGOs, Educational Institutes, Times of India-Novemeber 2014](http://timesofindia.indiatimes.com/city/nagpur/Cyber-security-not-a-priority-for-NGOs-educational-institutes/articleshow/45289714.cms)
-
 - [NASCIO Cybersecurity Study, Deloitte-2014](http://www.nascio.org/publications/documents/Deloitte-NASCIOCybersecurityStudy_2014.pdf)
-
 - [Network infrastructure security on a budget, TechTarget](http://searchmidmarketsecurity.techtarget.com/guide/Network-infrastructure-security-on-a-budget)
-
 - [Building a Better Security Budget, eSecurityPlanet-December 2014](http://www.esecurityplanet.com/network-security/building-a-better-security-budget.html)
-
 - [Security tops CIO worries, NetworkWorld-September 2014](http://www.networkworld.com/article/2605900/data-center/security-tops-cio-worries-it-budgets-turnover-on-the-rise.html)
-
 - [Tech Insight: How To Build An IT Security Budget, DarkReading](http://www.darkreading.com/tech-insight-how-to-build-an-it-security-budget/d/d-id/1139084)
-
 - [Understand The State Of Network Security, Forrester](https://www.forrester.com/Understand+The+State+Of+Network+Security+2014+To+2015/fulltext/-/E-RES119025)
-
 - [Cyber Security-It’s not just about technology, KPMG](http://www.kpmg.com/Global/en/IssuesAndInsights/ArticlesPublications/Documents/cyber-security-not-just-technology.pdf)
-
 - [States’ Cyber Security Budget Conundrum, Wall Street Journal-October 2014](http://deloitte.wsj.com/cio/2014/10/30/states-cyber-security-budget-conundrum/)
-
 - [A clever way to increase employee awareness about phishing, Network World, Linda Musthaler](http://www.networkworld.com/article/2273153/lan-wan/a-clever-way-to-increase-employee-awareness-about-phishing.html)
+
 
 ####Chapter 5- Service Level Agreement: Do's and Dont's####
 - [Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives) 
-
 - [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
-
 - [Biztree.com](http://www.biztree.com/doc/service-level-agreement-D778)
-
 - [TidyForm.com](http://www.tidyform.com/service-level-agreement.html)
 
 
 ####Chapter 6- Ensuring User Data Protection & Privacy####
 - [Wired, March 2015](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
-
 - [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
-
 - [LiUtilities, How to Encrypt a Wireless Router] (http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
-
 - [OnGuardOnline.Gov: Securing Your Wireless Network](http://www.onguardonline.gov/articles/0013-securing-your-wireless-network)
-
 - [CSOOnline - Full Disk Encryption Dos and Don'ts](http://www.csoonline.com/article/2124486/data-protection/full-disk-encryption-dos-and-don-ts.html?page=2)
-
 - [PCWorld- How to encrypt your email](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
-
 - [OnGuardOnline.Gov: Tips for Using Public Wi-Fi Networks](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
-
 - [National Network to End Domestic Violence](http://tools.nnedv.org/tipsheets-charts)
-
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
-
 - [Tactical Tech'sSecurity-in-a-Box](https://securityinabox.org/en)
-
 - [FrontlineDefenders: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
-
 - [Internews, SaferJourno](https://saferjourno.internews.org/)
-
 - [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
 
 ####Chapter 7- Network Security####
