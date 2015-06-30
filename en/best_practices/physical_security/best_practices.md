@@ -82,7 +82,7 @@ paper format) and evaluate gaps in the physical security of your
 organization to plan next steps.
 
 After considering the risks, consider partnering with like-minded
-organizations to create a digital “panic button”. This could a simple
+organizations to create a digital *“panic button”*. This could a simple
 solution of creating a messaging group for sending a SMS (or tweet) to a
 select group of people, a contact at the embassy (in case of
 international NGOs), or other community organizations to alert external
