@@ -188,7 +188,7 @@ author: 'Mahvash Taqi'
 
 ## Introduction {#introduction}
 
-!INCLUDE "front_matter/introduction.md"
+!INCLUDE "front_matter/guideintroduction.md"
 
 ## System Administrator Code of Ethics {#ethics}
 
