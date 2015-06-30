@@ -4,14 +4,14 @@
 - [UseNix.org, Abe Singer & Warren Anderson- Rethinking Password Policies] (http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12471-03_singer_14-19_online.pdf)
 - [SANS Institute, Password Protection Policy] (https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy)
 - [Digicert.com, Creating Strong Password Policy Best Practices] (https://blog.digicert.com/creating-password-policy-best-practices/)
-- TechRepublic, The importance of an effective password policy: http://www.techrepublic.com/article/the-importance-of-an-effective-password-policy/ 
-- TechNet Magazine, Best Practices for Enforcing Password Policies: https://technet.microsoft.com/en-us/magazine/ff741764.aspx
-- Hitachi-Id, Password Management Best Practices: http://hitachi-id.com/password-manager/docs/password-management-best-practices.html
-- Citrix.com: Best practices to make BYOD simple and secure: https://www.citrix.com/content/dam/citrix/en_us/documents/oth/byod-best-practices.pdf 
-- Whitehouse.gov, A Toolkit to Support Federal Agencies Implementing Bring Your Own Device (BYOD) Programs: https://www.whitehouse.gov/digitalgov/bring-your-own-device
-- Cisco, Strengthen BYOD Security: http://www.cisco.com/c/en/us/solutions/enterprise/data-center-designs-cloud-computing/own_device.html 
-- TechTarget, BYOD management best practices: http://searchcloudapplications.techtarget.com/opinion/Ten-BYOD-management-best-practices
-- TechRepublic, BYOD policy best practices from templates: http://www.techrepublic.com/blog/it-consultant/learn-byod-policy-best-practices-from-templates/
+- [TechRepublic, The importance of an effective password policy] (http://www.techrepublic.com/article/the-importance-of-an-effective-password-policy/)
+- [TechNet Magazine, Best Practices for Enforcing Password Policies] (https://technet.microsoft.com/en-us/magazine/ff741764.aspx)
+- [Hitachi-Id, Password Management Best Practices] (http://hitachi-id.com/password-manager/docs/password-management-best-practices.html)
+- [Citrix.com: Best practices to make BYOD simple and secure] (https://www.citrix.com/content/dam/citrix/en_us/documents/oth/byod-best-practices.pdf)
+- [Whitehouse.gov, A Toolkit to Support Federal Agencies Implementing Bring Your Own Device (BYOD) Programs] (https://www.whitehouse.gov/digitalgov/bring-your-own-device)
+- [Cisco, Strengthen BYOD Security] (http://www.cisco.com/c/en/us/solutions/enterprise/data-center-designs-cloud-computing/own_device.html)
+- [TechTarget, BYOD management best practices] (http://searchcloudapplications.techtarget.com/opinion/Ten-BYOD-management-best-practices)
+- [TechRepublic, BYOD policy best practices from templates] (http://www.techrepublic.com/blog/it-consultant/learn-byod-policy-best-practices-from-templates/)
 - Information Management, Best practices for BYOD: http://www.information-management.com/gallery/BYOD-mobile-BI-Janco-INN-bring-your-own-device-10022386-1.html
 - CIO, Thor Olavsrud, For BYOD Best Practices, Secure Data, Not Devices: http://www.cio.com/article/2394065/hardware/for-byod-best-practices--secure-data--not-devices.html 
 - DPSciences Corporation, Enhancing productivity and Minimizing risk- BYOD Best Practices: http://www.dpsciences.com/services-solutions/collaboration/byod/top-10-byod-best-practices/ 
