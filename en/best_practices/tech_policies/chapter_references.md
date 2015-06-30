@@ -1,5 +1,5 @@
-- TechRepublic, Tom Mochal- Why does your IT organization need formal policies: http://www.techrepublic.com/article/why-does-your-it-organization-need-formal-policies/ 
-- NIST, Guide to Enterprise Password Management: http://csrc.nist.gov/publications/drafts/800-118/draft-sp800-118.pdf
+- [TechRepublic, Tom Mochal- Why does your IT organization need formal policies] (http://www.techrepublic.com/article/why-does-your-it-organization-need-formal-policies/) 
+- [NIST, Guide to Enterprise Password Management] (http://csrc.nist.gov/publications/drafts/800-118/draft-sp800-118.pdf)
 - SANS Institute, Inadequate Password Policies Can Lead to Problems: http://www.sans.org/reading-room/whitepapers/authentication/inadequate-password-policies-lead-problems-116
 - UseNix.org, Abe Singer & Warren Anderson- Rethinking Password Policies,: http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12471-03_singer_14-19_online.pdf
 - SANS Institute, Password Protection Policy: https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy
