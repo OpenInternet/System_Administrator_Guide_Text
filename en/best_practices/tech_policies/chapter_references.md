@@ -25,16 +25,16 @@
 - Truste- Privacy Statement Best Practices: https://www.truste.com/resources/privacy-best-practices/ 
 - SANS Institute- Electronic Data Retention Policy: http://www.sans.org/reading-room/whitepapers/backup/electronic-data-retention-policy-514
 - National Council for Nonprofits- Document Retention Policies for Nonprofits: https://www.councilofnonprofits.org/tools-resources/document-retention-policies-nonprofits
-- CKRH.org- Record Retention and Destruction Policy: http://www.ckrh.org/pdf/RecordRetentionPolicy.pdf
-- ManagementHelp.org- Sample Document Retention/Destruction Policy: http://managementhelp.org/misc/Sample-Document-Retention-Destruction-Policy.pdf
-- Coopsys.net- IT Documents and Policy Templates: http://www.coopsys.net/it-policies
-- AmericanBar.org- Sample Document Retention Policy: http://apps.americanbar.org/lpm/lpt/articles/sampledocretentionpolicy.pdf
-- South-norfolk.gov.uk- Data Retention Guidelines: http://www.south-norfolk.gov.uk/Data_Retention_Policy.pdf 
-- National Cyber Security Alliance: http://www.StaySafeOnline.org
-- Anti-Phishing Working Group: http://www.antiphishing.org
-- PCWorld, Logan Kugler: Ways to Keep Your Mobile Devices Secure While Traveling: http://www.pcworld.com/article/218671/9_ways_to_keep_your_mobile_devices_secure.html
-- Symantec- Wi-Fi Hotspots: Connecting While Traveling: http://us.norton.com/travel-hotspot-security/article 
-- Wired- Secure Your Wi-Fi While Traveling: http://howto.wired.com/wiki/Secure_your_WiFi_while_Traveling
-- RickSteves.com- Internet Security for Travelers: https://www.ricksteves.com/travel-tips/phones-tech/internet-security-for-travelers
-- Government of Canada- Cyber security while travelling: http://travel.gc.ca/travelling/health-safety/cyber-safe
-- California Polytechnic State University- Traveling with Devices and Connecting to the Internet: http://security.calpoly.edu/content/practices/travel_tips
+- [CKRH.org- Record Retention and Destruction Policy] (http://www.ckrh.org/pdf/RecordRetentionPolicy.pdf)
+- [ManagementHelp.org- Sample Document Retention/Destruction Policy] (http://managementhelp.org/misc/Sample-Document-Retention-Destruction-Policy.pdf)
+- [Coopsys.net- IT Documents and Policy Templates] (http://www.coopsys.net/it-policies)
+- [AmericanBar.org- Sample Document Retention Policy] (http://apps.americanbar.org/lpm/lpt/articles/sampledocretentionpolicy.pdf)
+- [South-norfolk.gov.uk- Data Retention Guidelines] (http://www.south-norfolk.gov.uk/Data_Retention_Policy.pdf)
+- [National Cyber Security Alliance] (http://www.StaySafeOnline.org)
+- [Anti-Phishing Working Group] (http://www.antiphishing.org)
+- [PCWorld, Logan Kugler: Ways to Keep Your Mobile Devices Secure While Traveling] (http://www.pcworld.com/article/218671/9_ways_to_keep_your_mobile_devices_secure.html)
+- [Symantec- Wi-Fi Hotspots] (Connecting While Traveling: http://us.norton.com/travel-hotspot-security/article)
+- [Wired- Secure Your Wi-Fi While Traveling] (http://howto.wired.com/wiki/Secure_your_WiFi_while_Traveling)
+- [RickSteves.com- Internet Security for Travelers] (https://www.ricksteves.com/travel-tips/phones-tech/internet-security-for-travelers)
+- [Government of Canada- Cyber security while travelling] (http://travel.gc.ca/travelling/health-safety/cyber-safe)
+- [California Polytechnic State University- Traveling with Devices and Connecting to the Internet] (http://security.calpoly.edu/content/practices/travel_tips)
