@@ -10,7 +10,7 @@
 
 [^agreement_components]: [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
 
-[^FDE]: http://www.computerworld.com/article/2528345/network-security/full-disk-encryption-dos-and-don-ts.html
+[^FDE]: [Full Disk Encryption Dos and Don'ts] (http://www.computerworld.com/article/2528345/network-security/full-disk-encryption-dos-and-don-ts.html)
 
 
 
