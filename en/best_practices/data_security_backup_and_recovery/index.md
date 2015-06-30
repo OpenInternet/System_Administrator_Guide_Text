@@ -1,6 +1,6 @@
 ##Data Security, Backup and Recovery##
 
-##Best Practices##
+####Best Practices####
 
 **8.1 Understand the data & processes**
 
@@ -69,4 +69,77 @@ Don’t wait until a disaster to test out your Disaster Recovery plan: Frequent 
 - Authorized distribution list for contingency plans.
 - The ability to recover at an alternate site.
 - The ability to reconstruct systems from backups.
+
+**ADD IMAGE**
+
+**8.4 Data Retention, Archiving and Disposal**
+
+Based on the classification of your organization’s data, create a Retention, Archiving and Disposal (RAD) plan. While data storage capacity is getting inexpensive in most countries, it may be prudent to create a RAD plan to avoid accidental leakage of data, reduce the risk of malicious deletion or unauthorized access. 
+Understand local data retention laws before disposing digital files - such as employee records, tax information. Moreover, merely deleting sensitive material is not sufficient, as it does not actually remove the data from your system. 
+Disposal of data also includes protocols of securely shredding physical files & documents to prevent unauthorized access to printouts of sensitive information.  
+
+**8.5 Contact Management provisions**
+
+Contact information of people that your staff interact with (whether partners, sources, consultants, or donors) usually resides in their email or on their phones. One hacked email account on your network or a lost phone can expose the identity of these individuals putting them at risk. In addition, turnover within your organization may also lead to the loss of contact information to key individuals. As such, create provisions to provide a secure (encrypted) database to store all contact information in order to provide business continuity and safeguard the contact information of individuals by moving them away from individual email accounts or address books. Institute a contact management policy within the organization to ensure all contact information is kept up-to-date in the contact management system and sharing of contacts tagged as “sensitive” is not permissible. 
+
+Ensure that your backup policy addresses regular backups of the contact management system and the physical protection of these backups. 
+
+**8.6 Data security while crossing borders**
+While it’s important to create provisions to protect data while on the network, be aware of various methods through which your organization’s data also travels outside the network on staff laptops, USBs or stored in the cloud by staff. As you design the organization’s Traveller's Policy (Refer to Chapter 2 on IT Policies) discuss the protocols for safeguarding your organization’s data while crossing borders (especially imperative when staff travel to “less friendly” countries). 
+
+As security provisions will be unique to each scenario, it’s important to institute a “check-in” policy with staff before they travel to design unique, but workable, data storage and security solutions based on their needs. A few simple examples could include - ensuring staff remove sensitive data from their computers and phones, or prepare a “loaner” laptop that holds the bare minimum information required for their assignment, creating a “TAILS” repo for staff to store sensitive information, understanding data loss in case the laptop or phone gets confiscated. 
+
+**8.7 Physical Access and Security**
+
+Storage of Backup Tapes 
+Ensure that all backups are properly labeled and provisions to transport them to a secure, off-site location are made. An off-site backup location may be a storage service provider or the home of the executive director or lead systems administrator. 
+
+When backups are stored at an off-site backup storage service provider, it’s imperative to understand service level agreement with this vendor and their liability to safeguard your data (Refer to Chapter 5). When backup media is stored in the home of a key stakeholder, ensure they understand the implications of safeguarding these tapes. 
+
+Ensure that all backup media is kept in a fireproof safe or other tamper-proof/element resistant mechanism to prevent damage from theft, fire or floods. 
+
+Finally, verify that the offsite storage facilities for backups are included in disaster recovery/contingency plan.
+
+Prevention against Data Leaks
+In order to protect against “Insider Threats” of accidental data leakage, ensure there is an “Access Control” policy in place (Refer to Chapter 7 on Network Security) 
+
+Chain of Custody
+When working with a team of system administrators, create a “chain of custody” - this details who has physical access to the data tapes at any given time. The chain of custody would also detail a “check-in/check-out” procedure for access to the backup media. 
+
+Facility Construction
+The physical construction of the facility where your data will be stored is an important consideration as well. Plan against adverse scenarios like natural calamities such as fire, floods, or political discord (bombings, riots, curfew). Creating a disaster recovery and a communication plan will keep key stakeholders (Executive Director, Finance & HR Director) informed about the next steps in case of an emergency. 
+
+Office Raid 
+While planning against an office raid by government officials, refer to Chapter 10: Physical Security. 
+
+####Tools & Templates####
+●	Backup for Windows: https://securityinabox.org/en/guide/cobian/windows 
+●	Secure File Storage, TrueCrypt: https://securityinabox.org/en/guide/truecrypt/windows#601 
+●	Secure deletion tool - Eraser: https://securityinabox.org/en/guide/eraser/windows 
+●	Windows Bitlocker: http://windows.microsoft.com/en-us/windows7/products/features/bitlocker 
+●	TechTarget - IT Disaster Recovery Plan Template By Paul Kirvan, CISA, CISSP, FBCI, CBCP: http://searchdisasterrecovery.techtarget.com/feature/IT-disaster-recovery-DR-plan-template-A-free-download-and-guide
+
+###Recommended Reading### 
+●	TechRepublic, 10 things you should know about deploying a UPS: http://www.techrepublic.com/article/10-things-you-should-know-about-deploying-a-ups/
+●	TechTarget, How to choose the right uninterruptible power supply for your data center: http://searchdatacenter.techtarget.com/tip/How-to-choose-the-right-uninterruptible-power-supply-for-your-data-center 
+●	NIST, Guidelines on Security and Privacy in Public Cloud Computing: http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf  
+Chapter References
+●	NIST Contingency Planning Guide for Federal Information Systems: http://csrc.nist.gov/publications/nistpubs/800-34-rev1/sp800-34-rev1_errata-Nov11-2010.pdf
+●	SANS Institute- Disaster Recovery Plan Strategies and Processes: http://www.sans.org/reading-room/whitepapers/recovery/disaster-recovery-plan-strategies-processes-564
+●	Internews, SaferJourno: https://saferjourno.internews.org 
+●	ComputerWeekly: http://www.computerweekly.com/feature/How-to-write-a-disaster-recovery-plan-and-define-disaster-recovery-strategies
+●	SANS Institute- Essential Information Security: http://www.sans.org/reading-room/whitepapers/awareness/essential-information-security-corporate-employees-1179
+●	Texas A&M Information Technology Disaster Recovery Plan: https://www.tamuct.edu/departments/informationtechnology/extras/ITDisasterRecoveryPlan.pdf  
+●	Online Trust Alliance: https://otalliance.org/resources/security-privacy-best-practices
+●	BlackStratus: http://www.blackstratus.com/blog/practices-maintaining-data-security-business-environment/
+●	ZDNet: http://www.zdnet.com/article/10-security-best-practice-guidelines-for-businesses/
+●	Interactive Advertising Bureau (IAB): http://www.iab.net/guidelines/508676/508905/data_security
+●	FoxBusiness: http://smallbusiness.foxbusiness.com/technology-web/2014/06/19/data-security-best-practices/
+●	Microsoft, Best Practices for Enterprise Security: https://msdn.microsoft.com/en-us/library/cc750076.aspx
+●	Microsoft, Data Security and Data Availability in the Administrative Authority: https://msdn.microsoft.com/en-us/library/cc722918.aspx
+●	DisasterRecovery.org: http://www.disasterrecovery.org/it_network_dr.html
+●	Disaster Recovery Guide:http://www.disaster-recovery-guide.com/ 
+●	Indiana university: https://kb.iu.edu/d/akln
+●	Ready.gov- IT Disaster Recovery Plan: http://www.ready.gov/business/implementation/IT
+
 
