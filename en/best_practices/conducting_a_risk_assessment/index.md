@@ -12,9 +12,9 @@ Conducting a Risk Assessment will help you analyze **risks** to your organizatio
 
 The assessment is a simple 4-step process laid out below, but first we look at a few basic definitions.
 
-**Understanding the various elements** [^risk_assessment_definitions]
+**Understanding the various elements** 
 
-An overview of terms follows:
+An overview of terms [^risk_assessment_definitions] follows: 
 
 - *Risk* - the possibility of events that result in harm (For example: censorship of websites focusing on human rights or articles published by independent media)
 
@@ -42,7 +42,7 @@ While in most cases, it may be difficult to reduce threats; an organization can 
 
 **Step 1 - Identify Risks, Vulnerabilities & Capacities**
 
-Having understood the definitions of the various elements and their relationship with each other, the next step in the Risk Assessment process is to verbally map, as a group, the various risks your organization faces, consider your vulnerabilities for each, list existing abilities and resources you possess and identify required capacities that you can reasonably acquire. Here is a [simple worksheet](https://www.frontlinedefenders.org/files/workbook_eng.pdf) (Figure 2.1 page 15; Frontline Defenders: Workbook on Security) that can help facilitate this process.
+Having understood the definitions of the various elements and their relationship with each other, the next step in the Risk Assessment process is to verbally map, as a group, the various risks your organization faces, consider your vulnerabilities for each, list existing abilities and resources you possess and identify required capacities that you can reasonably acquire. Here is a [simple worksheet](https://www.frontlinedefenders.org/files/workbook_eng.pdf) (Figure 2.1 page 15; Frontline Defenders: Workbook on Security) [^worksheet] that can help facilitate this process.
 As you go through this step, answering the following questions, in collaboration with key stakeholders, will help kick-start the conversation:
 
 - What do you want to protect? Write down a list of data that you maintain, where it’s kept, who has access to it, and what stops others from accessing it. This question will help you identify existing vulnerabilities and capacities.
