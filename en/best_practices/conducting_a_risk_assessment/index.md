@@ -26,7 +26,7 @@ An overview of terms follows:
 
 - *Adversary* - a person or entity looking to benefit via exploitation of a risk (For example: state actors or competitors)
 
-As such, Risk can be understood via a basic formula:
+As such, Risk can be understood via a basic formula:[^risk_formula]
 
 ![Risk Formula](images/risk_formula.png)
 
