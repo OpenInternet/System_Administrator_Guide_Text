@@ -10,7 +10,7 @@ Data-at-Rest refers to user information stored on their devices, in external har
 
 When working with users at a media or a human rights organization, it’s imperative to safeguard their information on their devices. Having made the business case for encrypting data (Refer to Chapter 1 for Risk Assessment) and after taking into consideration laws governing your organization (Refer to Chapter 11- Know Your Rights), institute the policy to encrypt all hard-drives to plan against stolen or confiscated devices.
 
-Full disk encryption (FDE) enables strong encryption algorithms to automatically protect all data stored on the hard drive of user’s PCs and laptops. With FDE, data is encrypted automatically when it's stored on the hard disk. This is different from file or folder encryption systems, where it's up to the user to decide which data needs encrypting. FDE's biggest advantage is that there's no room for error if users don't abide by or don't understand encryption policies. [^FDE]
+"Full disk encryption (FDE) enables strong encryption algorithms to automatically protect all data stored on the hard drive of user’s PCs and laptops. With FDE, data is encrypted automatically when it's stored on the hard disk. This is different from file or folder encryption systems, where it's up to the user to decide which data needs encrypting. FDE's biggest advantage is that there's no room for error if users don't abide by or don't understand encryption policies", as explained by Mary Brandel in this article [^FDE] published in ComputerWorld. 
 
 Here are some best practices when instituting Full Disk Encryption (FDE):
 
