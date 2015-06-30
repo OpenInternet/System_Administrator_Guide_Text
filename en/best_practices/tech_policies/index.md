@@ -48,10 +48,6 @@ BYOD Policy (#byod)
 
 !INCLUDE "incident.md"
 
-### Recommended Reading {#reading}
-
-!INCLUDE "recommended_reading.md"
-
 ### Chapter References {#references}
 
 !INCLUDE "chapter_references.md"
