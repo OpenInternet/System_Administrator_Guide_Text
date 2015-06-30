@@ -15,7 +15,7 @@ Users should be reminded against:
 - Using the same password across all their digital assets
 - Not logging out of online accounts, especially when using public computers 
 
-**ADD IMAGE**
+![Passphrase](images/passphrase.png)
 
 **User Account Maintenance**
 - Ensure that all user ids belong to currently authorized users; user ids that are inactive for 90 days must be disabled - be sure to add this task to your daily checklist 
