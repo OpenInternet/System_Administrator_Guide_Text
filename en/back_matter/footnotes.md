@@ -16,6 +16,8 @@
 
 [^log_management]: [Log Management – Lifeblood of Information Security] (http://www.net-security.org/article.php?id=975&p=2)
 
+[^healthy_environment]: [Tactical Tech, Security-in-a-Box] (https://securityinabox.org/en/guide/physical)
+
 [^rights_suggestions]
 
 
