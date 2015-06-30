@@ -24,7 +24,6 @@ As such, it’s imperative to understand the legal IT aspects of operating withi
 In view of the complex patchwork of data security and privacy laws, taking preventive measures to minimize the likelihood or scope of run-ins with the law by establishing appropriate tech policies and contingency plans will ensure legal compliance and will result in a positive outcome for all stakeholders, your organization and its mission.
 
 **Recommended Reading**
-
 - [ICNL, NGO Law Monitor](http://www.icnl.org/research/monitor/)
 - [UN ITU, Cyberwellness Profiles](http://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx)
 - [Freedom House, Freedom on the Net](https://www.freedomhouse.org/report/freedom-net/2014/tightening-net-governments)
@@ -41,7 +40,6 @@ In view of the complex patchwork of data security and privacy laws, taking preve
 
 
 **Chapter References**
-
 - [Digital Media Law Project, Berkman Center for Internet & Society](http://www.dmlp.org/legal-guide/responding-legal-threats)
 - [EFF, Legal Guide for Bloggers](https://www.eff.org/issues/bloggers/legal)
 - [BBC, How to avoid libel & defamation](http://www.bbc.co.uk/dna/collective/A1183394)
