@@ -119,7 +119,8 @@ While planning against an office raid by government officials, refer to Chapter 
 - Windows Bitlocker: http://windows.microsoft.com/en-us/windows7/products/features/bitlocker 
 - TechTarget - IT Disaster Recovery Plan Template By Paul Kirvan, CISA, CISSP, FBCI, CBCP: http://searchdisasterrecovery.techtarget.com/feature/IT-disaster-recovery-DR-plan-template-A-free-download-and-guide
 
-###Recommended Reading### 
+####Recommended Reading####
+
 - TechRepublic, 10 things you should know about deploying a UPS: http://www.techrepublic.com/article/10-things-you-should-know-about-deploying-a-ups/
 - TechTarget, How to choose the right uninterruptible power supply for your data center: http://searchdatacenter.techtarget.com/tip/How-to-choose-the-right-uninterruptible-power-supply-for-your-data-center 
 - NIST, Guidelines on Security and Privacy in Public Cloud Computing: http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf  
