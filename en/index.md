@@ -18,8 +18,6 @@ author: 'Mahvash Taqi'
 
 [System Administrator Code of Ethics](#ethics)
 
-##Best Practices##
-
 [Chapter 1 - Conducting a Risk Assessment](#chapter1)
 
 - Understanding the various elements
