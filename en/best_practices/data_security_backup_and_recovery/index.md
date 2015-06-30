@@ -76,7 +76,7 @@ Don’t wait until a disaster to test out your Disaster Recovery plan: Frequent 
 - The ability to recover at an alternate site.
 - The ability to reconstruct systems from backups.
 
-**ADD IMAGE**
+![Disaster Recovery Plan](images/disaster_recovery.png)
 
 **8.4 Data Retention, Archiving and Disposal**
 
