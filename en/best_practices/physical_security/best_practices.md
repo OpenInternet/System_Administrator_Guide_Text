@@ -17,52 +17,16 @@ Always escort a representative from the ISP or local telecommunications
 provider when providing physical access to this electrical closet.
 
 #### 10.3 Prevent unauthorized physical access {#psbp3}
+- Physical security of your organization starts at your building’s doorstep. This includes who the building security guard allows access to, followed by authorization to enter the office premises after approval from the receptionist. Ensure that your organization has a guest entry log procedure. All non-employees should be escorted by a staff person present at all times, including any service providers.  
+- If the situation warrants it (based on your organizational Risk Assessment - Chapter 1) and after consultation with the organization’s decision-makers, consider installing security cameras to monitor the office premises. Make sure signs informing staff & visitors that they are being “surveilled” via these cameras are clearly placed to ensure complete transparency. In addition, ensure that the cameras are installed such that they won’t invade privacy of staff by capturing their computer screens; create a policy that communicates secure storage & access of the security camera tapes. the At the very least, there should be a procedure in place to safeguard the premises via an alarm system or access to the office keys by critical staff. If keys are used to secure premises, ensure that keys are handled securely at all times and there is a key handling policy in place. 
+- Locate critical networks, servers, workstations and telecommunications equipment in physically secure locations that permit access only to authorized personnel. Consider investing in locked closets to provide additional security and have clear signs denoting areas of unauthorized access to staff. Always accompany a vendor in the server room if service is being received. 
+- Ensure servers are mounted on sturdy racks, a few feet above the ground. Cables should be clearly marked and secured above ground, not left loose as this could be hazardous to staff. 
+- WAPs (wifi access points) should be secured via in a sealed, transparent “security box” ensuring that they cannot be tampered with. 
+- In addition to protecting servers, routers, WAP(s), ensure that the office phone sets, fax stations, scanners and printers are equally secured and access is restricted to staff. These devices should be placed in visible common areas to prevent tampering.  Place reminders next to fax machines and printers to ensure staff are not leaving sensitive documents unattended and all confidential documents are shredded before they are disposed. 
+- Ensure your office’s facilities - main power supply, internet connection from the ISP (internet service provider), air conditioning and UPS (Uninterruptible Power Supply) cannot be tampered with. Its recommended to have backup UPS powered and ready to go in case of device failure of the main UPS for critical IT services. Where feasible, you may also consider a redundant power supply (such as a generator) or internet connection (a backup ISP). Take into account costs associated to ensuring redundancy & business continunity. (Refer to Chapter 4-Budegting for Security and Chapter 8-Data Security, Backup & Recovery for additional best practices)
+- Invest in fire extinguishers for the office, and in particular for the server room. Consider investing in gas-based fire extinguishers that wont damage servers or other equipment in the server room. Display a clearly marked fire escape plan in common areas and in the server room. 
+- Secure all desktops, laptops and other portable devices with locks. 
 
--   Physical security of your organization starts at your building’s
-    doorstep. This includes who the building security guard allows
-    access to, followed by authorization to enter the office premises
-    after approval from the receptionist. Ensure that your organization
-    has a guest entry log procedure. All non-employees should be
-    escorted by a staff person present at all times, including any
-    service providers.  
--   If the situation warrants it (based on your organizational Risk
-    Assessment - Chapter 1) and after consultation with the
-    organization’s decision-makers, consider installing security cameras
-    to monitor the office premises. Make sure signs informing staff &
-    visitors that they are being “surveilled” via these cameras are
-    clearly placed to ensure complete transparency. At the very least,
-    there should be a procedure in place to safeguard the premises via
-    an alarm system or access to the office keys by critical staff.
-
--   Locate critical networks, servers, workstations and
-    telecommunications equipment in physically secure locations that
-    permit access only to authorized personnel. Consider investing in
-    locked closets to provide additional security and have clear signs
-    denoting areas of unauthorized access to staff. Always accompany a
-    vendor in the server room if service is being received.
--   Ensure servers are mounted on sturdy racks, a few feet above the
-    ground. Cables should be clearly marked and secured above ground,
-    not left loose as this could be hazardous to staff.
--   WAPs (wifi access points) should be secured via in a sealed,
-    transparent “security box” ensuring that they cannot be tampered
-    with.
--   In addition to protecting servers, routers, WAP(s), ensure that the
-    office phone sets, fax stations, scanners and printers are equally
-    secured and access is restricted to staff. These devices should be
-    placed in visible common areas to prevent tampering.  Place
-    reminders next to fax machines and printers to ensure staff are not
-    leaving sensitive documents unattended and all confidential
-    documents are shredded before they are disposed.
--   Ensure your office’s facilities - main power supply, internet
-    connection from the ISP (internet service provider), air
-    conditioning and UPS (Uninterruptible Power Supply) cannot be
-    tampered with. Its recommended to have backup UPS’ powered and ready
-    to go in case of device failure of the main UPS for critical IT
-    services.
--   Invest in fire extinguishers for the office, and in particular for
-    the server room. Display a clearly marked fire escape plan in common
-    areas (and in the server room).
--   Secure all desktops, laptops and other portable devices with locks.
 
 #### 10.4 System Console & Auto-logout {#psbp4}
 
