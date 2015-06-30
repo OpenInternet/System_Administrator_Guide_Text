@@ -32,7 +32,7 @@ Once you have consistent information, you’ll start seeing patterns and can loo
 
 **7. 2 Effective Firewall Management**
 
-Following these best practices and conducting regular maintenance work can make the life of a system administrator less stressful and help better protect your network.
+Following these best practices [^firewall_management] and conducting regular maintenance work can make the life of a system administrator less stressful and help better protect your network.
 
 - Conduct daily maintenance tasks: As stated above under “Monitor, Measure & Record”, review traffic logs & check for any alerts.
 
