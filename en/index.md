@@ -1,8 +1,7 @@
 ---
 title: 'Guide for System Administrators in At‐Risk Organizations'
-author:
-- name: 'Mahvash Taqi Ghosh'
-- name: 'Srija S'
+Created, Written and Produced by: 'Mahvash Taqi'
+Lead Research Assistant:'Srija S'
 ---
 
 ## Introduction
@@ -42,10 +41,6 @@ author:
 !INCLUDE "best_practices/physical_security/index.md"
 
 !INCLUDE "best_practices/know_your_rights/index.md"
-
-## Part B: Scenarios
-
-!INCLUDE "scenarios/index.md"
 
 ## Community Resources
 
