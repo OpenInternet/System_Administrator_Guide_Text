@@ -1,4 +1,4 @@
-##Service Level Agreement: Do's and Dont's##
+##Service Level Agreement: Do's and Dont's## {#chapter5}
 As you go about your daily tasks working at a human rights-focused organization or media outlet, you need to pay special attention to agreements negotiated with service providers such as your ISP (internet service provider), hardware vendor (especially as it relates to server hardware), and when hosting a website externally, your hosting provider.
 
 A Service Level Agreement (SLA, for short) is a legal document that explains what your organization gets when it pays another organization or company. A SLA should include a specified level of service, support options, enforcement or penalty provisions for services not provided, a guaranteed level of system performance as relates to downtime or uptime, a specified level of customer support, communication protocol (including contact information for emergency assistance) and what software or hardware will be provided and for what fee.   
