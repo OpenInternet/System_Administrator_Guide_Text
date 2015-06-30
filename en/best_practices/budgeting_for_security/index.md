@@ -80,45 +80,27 @@ In addition, sharing news and information about security trends will ensure that
 As you design a security program for your organization, it is a good practice to also share & learn from other organizations experiencing similar risks. Creating a safe “peer” space for system administrators working at community organizations, whether at a media outlets and/or human rights organization, to come together and share their knowledge will help you learn about potential threats, steps taken to mitigate them and will serve as an early-warning system for identification of potential threats, allowing you to be proactive in planning against them.
 
 ####Tools & Templates####
-
 - Discounted software licenses for registered NGOs is available via [TechSoup](http://www.techsoup.org/)
-
 - Snapshot of a sample IT budget **(link to a blank budget template will be provided)**
 
 ####Recommended Reading####
-
 (Left blank intentionally; looking for contributions from the community)
 
 ####Chapter References####
-
 - [A Look at Targeted Attacks Through the Lense of an NGO, The Max Planck Institute for Software Systems](https://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
-
 - [Advice on IT security budget management, TechTarget](http://searchsecurity.techtarget.com/Advice-on-IT-security-budget-management)
-
 - [Middle East Cyber Security Threat Report 2014, Mohamed N. El-Guindy, Academia.edu](http://www.academia.edu/5522905/Middle_East_Cyber_Security_Threat_Report_2014)
-
 - [Cyber Threat to Non-Governmental organizations, Paul Goldernberg, CTOVision](https://ctovision.com/2013/10/cyber-threat-non-governmental-organizations/)
-
 - [Rising Cybersecurity Budgets Still Not Enough, GovTech- October 2014](http://www.govtech.com/security/Report-Rising-Cybersecurity-Budgets-Still-Not-Enough.html)
-
 - [IT Budget Forecast for 2015, ComputerWorld](http://www.computerworld.com/article/2840907/forecast-2015-it-spending-on-an-upswing.html)
-
 - [Cyber security not a priority for NGOs, Educational Institutes, Times of India-Novemeber 2014](http://timesofindia.indiatimes.com/city/nagpur/Cyber-security-not-a-priority-for-NGOs-educational-institutes/articleshow/45289714.cms)
-
 - [NASCIO Cybersecurity Study, Deloitte-2014](http://www.nascio.org/publications/documents/Deloitte-NASCIOCybersecurityStudy_2014.pdf)
-
 - [Network infrastructure security on a budget, TechTarget](http://searchmidmarketsecurity.techtarget.com/guide/Network-infrastructure-security-on-a-budget)
-
 - [Building a Better Security Budget, eSecurityPlanet-December 2014](http://www.esecurityplanet.com/network-security/building-a-better-security-budget.html)
-
 - [Security tops CIO worries, NetworkWorld-September 2014](http://www.networkworld.com/article/2605900/data-center/security-tops-cio-worries-it-budgets-turnover-on-the-rise.html)
-
 - [Tech Insight: How To Build An IT Security Budget, DarkReading](http://www.darkreading.com/tech-insight-how-to-build-an-it-security-budget/d/d-id/1139084)
-
 - [Understand The State Of Network Security, Forrester](https://www.forrester.com/Understand+The+State+Of+Network+Security+2014+To+2015/fulltext/-/E-RES119025)
-
 - [Cyber Security-It’s not just about technology, KPMG](http://www.kpmg.com/Global/en/IssuesAndInsights/ArticlesPublications/Documents/cyber-security-not-just-technology.pdf)
-
 - [States’ Cyber Security Budget Conundrum, Wall Street Journal-October 2014](http://deloitte.wsj.com/cio/2014/10/30/states-cyber-security-budget-conundrum/)
 
 - [A clever way to increase employee awareness about phishing, Network World, Linda Musthaler](http://www.networkworld.com/article/2273153/lan-wan/a-clever-way-to-increase-employee-awareness-about-phishing.html)
