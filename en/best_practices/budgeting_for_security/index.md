@@ -85,8 +85,6 @@ As you design a security program for your organization, it is a good practice to
 
 - Snapshot of a sample IT budget **(link to a blank budget template will be provided)**
 
-**ADD IMAGE**
-
 ![Sample IT Budget](images/sample_it_budget.png)
 
 ####Recommended Reading####
