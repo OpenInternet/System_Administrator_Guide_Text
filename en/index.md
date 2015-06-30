@@ -104,9 +104,9 @@ author: 'Mahvash Taqi'
 [Chapter 7- Network Security](#chapter7)
 
 - 7.1 Monitor, Measure, and Record
-- 7. 2 Effective Firewall Management
+- 7.2 Effective Firewall Management
 - 7.3 Intrusion Detection and Prevention System (IDPS)
-- 7. 4 Access Control & Authorization
+- 7.4 Access Control & Authorization
 - 7.5 Network Zones & Data Segregation based on Sensitivity
 - 7.6 Alerts to recognize Abnormal Traffic Behavior
 - 7.7 Advanced Traffic Filtering
