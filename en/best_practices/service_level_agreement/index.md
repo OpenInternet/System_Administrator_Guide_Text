@@ -48,6 +48,12 @@ Working at a human rights organization or media outlet, you should pay special a
 Finally, remember that while an SLA gives you some backup and confidence, it’s no substitute for having a good relationship with an IT service provider you trust. 
 
 
+####Chapter References####
+- Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives: http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives
+- ITDonut Resources: http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement 
+- Biztree.com: http://www.biztree.com/doc/service-level-agreement-D778
+- TidyForm.com: http://www.tidyform.com/service-level-agreement.html
+
 
 
 
