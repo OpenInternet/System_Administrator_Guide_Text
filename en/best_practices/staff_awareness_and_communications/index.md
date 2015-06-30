@@ -92,18 +92,18 @@ Do your customers know how to reach you? Share your contact information with end
 
 ####Chapter References####
 
-- [PCMag.com:](http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
+- [PCMag.com](http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
 
-- [Change Management Plan Workbook & Template, Queensland Government Chief Information Office:](http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf)
+- [Change Management Plan Workbook & Template, Queensland Government Chief Information Office](http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf)
 
-- [Prosci Change Management Learning Center:](http://www.change-management.com/best-practices-report-toc.htm)
+- [Prosci Change Management Learning Center](http://www.change-management.com/best-practices-report-toc.htm)
 
-- [Tim Tinker, Booz Allen Hamilton:](http://www.boozallen.com/media/file/applying-change-management-in-crisis-and-emergency.pdf)
+- [Tim Tinker, Booz Allen Hamilton](http://www.boozallen.com/media/file/applying-change-management-in-crisis-and-emergency.pdf)
 
-- [Microsoft TechNet:](https://www.microsoft.com/technet/prodtechnol/exchange/guides/ExMgmtGuide/ce0d5bce-3426-42ec-95ea-638aec4b83b5.mspx?mfr=true)
+- [Microsoft TechNet](https://www.microsoft.com/technet/prodtechnol/exchange/guides/ExMgmtGuide/ce0d5bce-3426-42ec-95ea-638aec4b83b5.mspx?mfr=true)
 
-- [Cisco Change Management Best Practices:](http://www.cisco.com/c/en/us/products/collateral/services/high-availability/white_paper_c11-458050.html)
+- [Cisco Change Management Best Practices](http://www.cisco.com/c/en/us/products/collateral/services/high-availability/white_paper_c11-458050.html)
 
-- [Intuit Quickbase:](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/#sthash.LZM0U59v.dpuf)
+- [Intuit Quickbase](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/#sthash.LZM0U59v.dpuf)
 
-- [Change Management Coach:](http://www.change-management-coach.com/change-management-models.html)
+- [Change Management Coach](http://www.change-management-coach.com/change-management-models.html)
