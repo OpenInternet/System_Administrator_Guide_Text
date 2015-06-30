@@ -1,4 +1,3 @@
-####Password Policy
 Across our digital assets (devices and online accounts), passwords are the modus operandi of gaining access to authorized content. They are our first line-of-defense in preventing unauthorized access to content & devices and as such, they deserve the required attention & thought-process beyond the careless, easy-to-remember, 6 character ritual that most users adopt, viewing passwords as an hindrance to access. 
 
 A password policy is a set of rules which are created to improve computer security by preventing unauthorized access and by motivating users to create dependable, secure passwords; storing and utilizing them properly.
