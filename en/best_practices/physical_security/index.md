@@ -155,20 +155,20 @@ do to protect your computers and network equipment from such threats:
 
 ####Recommended Reading####
 
--   [NIST, Physical and Environmental Security:](http://csrc.nist.gov/publications/nistpubs/800-14/800-14.pdf)
+-   [NIST, Physical and Environmental Security](http://csrc.nist.gov/publications/nistpubs/800-14/800-14.pdf)
 -   [Security-in-a-box:](https://securityinabox.org/en/guide/physical)
--   [Frontline Defenders, Workbook on Security:](http://frontlinedefenders.org/files/workbook\_eng.pdf\#page=80)
--   [TechRepublic, 10 physical security measures every organization should take:](http://www.techrepublic.com/blog/10-things/10-physical-security-measures-every-organization-should-take/)
--   [SANS Institute, Data Center Physical Security Checklist:](http://www.sans.org/reading-room/whitepapers/awareness/data-center-physical-security-checklist-416)
--   [Frontline, Protection Manual for Human Right Defenders:](http://www.peacebrigades.org/fileadmin/user\_files/groups/uk/files/Publications/Frontline\_Manual\_pdf.pdf\#page=83)
--   [Pentest Standard,](http://www.pentest-standard.org/index.php/Pre-engagement\#Physical\_Penetration\_Test)
+-   [Frontline Defenders, Workbook on Security](http://frontlinedefenders.org/files/workbook\_eng.pdf\#page=80)
+-   [TechRepublic, 10 physical security measures every organization should take](http://www.techrepublic.com/blog/10-things/10-physical-security-measures-every-organization-should-take/)
+-   [SANS Institute, Data Center Physical Security Checklist](http://www.sans.org/reading-room/whitepapers/awareness/data-center-physical-security-checklist-416)
+-   [Frontline, Protection Manual for Human Right Defenders](http://www.peacebrigades.org/fileadmin/user\_files/groups/uk/files/Publications/Frontline\_Manual\_pdf.pdf\#page=83)
+-   [Pentest Standard](http://www.pentest-standard.org/index.php/Pre-engagement\#Physical\_Penetration\_Test)
 
 
 ####Chapter References####
 
--   [SANS Institute, System Administrator - Security Best Practices:](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
--   [SANS Institute, Computer Rooms - meet the physical security measures:](http://www.giac.org/paper/gsec/2892/computer-rooms-meet-physical-security-measures/104866)
--   [University of Florida, Physical Security of Server Rooms:](https://security.ufl.edu/wp-content/uploads/2013/09/PS0002-02.pdf)
--   [MIT, Protecting Devices:](https://ist.mit.edu/security/devices)
--   [Security-in-a-Box:](https://info.securityinabox.org/default/chapter\_2\_3)
--   [SANS Institute, Penetration Tests and Red Team Exercises:](https://www.sans.org/critical-security-controls/control/20)
+-   [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
+-   [SANS Institute, Computer Rooms - meet the physical security measures](http://www.giac.org/paper/gsec/2892/computer-rooms-meet-physical-security-measures/104866)
+-   [University of Florida, Physical Security of Server Rooms](https://security.ufl.edu/wp-content/uploads/2013/09/PS0002-02.pdf)
+-   [MIT, Protecting Devices](https://ist.mit.edu/security/devices)
+-   [Security-in-a-Box](https://info.securityinabox.org/default/chapter\_2\_3)
+-   [SANS Institute, Penetration Tests and Red Team Exercises](https://www.sans.org/critical-security-controls/control/20)
