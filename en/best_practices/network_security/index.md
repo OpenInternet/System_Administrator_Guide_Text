@@ -7,25 +7,15 @@
 This is the golden rule for all sysadmins - understand the traffic on your network. Get/build/buy a system to monitor, measure, record and analyze network traffic. It may be prudent to regularly share network analysis reports with key stakeholders and staff to help them understand the various threats to the network. In addition to raising their awareness on the network security challenges faced by the organization, it also would allow for enhanced investment in security technology and digital security education & training for staff (Refer to Chapter 4- Budgeting for Tech)
 
 Here is a recommended shortlist of things to start monitoring/recording/charting/graphing:
-
 - Load average
-
 - Memory usage
-
 - Disk I/O (transactions per second)
-
 - Network throughput (in Mbits/sec)
-
 - Network throughput per virtual host/site
-
 - Transfer (in GB/month)
-
 - Transfer per virtual host
-
 - Disk storage (monthly in GB) and also daily rolling average if files are uploaded and deleted regularly
-
 - Average response time of a PHP (or Ruby/Python/etc.) page under your control that does not change. Testing real web pages gives you a consistent baseline that you can use to narrow the problem to the server, the OS, or the web code itself.
-
 - SSH logins per day/month by user and IP address
 
 Once you have consistent information, you’ll start seeing patterns and can look for things out of the ordinary/abnormal traffic. It’s also good for correlating data to behaviors when you’re troubleshooting issues and aren’t sure where to start.
@@ -35,37 +25,27 @@ Once you have consistent information, you’ll start seeing patterns and can loo
 Following these best practices [^firewall_management] and conducting regular maintenance work can make the life of a system administrator less stressful and help better protect your network.
 
 - Conduct daily maintenance tasks: As stated above under “Monitor, Measure & Record”, review traffic logs & check for any alerts.
-
 - Deny all traffic by default and only open specific ports, protocols and services as needed.
-
 - Change the default administrator or root password on the firewall to a complex, long passphrase. Set a reminder to change the firewall admin password every 6 months.
-
 - Monitor the CPU usage & network throughput of the firewall to ensure applications installed on it (such as an anti-virus, VPN software) are not slowing it down.
 
 *Review firewall policies regularly*
 
 - Over time, firewall policies become outdated. Servers that were published to the internet get decommissioned, and services get moved to new servers. But firewall policies tied to decommissioned servers often are not removed or updated. The danger here is that IP addresses of decommissioned servers get reused on new servers, and new servers can then easily be published for unintended services.
-
 - Change Management protocol: Regular overview of the policies is even more important if there is more than one system administrator. In such environments, it is likely that, for example, two administrators created two different policies for same network traffic specifications. When conducting policy reviews, see if you can consolidate any of the policies. Establish a change management protocol to document all firewall changes when there is more than one system administrator.
-
 - Review rules that clients use to connect to different services on the internet. An application that required a specific port to communicate with the internet might have been updated with a new application that uses a different port. Ensure that accurate ports only allow access to specific applications.
-
 - Get a “trusted, independent” audit: When possible, allow someone who has knowledge of and experience with managing firewalls but who is not involved in the day-to-day operations of your network to audit the firewall policies - this would ensure a trusted, fresh perspective and will help identify any policy conflicts.
-
 - It’s recommended to review the firewall policies at least twice a year.
 
 *Back up your firewall regularly*
 
 - Make a backup of firewall policies and configurations before performing any policy changes. With a backup, if you run into any problems with new policy configuration, it is easy to revert back to the previous, working configuration.
-
 - Consider what else is needed to restore your firewall if disaster recovery is necessary. Are there any specific routes that are not included in the firewall configuration backup, but are required for complete restore? How about certificates and their corresponding private keys that might be used for SSL session termination on the firewall?
-
 - Practice firewall recovery in test environment. Testing should point out any missing components in the backup and, therefore, give administrators the opportunity to learn the necessary skills to perform a quick and reliable restore when necessary.
 
 *Update the firewall*
 
 - Regardless of the make and model of your firewall, you should regularly update your firewalls. All firewall manufacturers release updates for their products. These updates often include bug fixes and new features that can help mitigate new types of threats, thereby minimizing risk.
-
 - When possible, also update network card drivers. These updates often solve problematic behaviors, including those that might, at first, seem to be related to an unreliable firewall.
 
 **7.3 Intrusion Detection and Prevention System (IDPS)**
@@ -74,7 +54,7 @@ Today’s malware is so advanced that a firewall alone will leave a network vuln
 
 The problem with this defense is that the firewall does not investigate the data that is allowed to enter the doors on the network. If there is danger lurking outside the front door (port connection) and the data finds a way into the home (the network), it will cause an intense amount of damage. And, although it’s not practical to check your guests’ bags, it is necessary to scan all items entering your network to determine if they are friend or foe because the network’s health and safety rely on it. An IDPS is the answer to address this challenge.
 
-An Intrusion Detection and Protection System (IDPS) is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware & produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.
+An Intrusion Detection and Protection System (IDPS) is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware & produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.[^idps]
 
 For added protection, you may adopt the “anomaly detection” versus a “misuse detection” approach via an IDPS. In misuse detection, the IDS analyzes the information it gathers and compares it to large databases of attack signatures. That is, the IDS looks for a specific attack that has already been documented. Much like a virus detection system, detection software is only as good as the database of intrusion signatures that it uses to compare packets against. However, in anomaly detection, the system administrator has more control and can define the baseline, or normal, state of the network's traffic load, breakdown, protocol, and typical packet size. The anomaly detector monitors network segments to compare their state to the normal baseline, looks for anomalies and alerts the system administrator when one is detected.
 
@@ -92,22 +72,16 @@ Based on your organization’s risk assessment (Refer to Chapter 1) and working 
 Access control to IT systems and data repositories should be based on the following access criteria, as appropriate:
 
 - Identity (user ID): The identity must be unique in order to support individual accountability.
-
 - Roles: Access to information must also be controlled by the job assignment or function (i.e., the role) of the user who is seeking access.
-
 - Access Modes: Consider the types of access, or access modes - common access modes, which can be used in both operating and application systems, include read, write, execute, and delete.
-
 - Location: Where appropriate, access to particular system resources (especially, to sensitive data repositories) will be based upon physical or logical location.
+
 Ensure the following best practices with regards to authentication:
 
 - Require Users to Authenticate: users must authenticate their claimed identities on all IT resources and data repositories. During the first instance of access with a new account, the initial password must be changed by the individual responsible for the account, in compliance with the defined password policy. Enable 2-factor Authentication. (Refer to Chapter 2 on Password Policy)
-
 - Limit Log-on Attempts: The organization facilities must limit the number of log-on attempts to five (5).  This helps to prevent guessing of authentication data.  Where round-the-clock system administration service is available, system administrator intervention will be required to clear a locked account.  Where round-the-clock system administration service is not available, accounts will remain locked out for at least ten (10) minutes.
-
 - User Account Review: When system users are no longer part of an organization, or their duties change, their account access must be appropriately modified or terminated.  Requests to change access privileges must be signed and forwarded to the appropriate designated individual by the responsible manager. Create a process to regularly review and audit user account access to IT systems & data repositories- this initiative may closely tie in with your organization’s employee onboarding and termination process to take the necessary action of account creation, modification or deletion.
-
 - Use of the default “Guest” accounts is strongly discouraged on servers and workstations but, if needed, these accounts must conform to the naming conventions and the password policy established in this policy. Additional measures, such as disabling, renaming, or decoying these standard accounts, should be employed.
-
 - Administer Data Properly: Establish procedures to disable lost or stolen passwords and monitor systems to look for stolen or shared accounts.
 
 **7.5 Network Zones & Data Segregation based on Sensitivity**
@@ -123,17 +97,11 @@ Classification of your data based on sensitivity would allow you to create the a
 You may setup simple scripts to send you alerts to monitor the following recommended abnormal traffic behavior. However, remember that doing so may generate denser and larger logs that may be difficult to analyze.
 
 - Port scans - opening of ports in an attempt to enumerate services.
-
 - Attempted DNS zone transfers.
-
 - E-mail reconnaissance - repeated failed attempts to variations of a user's name may give away information about infrastructure.
-
 - Ping sweeping - pinging multiple hosts on a network in succession in an attempt to enumerate information about infrastructure and placement of devices.
-
 - Web snaking - multiple ‘Get’ commands that download the entire contents of a website and attempt to enumerate subdirectories or download scripts.
-
 - CPU Usage and memory leaks on servers
-
 - Unauthorized modification of system and configuration files
 
 **7.7 Advanced Traffic Filtering**
