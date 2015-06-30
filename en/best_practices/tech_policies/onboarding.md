@@ -1,4 +1,3 @@
-####Staff Onboarding & Departure Policy
 Staff onboarding presents a unique opportunity for a system administrator to educate incoming employees on IT security best practices and influence them on adopting digital hygiene from the onset. 
 
 Some best practices in this regard include: 
