@@ -229,3 +229,11 @@
 - [National Network to End Domestic Violence: Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors):](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
 - [NIST, Security Considerations in the System Development Life Cycle:](http://csrc.nist.gov/publications/nistpubs/800-64-Rev2/SP800-64-Revision2.pdf)
 - [NIST, Guidelines on Security and Privacy in Public Cloud Computing:](http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf)
+
+####Chapter 10- Physical Security####
+-   [SANS Institute, System Administrator - Security Best Practices:](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
+-   [SANS Institute, Computer Rooms - meet the physical security measures:](http://www.giac.org/paper/gsec/2892/computer-rooms-meet-physical-security-measures/104866)
+-   [University of Florida, Physical Security of Server Rooms:](https://security.ufl.edu/wp-content/uploads/2013/09/PS0002-02.pdf)
+-   [MIT, Protecting Devices:](https://ist.mit.edu/security/devices)
+-   [Security-in-a-Box:](https://info.securityinabox.org/default/chapter\_2\_3)
+-   [SANS Institute, Penetration Tests and Red Team Exercises:](https://www.sans.org/critical-security-controls/control/20)
