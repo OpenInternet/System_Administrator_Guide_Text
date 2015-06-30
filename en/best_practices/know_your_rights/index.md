@@ -25,47 +25,28 @@ In view of the complex patchwork of data security and privacy laws, taking preve
 
 **Recommended Reading**
 
-- [ICNL, NGO Law Monitor:](http://www.icnl.org/research/monitor/)
-
-- [UN ITU, Cyberwellness Profiles:](http://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx)
-
-- [Freedom House, Freedom on the Net:](https://www.freedomhouse.org/report/freedom-net/2014/tightening-net-governments)
-
-- [New America, Ranking Digital Rights – Ranking ICT sector companies on respect for free expression and privacy:](https://rankingdigitalrights.org)
-
-- [Encryption and International Travel, Princeton University:](https://www.princeton.edu/itsecurity/encryption/encryption-and-internatio/)
-
-- [ONI, Country Profiles:](https://opennet.net/research/profiles)
-
-- [RedLatAm:](https://redlatam.org/es/country)
-
-- [Internews, SAFETAG - Threats by region:](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md)
-
+- [ICNL, NGO Law Monitor](http://www.icnl.org/research/monitor/)
+- [UN ITU, Cyberwellness Profiles](http://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx)
+- [Freedom House, Freedom on the Net](https://www.freedomhouse.org/report/freedom-net/2014/tightening-net-governments)
+- [New America, Ranking Digital Rights – Ranking ICT sector companies on respect for free expression and privacy](https://rankingdigitalrights.org)
+- [Encryption and International Travel, Princeton University](https://www.princeton.edu/itsecurity/encryption/encryption-and-internatio/)
+- [ONI, Country Profiles](https://opennet.net/research/profiles)
+- [RedLatAm](https://redlatam.org/es/country)
+- [Internews, SAFETAG - Threats by region](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md)
 - [Internews, SAFETAG - Threats by focus area:](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_focus_area.md)
-
-- [Global Network Initiative, Protecting and Advancing Freedom of Expression and Privacy in the ICT sector:](https://www.globalnetworkinitiative.org)
-
-- [Human Rights Watch, Cynthia Wong, “They Know Everything We Do”:](http://www.hrw.org/reports/2014/03/25/they-know-everything-we-do)
-
-- [Index on Censorship, Mapping Media Freedom:](https://mappingmediafreedom.org/)
-
-- [Columbia University, Global Freedom of Expression:](https://globalfreedomofexpression.columbia.edu/)
+- [Global Network Initiative, Protecting and Advancing Freedom of Expression and Privacy in the ICT sector](https://www.globalnetworkinitiative.org)
+- [Human Rights Watch, Cynthia Wong, “They Know Everything We Do”](http://www.hrw.org/reports/2014/03/25/they-know-everything-we-do)
+- [Index on Censorship, Mapping Media Freedom](https://mappingmediafreedom.org/)
+- [Columbia University, Global Freedom of Expression](https://globalfreedomofexpression.columbia.edu/)
 
 
 **Chapter References**
 
-- [Digital Media Law Project, Berkman Center for Internet & Society:](http://www.dmlp.org/legal-guide/responding-legal-threats)
-
+- [Digital Media Law Project, Berkman Center for Internet & Society](http://www.dmlp.org/legal-guide/responding-legal-threats)
 - [EFF, Legal Guide for Bloggers](https://www.eff.org/issues/bloggers/legal)
-
 - [BBC, How to avoid libel & defamation](http://www.bbc.co.uk/dna/collective/A1183394)
-
 - [EFF, How to Blog Safely](https://www.eff.org/wp/blog-safely)
-
 - [Law Society, Information Security](http://www.lawsociety.org.uk/support-services/advice/practice-notes/information-security/)
-
 - [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
-
 - [Lifehacker, Daniel Mathews, Even Learning About Encryption in Australia will soon be Illegal](http://www.lifehacker.com.au/2015/05/even-learning-about-encryption-in-australia-will-soon-be-illegal/)
-
 - [National Defense Industrial Association](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1)
