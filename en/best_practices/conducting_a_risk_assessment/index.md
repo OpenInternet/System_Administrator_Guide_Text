@@ -59,7 +59,7 @@ Since risks will differ according to the unique context of your country, the pat
 
 Based on your specific scenario, the list of potential risks can be overwhelming and can create a sense of “panic” among staff who may feel paralyzed by existing vulnerabilities that need to be addressed, especially if capacities are hugely lacking.
 
-As such, as a next step, it’s imperative to assess the probability and impact of these risks. Mapping these risks against a Risk Matrix will help you prioritize the areas where most attention is required, without overwhelming staff, business processes and limited resources.
+As such, as a next step, it’s imperative to assess the probability and impact of these risks. Mapping these risks against a Risk Matrix [^risk_matrix] will help you prioritize the areas where most attention is required, without overwhelming staff, business processes and limited resources.
 
 ![Risk Matrix](images/risk_matrix.png)
 
