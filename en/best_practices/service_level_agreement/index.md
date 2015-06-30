@@ -69,9 +69,5 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
 - EEF’s Guide on choosing a web host: https://www.eff.org/keeping-your-site-alive/choosing-a-web-host
 - Guide to Selecting Information Technology Security Products, NIST: http://csrc.nist.gov/publications/nistpubs/800-36/NIST-SP800-36.pdf 
 
-####Chapter References####
-- Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives: http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives
-- ITDonut Resources: http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement 
-- Biztree.com: http://www.biztree.com/doc/service-level-agreement-D778
-- TidyForm.com: http://www.tidyform.com/service-level-agreement.html
+
 
