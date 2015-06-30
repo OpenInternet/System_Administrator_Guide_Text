@@ -15,17 +15,11 @@ When working with users at a media or a human rights organization, it’s impera
 Here are some best practices when instituting Full Disk Encryption (FDE):
 
 - Prep the machine: Before enabling encryption on the HDD, ensure the machine is clean and running properly beforehand. It’s essential that there are no disk problems that would render code specific to the encryption engine to be unreadable.
-
 - Its recommended to defragment the hard drive, run checkdisk several times, back up the data, administer all patches and optimize performance before encrypting.
-
 - Test the waters: Test encryption on a few “pilot” testers - these could be your tech champions to iron out the kinks, gauge user resistance and the scope of the full deployment, before instituting FDE across the organization. (Refer to Chapter 3 for change management best practices).
-
 - Don’t underestimate deployment time; enabling FDE takes time, especially for large drives. A good rule of thumb is that it takes anywhere between 4-6 hours depending on the size of the HDD for the software to encrypt the drive.
-
 - Check for interference with other applications. Another reason for a pilot test is to identify if there is device-driver or BIOS interference between the encryption software and other applications. Run tests for the various operating systems of devices on your network as not all of them may be compatible with your FDE solution.
-
 - Ensure users are employing secure storage practices & strong creation policies for their pre-boot password.
-
 - Key recovery: Help users understand the implications if they forget their pre-boot password. Ensure that they have a mechanism of regularly backing-up their data, in case their device needs to be re-formatted in order to start from scratch without the pre-boot password. (Special considerations needed to put in place when staff use personal devices for work purposes that do not automatically connect to the network backup system). You may consider implementing “key escrow” for encryption keys associated with work devices. However, careful mechanisms needs to be put in place to ensure that escrowed keys are kept super secure, and a policy is defined and clearly communicated with respect to key access request (for example: a supervisor cannot access their subordinate’s data without prior permission) and the responsibility of the technical person in charge of granting access.
 
 **6.1.ii Encrypt passwords**
