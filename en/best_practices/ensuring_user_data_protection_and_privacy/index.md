@@ -1,4 +1,4 @@
-##Ensuring User Data Protection & Privacy##
+##Ensuring User Data Protection & Privacy## {#chapter6}
 
 While access to sensitive data on the network is governed via “Access Control” (Refer to Chapter 7 on Network Security), you can assist with additional privacy to users by ensuring they adopt the following secure data communication & storage practices, provided these practices constitute approaches identified during the organization’s Risk Assessment (Refer to Chapter 1). Keep laws & regulations related to encryption in mind before recommending these best practices.
 
