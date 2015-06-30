@@ -5,7 +5,7 @@ A Service Level Agreement (SLA, for short) is a legal document that explains wha
 
 Your SLA plays an important role in defining the relationship between you and your IT service provider. It guarantees you a certain level of service, giving you confidence that if something goes wrong, the service provider will respond quickly. Without a comprehensive SLA in place, you are unlikely to have much leverage if your IT service provider fails to respond to your requests.
 
-####Best Practices####
+####Best Practices#### [^agreement_components]
 
 **5.1 Uptime**
 
@@ -65,24 +65,24 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
     - [Hover.com](https://www.hover.com)
     - [Google Apps](https://support.google.com/a/answer/53929?hl=en)
 - Secure Hosting:
-    - [Greenhost.nl:](https://greenhost.net)
-    - [Team Cymru:](www.team-cymru.org)
-    - [VirtualRoad/Qurium:](https://www.qurium.org/services/)
+    - [Greenhost.nl](https://greenhost.net)
+    - [Team Cymru](www.team-cymru.org)
+    - [VirtualRoad/Qurium](https://www.qurium.org/services/)
 - DDOS protection:
-    - [Deflect by Equalit.ie:](https://www.deflect.ca)
-    - [Project Shield by Google:](https://projectshield.withgoogle.com/public)
-    - [Project Galileo by Cloudflare:](https://www.cloudflare.com/galileo)
+    - [Deflect by Equalit.ie](https://www.deflect.ca)
+    - [Project Shield by Google](https://projectshield.withgoogle.com/public)
+    - [Project Galileo by Cloudflare](https://www.cloudflare.com/galileo)
 
 
 ####Recommended Reading####
 
-- [Internews, My Website is Down:](https://github.com/OpenInternet/MyWebsiteIsDown/blob/master/MyWebsiteIsDown.md)
-- [EEF’s Guide on choosing a web host:](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
+- [Internews, My Website is Down](https://github.com/OpenInternet/MyWebsiteIsDown/blob/master/MyWebsiteIsDown.md)
+- [EEF’s Guide on choosing a web host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - [Guide to Selecting Information Technology Security Products, NIST:](http://csrc.nist.gov/publications/nistpubs/800-36/NIST-SP800-36.pdf)
 
 ####Chapter References####
 
-- [Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives:](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives)
-- [ITDonut Resources:](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
-- [Biztree.com:](http://www.biztree.com/doc/service-level-agreement-D778)
-- [TidyForm.com:](http://www.tidyform.com/service-level-agreement.html)
+- [Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives)
+- [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
+- [Biztree.com](http://www.biztree.com/doc/service-level-agreement-D778)
+- [TidyForm.com](http://www.tidyform.com/service-level-agreement.html)

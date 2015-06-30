@@ -18,8 +18,6 @@ author: 'Mahvash Taqi'
 
 [System Administrator Code of Ethics](#ethics)
 
-##Best Practices##
-
 [Chapter 1 - Conducting a Risk Assessment](#chapter1)
 
 - Understanding the various elements
@@ -44,7 +42,7 @@ author: 'Mahvash Taqi'
 [Chapter 3-Staff Awareness & Communication](#chapter3)
 
 - 3.1 Usage Policies
-- 3.2 Relationship with “privileged” users
+- 3.2 Identifying ‘privileged’ users
 - 3.3 Change Management Plan
 - 3.4 Communication & Training
 - 3.4.i Communication
@@ -57,7 +55,7 @@ author: 'Mahvash Taqi'
 
 [Chapter 4- Budgeting for Security](#chapter4)
 
-- 4.1 Create a business case for investment in cyber security
+- 4.1 Make a case for including Security as a line item in the overall organization’s budget 
 - 4.2 IT Budget - Do’s and Don’ts
 - 4.3 Security Program Metrics
 - 4.4 Communication with decision-makers

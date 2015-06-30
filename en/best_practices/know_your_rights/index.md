@@ -10,7 +10,7 @@ Furthermore, there are various laws in place to safeguard personal identifyable 
 
 In addition, under other US state laws, including California, Massachusetts, and Maryland, if your organization uses a nonaffiliated third party to perform services (for example: cloud-based donor management database or employee records management database) and if you disclose personal information about a resident of that state under a written contract, then your organization must by contract require the third party to implement and maintain its own reasonable and appropriate security procedures and practices to help protect personal information from unauthorized access, use, modification, disclosure or destruction.  Since many nonprofit organizations strive for a national or international membership base, and most also outsource important functions that provide third party service providers with access to personal information via cloud computing services, these nonprofit organizations are subject to those requirements.
 
-As such, it’s imperative to understand the legal IT aspects of operating within your local context. Here are a few suggestions to keep in mind:
+As such, it’s imperative to understand the legal IT aspects of operating within your local context. Here are a few suggestions [^rights_suggestions] to keep in mind:
 
 **Learn**: Know the laws that apply to you and what they require you to do. While the resources listed under the “Recommended Reading” section can aid you with initial research, they are not intended to be comprehensive  – rather, an essential step is to consult with a local lawyer to understand the true impact of local, national and international laws while designing an effective information and communication security system for your organization.
 
@@ -24,48 +24,27 @@ As such, it’s imperative to understand the legal IT aspects of operating withi
 In view of the complex patchwork of data security and privacy laws, taking preventive measures to minimize the likelihood or scope of run-ins with the law by establishing appropriate tech policies and contingency plans will ensure legal compliance and will result in a positive outcome for all stakeholders, your organization and its mission.
 
 **Recommended Reading**
-
-- [ICNL, NGO Law Monitor:](http://www.icnl.org/research/monitor/)
-
-- [UN ITU, Cyberwellness Profiles:](http://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx)
-
-- [Freedom House, Freedom on the Net:](https://www.freedomhouse.org/report/freedom-net/2014/tightening-net-governments)
-
-- [New America, Ranking Digital Rights – Ranking ICT sector companies on respect for free expression and privacy:](https://rankingdigitalrights.org)
-
-- [Encryption and International Travel, Princeton University:](https://www.princeton.edu/itsecurity/encryption/encryption-and-internatio/)
-
-- [ONI, Country Profiles:](https://opennet.net/research/profiles)
-
-- [RedLatAm:](https://redlatam.org/es/country)
-
-- [Internews, SAFETAG - Threats by region:](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md)
-
+- [ICNL, NGO Law Monitor](http://www.icnl.org/research/monitor/)
+- [UN ITU, Cyberwellness Profiles](http://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx)
+- [Freedom House, Freedom on the Net](https://www.freedomhouse.org/report/freedom-net/2014/tightening-net-governments)
+- [New America, Ranking Digital Rights – Ranking ICT sector companies on respect for free expression and privacy](https://rankingdigitalrights.org)
+- [Encryption and International Travel, Princeton University](https://www.princeton.edu/itsecurity/encryption/encryption-and-internatio/)
+- [ONI, Country Profiles](https://opennet.net/research/profiles)
+- [RedLatAm](https://redlatam.org/es/country)
+- [Internews, SAFETAG - Threats by region](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md)
 - [Internews, SAFETAG - Threats by focus area:](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_focus_area.md)
-
-- [Global Network Initiative, Protecting and Advancing Freedom of Expression and Privacy in the ICT sector:](https://www.globalnetworkinitiative.org)
-
-- [Human Rights Watch, Cynthia Wong, “They Know Everything We Do”:](http://www.hrw.org/reports/2014/03/25/they-know-everything-we-do)
-
-- [Index on Censorship, Mapping Media Freedom:](https://mappingmediafreedom.org/)
-
-- [Columbia University, Global Freedom of Expression:](https://globalfreedomofexpression.columbia.edu/)
+- [Global Network Initiative, Protecting and Advancing Freedom of Expression and Privacy in the ICT sector](https://www.globalnetworkinitiative.org)
+- [Human Rights Watch, Cynthia Wong, “They Know Everything We Do”](http://www.hrw.org/reports/2014/03/25/they-know-everything-we-do)
+- [Index on Censorship, Mapping Media Freedom](https://mappingmediafreedom.org/)
+- [Columbia University, Global Freedom of Expression](https://globalfreedomofexpression.columbia.edu/)
 
 
 **Chapter References**
-
-- [Digital Media Law Project, Berkman Center for Internet & Society:](http://www.dmlp.org/legal-guide/responding-legal-threats)
-
-- [EFF, Legal Guide for Bloggers:](https://www.eff.org/issues/bloggers/legal)
-
-- [BBC, How to avoid libel & defamation:](http://www.bbc.co.uk/dna/collective/A1183394)
-
-- [EFF, How to Blog Safely:](https://www.eff.org/wp/blog-safely)
-
-- [Law Society, Information Security:](http://www.lawsociety.org.uk/support-services/advice/practice-notes/information-security/)
-
-- [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks? http:](/www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
-
-- [Lifehacker, Daniel Mathews, Even Learning About Encryption in Australia will soon be Illegal:](http://www.lifehacker.com.au/2015/05/even-learning-about-encryption-in-australia-will-soon-be-illegal/)
-
-- [National Defense Industrial Association:](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1)
+- [Digital Media Law Project, Berkman Center for Internet & Society](http://www.dmlp.org/legal-guide/responding-legal-threats)
+- [EFF, Legal Guide for Bloggers](https://www.eff.org/issues/bloggers/legal)
+- [BBC, How to avoid libel & defamation](http://www.bbc.co.uk/dna/collective/A1183394)
+- [EFF, How to Blog Safely](https://www.eff.org/wp/blog-safely)
+- [Law Society, Information Security](http://www.lawsociety.org.uk/support-services/advice/practice-notes/information-security/)
+- [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
+- [Lifehacker, Daniel Mathews, Even Learning About Encryption in Australia will soon be Illegal](http://www.lifehacker.com.au/2015/05/even-learning-about-encryption-in-australia-will-soon-be-illegal/)
+- [National Defense Industrial Association](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1)

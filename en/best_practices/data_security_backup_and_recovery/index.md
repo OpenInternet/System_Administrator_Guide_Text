@@ -20,7 +20,6 @@ In addition, based on your organization’s Risk Assessment (Refer to Chapter 1)
 
 *Backup Strategy*
 
-
 Based on the classification of data (emails, documents, employee records, tax & other legal records, contacts, chats) across the organization and the sensitivity assigned to each data set, you may create a backup plan that aligns with your organization’s need and the allocated data sensitivity.
 
 A good backup plan = encryption + the 3-2-1 rule
@@ -43,7 +42,7 @@ In addition, a backup plan should:
 
 Below is a typical tape backup rotation strategy, however, you may adopt a more aggressive approach of more frequent backups and segregated tapes for sensitive data as part of your backup plan.
 
-Typical Tape Backup Rotation Strategy
+*Typical Tape Backup Rotation Strategy*
 
 - To conserve tapes, maintain simplicity and insure sufficient retention of history, a five-day tape rotation schedule should be implemented using a different tape for each day of the week and each Friday (week-ending). Weekday tapes are retained for one month.
 - The tape used on the last day of the month is rotated out of service and retained for 12 months. At the end of each year, the tape used on the last backup of the year is rotated out and retained indefinitely. Using this schedule, any file that is stored longer than one day, but not past Friday backup, will be recoverable if restore is requested within five business days of creation date.
@@ -77,7 +76,7 @@ Don’t wait until a disaster to test out your Disaster Recovery plan: Frequent 
 - The ability to recover at an alternate site.
 - The ability to reconstruct systems from backups.
 
-**ADD IMAGE**
+![Disaster Recovery Plan](images/disaster_recovery.png)
 
 **8.4 Data Retention, Archiving and Disposal**
 
@@ -101,62 +100,50 @@ As security provisions will be unique to each scenario, it’s important to inst
 
 **8.7 Physical Access and Security**
 
-Storage of Backup Tapes
+*Storage of Backup Tapes*: Ensure that all backups are properly labeled and provisions to transport them to a secure, off-site location are made. An off-site backup location may be a storage service provider or the home of the executive director or lead systems administrator.
 
-Ensure that all backups are properly labeled and provisions to transport them to a secure, off-site location are made. An off-site backup location may be a storage service provider or the home of the executive director or lead systems administrator.
-
-When backups are stored at an off-site backup storage service provider, it’s imperative to understand service level agreement with this vendor and their liability to safeguard your data (Refer to Chapter 5). When backup media is stored in the home of a key stakeholder, ensure they understand the implications of safeguarding these tapes.
-
-Ensure that all backup media is kept in a fireproof safe or other tamper-proof/element resistant mechanism to prevent damage from theft, fire or floods.
+When backups are stored at an off-site backup storage service provider, it’s imperative to understand service level agreement with this vendor and their liability to safeguard your data (Refer to Chapter 5). When backup media is stored in the home of a key stakeholder, ensure they understand the implications of safeguarding these tapes.Ensure that all backup media is kept in a fireproof safe or other tamper-proof/element resistant mechanism to prevent damage from theft, fire or floods.
 
 Finally, verify that the offsite storage facilities for backups are included in disaster recovery/contingency plan.
 
-Prevention against Data Leaks
+*Prevention against Data Leaks*: In order to protect against “Insider Threats” of accidental data leakage, ensure there is an “Access Control” policy in place (Refer to Chapter 7 on Network Security)
 
-In order to protect against “Insider Threats” of accidental data leakage, ensure there is an “Access Control” policy in place (Refer to Chapter 7 on Network Security)
+*Chain of Custody*: When working with a team of system administrators, create a “chain of custody” - this details who has physical access to the data tapes at any given time. The chain of custody would also detail a “check-in/check-out” procedure for access to the backup media.
 
-Chain of Custody
+*Facility Construction*: The physical construction of the facility where your data will be stored is an important consideration as well. Plan against adverse scenarios like natural calamities such as fire, floods, or political discord (bombings, riots, curfew). Creating a disaster recovery and a communication plan will keep key stakeholders (Executive Director, Finance & HR Director) informed about the next steps in case of an emergency.
 
-When working with a team of system administrators, create a “chain of custody” - this details who has physical access to the data tapes at any given time. The chain of custody would also detail a “check-in/check-out” procedure for access to the backup media.
-
-Facility Construction
-
-The physical construction of the facility where your data will be stored is an important consideration as well. Plan against adverse scenarios like natural calamities such as fire, floods, or political discord (bombings, riots, curfew). Creating a disaster recovery and a communication plan will keep key stakeholders (Executive Director, Finance & HR Director) informed about the next steps in case of an emergency.
-
-Office Raid
-
-While planning against an office raid by government officials, refer to Chapter 10: Physical Security.
+*Office Raid*: While planning against an office raid by government officials, refer to Chapter 10: Physical Security.
 
 ####Tools & Templates####
 
-- [Backup for Windows:](https://securityinabox.org/en/guide/cobian/windows)
-- [Secure File Storage, TrueCrypt:](https://securityinabox.org/en/guide/truecrypt/windows#601)
-- [Secure deletion tool - Eraser:](https://securityinabox.org/en/guide/eraser/windows)
-- [Windows Bitlocker:](http://windows.microsoft.com/en-us/windows7/products/features/bitlocker)
-- [TechTarget - IT Disaster Recovery Plan Template By Paul Kirvan, CISA, CISSP, FBCI, CBCP:](http://searchdisasterrecovery.techtarget.com/feature/IT-disaster-recovery-DR-plan-template-A-free-download-and-guide)
+- [Backup for Windows](https://securityinabox.org/en/guide/cobian/windows)
+- [Secure File Storage, TrueCrypt](https://securityinabox.org/en/guide/truecrypt/windows#601)
+- [Secure deletion tool - Eraser](https://securityinabox.org/en/guide/eraser/windows)
+- [Windows Bitlocker](http://windows.microsoft.com/en-us/windows7/products/features/bitlocker)
+- [TechTarget - IT Disaster Recovery Plan Template By Paul Kirvan, CISA, CISSP, FBCI, CBCP](http://searchdisasterrecovery.techtarget.com/feature/IT-disaster-recovery-DR-plan-template-A-free-download-and-guide)
 
 ####Recommended Reading####
 
-- [TechRepublic, 10 things you should know about deploying a UPS:](http://www.techrepublic.com/article/10-things-you-should-know-about-deploying-a-ups/)
-- [TechTarget, How to choose the right uninterruptible power supply for your data center:](http://searchdatacenter.techtarget.com/tip/How-to-choose-the-right-uninterruptible-power-supply-for-your-data-center)
-- [NIST, Guidelines on Security and Privacy in Public Cloud Computing:](http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf)
+- [TechRepublic, 10 things you should know about deploying a UPS](http://www.techrepublic.com/article/10-things-you-should-know-about-deploying-a-ups/)
+- [TechTarget, How to choose the right uninterruptible power supply for your data center](http://searchdatacenter.techtarget.com/tip/How-to-choose-the-right-uninterruptible-power-supply-for-your-data-center)
+- [NIST, Guidelines on Security and Privacy in Public Cloud Computing](http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf)
 
 ####Chapter References####
 
-- [NIST Contingency Planning Guide for Federal Information Systems:](http://csrc.nist.gov/publications/nistpubs/800-34-rev1/sp800-34-rev1_errata-Nov11-2010.pdf)
-- [SANS Institute- Disaster Recovery Plan Strategies and Processes:](http://www.sans.org/reading-room/whitepapers/recovery/disaster-recovery-plan-strategies-processes-564)
-- [Internews, SaferJourno:](https://saferjourno.internews.org)
-- [ComputerWeekly:](http://www.computerweekly.com/feature/How-to-write-a-disaster-recovery-plan-and-define-disaster-recovery-strategies)
-- [SANS Institute- Essential Information Security:](http://www.sans.org/reading-room/whitepapers/awareness/essential-information-security-corporate-employees-1179)
-- [Texas A&M Information Technology Disaster Recovery Plan:](https://www.tamuct.edu/departments/informationtechnology/extras/ITDisasterRecoveryPlan.pdf)
-- [Online Trust Alliance:](https://otalliance.org/resources/security-privacy-best-practices)
-- [BlackStratus:](http://www.blackstratus.com/blog/practices-maintaining-data-security-business-environment/)
-- [ZDNet:](http://www.zdnet.com/article/10-security-best-practice-guidelines-for-businesses/)
-- [Interactive Advertising Bureau (IAB):](http://www.iab.net/guidelines/508676/508905/data_security)
-- [FoxBusiness:](http://smallbusiness.foxbusiness.com/technology-web/2014/06/19/data-security-best-practices/)
-- [Microsoft, Best Practices for Enterprise Security:](https://msdn.microsoft.com/en-us/library/cc750076.aspx)
-- [Microsoft, Data Security and Data Availability in the Administrative Authority:](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
-- [DisasterRecovery.org:](http://www.disasterrecovery.org/it_network_dr.html)
+- [NIST Contingency Planning Guide for Federal Information Systems](http://csrc.nist.gov/publications/nistpubs/800-34-rev1/sp800-34-rev1_errata-Nov11-2010.pdf)
+- [SANS Institute- Disaster Recovery Plan Strategies and Processes](http://www.sans.org/reading-room/whitepapers/recovery/disaster-recovery-plan-strategies-processes-564)
+- [Internews, SaferJourno](https://saferjourno.internews.org)
+- [ComputerWeekly](http://www.computerweekly.com/feature/How-to-write-a-disaster-recovery-plan-and-define-disaster-recovery-strategies)
+- [SANS Institute- Essential Information Security](http://www.sans.org/reading-room/whitepapers/awareness/essential-information-security-corporate-employees-1179)
+- [Texas A&M Information Technology Disaster Recovery Plan](https://www.tamuct.edu/departments/informationtechnology/extras/ITDisasterRecoveryPlan.pdf)
+- [Online Trust Alliance](https://otalliance.org/resources/security-privacy-best-practices)
+- [BlackStratus](http://www.blackstratus.com/blog/practices-maintaining-data-security-business-environment/)
+- [ZDNet](http://www.zdnet.com/article/10-security-best-practice-guidelines-for-businesses/)
+- [Interactive Advertising Bureau (IAB)](http://www.iab.net/guidelines/508676/508905/data_security)
+- [FoxBusiness](http://smallbusiness.foxbusiness.com/technology-web/2014/06/19/data-security-best-practices/)
+- [Microsoft, Best Practices for Enterprise Security](https://msdn.microsoft.com/en-us/library/cc750076.aspx)
+- [Microsoft, Data Security and Data Availability in the Administrative Authority](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
+- [DisasterRecovery.org](http://www.disasterrecovery.org/it_network_dr.html)
 - [Disaster Recovery Guide](:http://www.disaster-recovery-guide.com/)
-- [Indiana university:](https://kb.iu.edu/d/akln)
-- [Ready.gov- IT Disaster Recovery Plan:](http://www.ready.gov/business/implementation/IT)
+- [Indiana university](https://kb.iu.edu/d/akln)
+- [Ready.gov- IT Disaster Recovery Plan](http://www.ready.gov/business/implementation/IT)

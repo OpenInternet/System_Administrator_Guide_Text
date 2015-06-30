@@ -1,5 +1,3 @@
-###Traveller’s Policy###
-
 The mitigation strategy for travel-related risks will depend on your organization’s unique scenario and associated threats identified (via a Risk Assessment- refer to Chapter 1). Consider your organization’s resources (budget) and capacity while implementing the following suggested best practices that are appropriate for your organization: 
 - Given your organization’s budget (Refer to Chapter 4- Budgeting for Security to make the business case), consider offering a loaner device to your staff instead of their main device (laptop and phone). 
 

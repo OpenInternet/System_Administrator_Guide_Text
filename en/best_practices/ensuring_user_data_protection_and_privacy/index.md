@@ -10,7 +10,7 @@ Data-at-Rest refers to user information stored on their devices, in external har
 
 When working with users at a media or a human rights organization, it’s imperative to safeguard their information on their devices. Having made the business case for encrypting data (Refer to Chapter 1 for Risk Assessment) and after taking into consideration laws governing your organization (Refer to Chapter 11- Know Your Rights), institute the policy to encrypt all hard-drives to plan against stolen or confiscated devices.
 
-Full disk encryption (FDE) enables strong encryption algorithms to automatically protect all data stored on the hard drive of user’s PCs and laptops. With FDE, data is encrypted automatically when it's stored on the hard disk. This is different from file or folder encryption systems, where it's up to the user to decide which data needs encrypting. FDE's biggest advantage is that there's no room for error if users don't abide by or don't understand encryption policies.
+Full disk encryption (FDE) enables strong encryption algorithms to automatically protect all data stored on the hard drive of user’s PCs and laptops. With FDE, data is encrypted automatically when it's stored on the hard disk. This is different from file or folder encryption systems, where it's up to the user to decide which data needs encrypting. FDE's biggest advantage is that there's no room for error if users don't abide by or don't understand encryption policies. [^FDE]
 
 Here are some best practices when instituting Full Disk Encryption (FDE):
 
@@ -96,9 +96,7 @@ An end-user’s unique scenario, with its associated threats and adversaries, ma
 With shoes recording our steps during a workout and watches monitoring our heart rate, smart devices have tightly integrated into our daily lives. And by design, they have access to our personal information such as location, contacts, photos & in some cases, even emails. Its hard to truly evaluate the private data that these device providers and apps are collecting. As the consumer market continues to get flooded with even more smart devices, its imperative to discuss this new expanded “information ecosystem” with your end-user and discuss measures they need to put in place to ensure their data privacy.
 
 For Mobile security, refer to Security-in-a-Box’s guides on phone security:
-
 - [https://securityinabox.org/en/guide/mobile-phones](https://securityinabox.org/en/guide/mobile-phones)
-
 - [https://securityinabox.org/en/guide/smartphones](https://securityinabox.org/en/guide/smartphones)
 
 ###6.5 Reading the “fine print”####
@@ -106,59 +104,33 @@ For Mobile security, refer to Security-in-a-Box’s guides on phone security:
 Help create a holistic security environment for users by educating them on reviewing “terms and conditions”, especially as they related to their data and its privacy and security, when signing up for tech services (email, social network sites or cloud services), smart devices or when downloading apps.
 
 ###Tools & Templates###
-
-- [Anonymous web browsing:](https://www.torproject.org/)
-
-- [Secure Email & mailing lists: Riseup.net:](https://help.riseup.net)
-
+- [Anonymous web browsing](https://www.torproject.org/)
+- [Secure Email & mailing lists: Riseup.net](https://help.riseup.net)
 - Encrypted cloud data storage: SpiderOak, all data on servers is encrypted and cannot be viewed by the sysadmins.
-
 - Secure Text Messaging Apps: TextSecure, Signal, Telegram
-
 - Encrypted phone calls: Redphone, Signal, Ostel
-
-- [Secure web browsing: HTTPS everywhere:](https://www.eff.org/https-everywhere)
-
-- [SparkleShare.org File Synchronization:](http://sparkleshare.org/)
+- [Secure web browsing: HTTPS everywhere](https://www.eff.org/https-everywhere)
+- [SparkleShare.org File Synchronization](http://sparkleshare.org/)
 
 ###Recommended Reading###
-
-- [Internews, SpeakSafe:](https://speaksafe.internews.org/)
-
-- [Tactical Tech's Security-in-a-Box:](https://securityinabox.org/en)
-
-- [Frontline Defenders: Practical Steps for Human Rights Defenders at Risk:](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
-
-- [Internews, SaferJourno:](https://saferjourno.internews.org/)
-
-- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders:](https://www.frontlinedefenders.org/esecman/)
-
-- [BetterCrypto.org, Applied Crypto Hardening:](https://bettercrypto.org/static/applied-crypto-hardening.pdf)
+- [Internews, SpeakSafe](https://speaksafe.internews.org/)
+- [Tactical Tech's Security-in-a-Box](https://securityinabox.org/en)
+- [Frontline Defenders: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+- [Internews, SaferJourno](https://saferjourno.internews.org/)
+- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
+- [BetterCrypto.org, Applied Crypto Hardening](https://bettercrypto.org/static/applied-crypto-hardening.pdf)
 
 ###Chapter References###
-
-- [Wired, March 2015:](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
-
-- [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls:](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
-
-- [LiUtilities.com: How to Encrypt a Wireless Router:](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
-
+- [Wired, March 2015](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
+- [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
+- [LiUtilities, How to Encrypt a Wireless Router](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
 - [OnGuardOnline.Gov: Securing Your Wireless Network:](http://www.onguardonline.gov/articles/0013-securing-your-wireless-network)
-
-- [CSOOnline - Full Disk Encryption Dos and Don'ts:](http://www.csoonline.com/article/2124486/data-protection/full-disk-encryption-dos-and-don-ts.html?page=2)
-
-- [PCWorld- How to encrypt your email:](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
-
-- [OnGuardOnline.Gov: Tips for Using Public Wi-Fi Networks:](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
-
-- [National Network to End Domestic Violence:](http://tools.nnedv.org/tipsheets-charts)
-
-- [Internews, SpeakSafe:](https://speaksafe.internews.org/)
-
-- [Tactical Tech'sSecurity-in-a-Box:](https://securityinabox.org/en)
-
-- [FrontlineDefenders: Practical Steps for Human Rights Defenders at Risk:](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
-
-- [Internews, SaferJourno:](https://saferjourno.internews.org/)
-
-- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders:](https://www.frontlinedefenders.org/esecman/)
+- [CSOOnline - Full Disk Encryption Dos and Don'ts](http://www.csoonline.com/article/2124486/data-protection/full-disk-encryption-dos-and-don-ts.html?page=2)
+- [PCWorld- How to encrypt your email](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
+- [OnGuardOnline.Gov: Tips for Using Public Wi-Fi Networks](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
+- [National Network to End Domestic Violence](http://tools.nnedv.org/tipsheets-charts)
+- [Internews, SpeakSafe](https://speaksafe.internews.org/)
+- [Tactical Tech'sSecurity-in-a-Box](https://securityinabox.org/en)
+- [FrontlineDefenders: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+- [Internews, SaferJourno](https://saferjourno.internews.org/)
+- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)

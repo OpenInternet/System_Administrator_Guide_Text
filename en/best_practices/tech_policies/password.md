@@ -1,4 +1,3 @@
-####Password Policy
 Across our digital assets (devices and online accounts), passwords are the modus operandi of gaining access to authorized content. They are our first line-of-defense in preventing unauthorized access to content & devices and as such, they deserve the required attention & thought-process beyond the careless, easy-to-remember, 6 character ritual that most users adopt, viewing passwords as an hindrance to access. 
 
 A password policy is a set of rules which are created to improve computer security by preventing unauthorized access and by motivating users to create dependable, secure passwords; storing and utilizing them properly.
@@ -16,7 +15,7 @@ Users should be reminded against:
 - Using the same password across all their digital assets
 - Not logging out of online accounts, especially when using public computers 
 
-**ADD IMAGE**
+![Passphrase](images/passphrase.png)
 
 **User Account Maintenance**
 - Ensure that all user ids belong to currently authorized users; user ids that are inactive for 90 days must be disabled - be sure to add this task to your daily checklist 

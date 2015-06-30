@@ -21,7 +21,7 @@
 
 !INCLUDE "dataprivacy.md"
 
-### BYOD Policy {#tpbyod}
+### BYOD (Bring Your Own Device) Policy {#tpbyod}
 
 !INCLUDE "byod.md"
 
