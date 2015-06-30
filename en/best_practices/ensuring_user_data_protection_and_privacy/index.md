@@ -60,11 +60,11 @@ If staff leave the connection from their device unencrypted while checking email
 - Enable WAP2 to encrypt the wifi connection in the office. For added security, set up a segregated wifi connection for guest versus staff (Refer to chapter 7 - Network Security for best practices in
 securing wifi).
 
-- Installing browser plug-ins such as HTTPS-Everywhere forces the browser to use encryption on popular websites that usually aren't encrypted, thus making the web more secure. Look for https in the URL to know for sure that a site is secure.
+- Installing browser plug-ins such as HTTPS-Everywhere forces the browser to use encryption on popular websites that usually aren't encrypted, thus making the web more secure. Look for https in the URL to know for sure that a site is secure. [^email_settings] 
 
 ![HTTPS Icon](images/ssl_gmail.png)
 
-Most email clients such as (Microsoft Outlook) have built-in settings to ensure a secure encrypted connection is established, enable these settings during the configuration of the email client on their devices.
+Most email clients such as (Microsoft Outlook) have built-in settings [^email_settings] to ensure a secure encrypted connection is established, enable these settings during the configuration of the email client on their devices.
 
 ![HTTPS Email checkbox](images/SSL_email.png)
 
