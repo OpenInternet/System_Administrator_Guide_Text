@@ -18,7 +18,7 @@ author: 'Mahvash Taqi'
 
 [System Administrator Code of Ethics](#ethics)
 
-Best Practices
+##Best Practices##
 
 [Chapter 1 - Conducting a Risk Assessment](#chapter1)
 
