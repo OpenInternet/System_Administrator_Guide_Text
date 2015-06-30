@@ -12,5 +12,7 @@
 
 [^FDE]: [Full Disk Encryption Dos and Don'ts] (http://www.computerworld.com/article/2528345/network-security/full-disk-encryption-dos-and-don-ts.html)
 
+[^firewall_management]: [Simple Firewall Best Practices for Small and Midsize Businesses] (https://technet.microsoft.com/en-us/security/hh144813.aspx)
+
 
 
