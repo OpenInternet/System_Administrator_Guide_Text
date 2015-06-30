@@ -62,9 +62,9 @@ In order to set up proper network security, layers of software, and solutions ne
 
 **7. 4 Access Control & Authorization**
 
-Access is the ability to perform a function with a computer resource (e.g., use, change, or view).  Access controls are the system-based means by which the ability is explicitly enabled or restricted in some way.  Access controls can prescribe not only who (a user) or what (a process) is to have access to a specific system resource, but also the level of access that is permitted.
+Access is the ability to perform a function with a computer resource (e.g., use, change, or view).  Access controls are the system-based means by which the ability is explicitly enabled or restricted in some way.  Access controls can prescribe not only who (a user) or what (a process) is to have access to a specific system resource, but also the level of access that is permitted. [^access_auth]
 
-Authentication is the means of establishing the validity of this claim.  There are three means of authenticating a user’s identity which can be used alone or in combination: something the individual knows (a secret –e.g., a password, Personal Identification Number (PIN), or cryptographic key); something the individual possesses (a token – e.g., a bank’s ATM card or a smart card); and something the individual is (a biometric – e.g., characteristics such as a voice pattern, handwriting dynamics, or a fingerprint).
+Authentication is the means of establishing the validity of this claim.  There are three means of authenticating a user’s identity which can be used alone or in combination: something the individual knows (a secret –e.g., a password, Personal Identification Number (PIN), or cryptographic key); something the individual possesses (a token – e.g., a bank’s ATM card or a smart card); and something the individual is (a biometric – e.g., characteristics such as a voice pattern, handwriting dynamics, or a fingerprint). [^access_auth]
 
 In most cases, we rely on passwords (something the individual knows) to authenticate end-users to our systems.
 
