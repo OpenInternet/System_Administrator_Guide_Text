@@ -13,48 +13,50 @@
 - [Front Line - The International Foundation for the Protection of Human Rights Defenders, Protection Manual for Human Rights Defenders](http://www.peacebrigades.org/fileadmin/user_files/groups/uk/files/Publications/Frontline_Manual_pdf.pdf#page=83)
 
 ####Chapter 2- Tech Policies####
-- [TechRepublic, Tom Mochal- Why does your IT organization need formal policies] (http://www.techrepublic.com/article/why-does-your-it-organization-need-formal-policies/) 
-- [NIST, Guide to Enterprise Password Management] (http://csrc.nist.gov/publications/drafts/800-118/draft-sp800-118.pdf)
-- [SANS Institute, Inadequate Password Policies Can Lead to Problems] (http://www.sans.org/reading-room/whitepapers/authentication/inadequate-password-policies-lead-problems-116)
-- [UseNix.org, Abe Singer & Warren Anderson- Rethinking Password Policies] (http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12471-03_singer_14-19_online.pdf)
-- [SANS Institute, Password Protection Policy] (https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy)
-- [Digicert.com, Creating Strong Password Policy Best Practices] (https://blog.digicert.com/creating-password-policy-best-practices/)
-- [TechRepublic, The importance of an effective password policy] (http://www.techrepublic.com/article/the-importance-of-an-effective-password-policy/)
-- [TechNet Magazine, Best Practices for Enforcing Password Policies] (https://technet.microsoft.com/en-us/magazine/ff741764.aspx)
-- [Hitachi-Id, Password Management Best Practices] (http://hitachi-id.com/password-manager/docs/password-management-best-practices.html)
-- [Citrix.com: Best practices to make BYOD simple and secure] (https://www.citrix.com/content/dam/citrix/en_us/documents/oth/byod-best-practices.pdf)
-- [Whitehouse.gov, A Toolkit to Support Federal Agencies Implementing Bring Your Own Device (BYOD) Programs] (https://www.whitehouse.gov/digitalgov/bring-your-own-device)
-- [Cisco, Strengthen BYOD Security] (http://www.cisco.com/c/en/us/solutions/enterprise/data-center-designs-cloud-computing/own_device.html)
-- [TechTarget, BYOD management best practices] (http://searchcloudapplications.techtarget.com/opinion/Ten-BYOD-management-best-practices)
-- [TechRepublic, BYOD policy best practices from templates] (http://www.techrepublic.com/blog/it-consultant/learn-byod-policy-best-practices-from-templates/)
-- [Information Management, Best practices for BYOD] (http://www.information-management.com/gallery/BYOD-mobile-BI-Janco-INN-bring-your-own-device-10022386-1.html)
-- [CIO, Thor Olavsrud, For BYOD Best Practices, Secure Data, Not Devices] (http://www.cio.com/article/2394065/hardware/for-byod-best-practices--secure-data--not-devices.html)
-- [DPSciences Corporation, Enhancing productivity and Minimizing risk- BYOD Best Practices] (http://www.dpsciences.com/services-solutions/collaboration/byod/top-10-byod-best-practices/)
+
+- [TechRepublic, Tom Mochal- Why does your IT organization need formal policies](http://www.techrepublic.com/article/why-does-your-it-organization-need-formal-policies/)
+- [NIST, Guide to Enterprise Password Management](http://csrc.nist.gov/publications/drafts/800-118/draft-sp800-118.pdf)
+- [SANS Institute, Inadequate Password Policies Can Lead to Problems](http://www.sans.org/reading-room/whitepapers/authentication/inadequate-password-policies-lead-problems-116)
+- [UseNix.org, Abe Singer & Warren Anderson- Rethinking Password Policies](http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12471-03_singer_14-19_online.pdf)
+- [SANS Institute, Password Protection Policy](https://www.sans.org/security-resources/policies/general/pdf/password-protection-policy)
+- [Digicert.com, Creating Strong Password Policy Best Practices](https://blog.digicert.com/creating-password-policy-best-practices/)
+- [TechRepublic, The importance of an effective password policy](http://www.techrepublic.com/article/the-importance-of-an-effective-password-policy/)
+- [TechNet Magazine, Best Practices for Enforcing Password Policies](https://technet.microsoft.com/en-us/magazine/ff741764.aspx)
+- [Hitachi-Id, Password Management Best Practices](http://hitachi-id.com/password-manager/docs/password-management-best-practices.html)
+- [Citrix.com: Best practices to make BYOD simple and secure](https://www.citrix.com/content/dam/citrix/en_us/documents/oth/byod-best-practices.pdf)
+- [Whitehouse.gov, A Toolkit to Support Federal Agencies Implementing Bring Your Own Device (BYOD) Programs](https://www.whitehouse.gov/digitalgov/bring-your-own-device)
+- [Cisco, Strengthen BYOD Security](http://www.cisco.com/c/en/us/solutions/enterprise/data-center-designs-cloud-computing/own_device.html)
+- [TechTarget, BYOD management best practices](http://searchcloudapplications.techtarget.com/opinion/Ten-BYOD-management-best-practices)
+- [TechRepublic, BYOD policy best practices from templates](http://www.techrepublic.com/blog/it-consultant/learn-byod-policy-best-practices-from-templates/)
+- [Information Management, Best practices for BYOD](http://www.information-management.com/gallery/BYOD-mobile-BI-Janco-INN-bring-your-own-device-10022386-1.html)
+- [CIO, Thor Olavsrud, For BYOD Best Practices, Secure Data, Not Devices](http://www.cio.com/article/2394065/hardware/for-byod-best-practices--secure-data--not-devices.html)
+- [DPSciences Corporation, Enhancing productivity and Minimizing risk- BYOD Best Practices](http://www.dpsciences.com/services-solutions/collaboration/byod/top-10-byod-best-practices/)
 - [IT Manager Daily, Megan Berry- BYOD Policy Template](http://www.itmanagerdaily.com/byod-policy-template/)
-- [BeyondTrust- Best Practices for Securing Remote and Mobile Devices] (http://www.beyondtrust.com/Content/whitepapers/Best-Practices-for-Securing-Remote-and-Mobile-Devices.pdf)
-- [SurveyMonkey, Data Collection and Privacy Best Practices] (http://help.surveymonkey.com/articles/en_US/kb/Collecting-secure-data-and-privacy-best-practices)
-- [McAfee, conducted by Ponemon Institute- Best Practices in Data Protection] (http://www.daly.com/pdf/tech-update/McAfee%20Data%20Protection.pdf)
-- [InformationWeek, Steps To Better Customer Data Protection] (http://www.darkreading.com/risk-management/6-steps-to-better-customer-data-protection/d/d-id/1108392)
-- [StriveTogether/KnowledgeWorks- Five Ways Community Organizations Can Ensure Effective and Responsible Data Use] (http://www.strivetogether.org/sites/default/files/StriveTogether_Student_Data_Privacy_Best_Practices.pdf)
-- [PCWorld, Tony Bradley - Best Practices to Prevent Data and Privacy Breaches] (http://www.pcworld.com/article/236843/ten_best_practices_to_prevent_data_and_privacy_breaches.html)
-- [Truste- Privacy Statement Best Practices](https://www.truste.com/resources/privacy-best-practices/) 
-- [SANS Institute- Electronic Data Retention Policy] (http://www.sans.org/reading-room/whitepapers/backup/electronic-data-retention-policy-514)
-- [National Council for Nonprofits- Document Retention Policies for Nonprofits] (https://www.councilofnonprofits.org/tools-resources/document-retention-policies-nonprofits)
-- [CKRH.org- Record Retention and Destruction Policy] (http://www.ckrh.org/pdf/RecordRetentionPolicy.pdf)
-- [ManagementHelp.org- Sample Document Retention/Destruction Policy] (http://managementhelp.org/misc/Sample-Document-Retention-Destruction-Policy.pdf)
-- [Coopsys.net- IT Documents and Policy Templates] (http://www.coopsys.net/it-policies)
-- [AmericanBar.org- Sample Document Retention Policy] (http://apps.americanbar.org/lpm/lpt/articles/sampledocretentionpolicy.pdf)
-- [South-norfolk.gov.uk- Data Retention Guidelines] (http://www.south-norfolk.gov.uk/Data_Retention_Policy.pdf)
-- [National Cyber Security Alliance] (http://www.StaySafeOnline.org)
-- [Anti-Phishing Working Group] (http://www.antiphishing.org)
-- [PCWorld, Logan Kugler: Ways to Keep Your Mobile Devices Secure While Traveling] (http://www.pcworld.com/article/218671/9_ways_to_keep_your_mobile_devices_secure.html)
+- [BeyondTrust- Best Practices for Securing Remote and Mobile Devices](http://www.beyondtrust.com/Content/whitepapers/Best-Practices-for-Securing-Remote-and-Mobile-Devices.pdf)
+- [SurveyMonkey, Data Collection and Privacy Best Practices](http://help.surveymonkey.com/articles/en_US/kb/Collecting-secure-data-and-privacy-best-practices)
+- [McAfee, conducted by Ponemon Institute- Best Practices in Data Protection](http://www.daly.com/pdf/tech-update/McAfee%20Data%20Protection.pdf)
+- [InformationWeek, Steps To Better Customer Data Protection](http://www.darkreading.com/risk-management/6-steps-to-better-customer-data-protection/d/d-id/1108392)
+- [StriveTogether/KnowledgeWorks- Five Ways Community Organizations Can Ensure Effective and Responsible Data Use](http://www.strivetogether.org/sites/default/files/StriveTogether_Student_Data_Privacy_Best_Practices.pdf)
+- [PCWorld, Tony Bradley - Best Practices to Prevent Data and Privacy Breaches](http://www.pcworld.com/article/236843/ten_best_practices_to_prevent_data_and_privacy_breaches.html)
+- [Truste- Privacy Statement Best Practices](https://www.truste.com/resources/privacy-best-practices/)
+- [SANS Institute- Electronic Data Retention Policy](http://www.sans.org/reading-room/whitepapers/backup/electronic-data-retention-policy-514)
+- [National Council for Nonprofits- Document Retention Policies for Nonprofits](https://www.councilofnonprofits.org/tools-resources/document-retention-policies-nonprofits)
+- [CKRH.org- Record Retention and Destruction Policy](http://www.ckrh.org/pdf/RecordRetentionPolicy.pdf)
+- [ManagementHelp.org- Sample Document Retention/Destruction Policy](http://managementhelp.org/misc/Sample-Document-Retention-Destruction-Policy.pdf)
+- [Coopsys.net- IT Documents and Policy Templates](http://www.coopsys.net/it-policies)
+- [AmericanBar.org- Sample Document Retention Policy](http://apps.americanbar.org/lpm/lpt/articles/sampledocretentionpolicy.pdf)
+- [South-norfolk.gov.uk- Data Retention Guidelines](http://www.south-norfolk.gov.uk/Data_Retention_Policy.pdf)
+- [National Cyber Security Alliance](http://www.StaySafeOnline.org)
+- [Anti-Phishing Working Group](http://www.antiphishing.org)
+- [PCWorld, Logan Kugler: Ways to Keep Your Mobile Devices Secure While Traveling](http://www.pcworld.com/article/218671/9_ways_to_keep_your_mobile_devices_secure.html)
 - [Symantec- Wi-Fi Hotspots](Connecting While Traveling: http://us.norton.com/travel-hotspot-security/article)
-- [Wired- Secure Your Wi-Fi While Traveling] (http://howto.wired.com/wiki/Secure_your_WiFi_while_Traveling)
-- [RickSteves.com- Internet Security for Travelers] (https://www.ricksteves.com/travel-tips/phones-tech/internet-security-for-travelers)
-- [Government of Canada- Cyber security while travelling] (http://travel.gc.ca/travelling/health-safety/cyber-safe)
-- [California Polytechnic State University- Traveling with Devices and Connecting to the Internet] (http://security.calpoly.edu/content/practices/travel_tips)
+- [Wired- Secure Your Wi-Fi While Traveling](http://howto.wired.com/wiki/Secure_your_WiFi_while_Traveling)
+- [RickSteves.com- Internet Security for Travelers](https://www.ricksteves.com/travel-tips/phones-tech/internet-security-for-travelers)
+- [Government of Canada- Cyber security while travelling](http://travel.gc.ca/travelling/health-safety/cyber-safe)
+- [California Polytechnic State University- Traveling with Devices and Connecting to the Internet](http://security.calpoly.edu/content/practices/travel_tips)
 
 ####Chapter 3- Staff Awareness & Communication####
+
 - [PCMag.com](http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
 - [Change Management Plan Workbook & Template, Queensland Government Chief Information Office](http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf)
 - [Prosci Change Management Learning Center](http://www.change-management.com/best-practices-report-toc.htm)
@@ -67,6 +69,7 @@
 
 
 ####Chapter 4-Budgeting for Security####
+
 - [A Look at Targeted Attacks Through the Lense of an NGO, The Max Planck Institute for Software Systems](https://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
 - [Advice on IT security budget management, TechTarget](http://searchsecurity.techtarget.com/Advice-on-IT-security-budget-management)
 - [Middle East Cyber Security Threat Report 2014, Mohamed N. El-Guindy, Academia.edu](http://www.academia.edu/5522905/Middle_East_Cyber_Security_Threat_Report_2014)
@@ -86,16 +89,18 @@
 
 
 ####Chapter 5- Service Level Agreement: Do's and Dont's####
-- [Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives) 
+
+- [Podcast: Service-level agreement (SLA) negotiation - defining service-level objectives](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives)
 - [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
 - [Biztree.com](http://www.biztree.com/doc/service-level-agreement-D778)
 - [TidyForm.com](http://www.tidyform.com/service-level-agreement.html)
 
 
 ####Chapter 6- Ensuring User Data Protection & Privacy####
+
 - [Wired, March 2015](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
 - [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
-- [LiUtilities, How to Encrypt a Wireless Router] (http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
+- [LiUtilities, How to Encrypt a Wireless Router](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
 - [OnGuardOnline.Gov: Securing Your Wireless Network](http://www.onguardonline.gov/articles/0013-securing-your-wireless-network)
 - [CSOOnline - Full Disk Encryption Dos and Don'ts](http://www.csoonline.com/article/2124486/data-protection/full-disk-encryption-dos-and-don-ts.html?page=2)
 - [PCWorld- How to encrypt your email](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
@@ -108,6 +113,7 @@
 - [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
 
 ####Chapter 7- Network Security####
+
 - [SANS Institute, Essential Information Security For Corporate Employees](http://www.sans.org/reading-room/whitepapers/awareness/essential-information-security-corporate-employees-1179)
 - [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 - [NIST, Guide to Computer Security Log Management](http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf)
@@ -121,7 +127,6 @@
 - [National Network to End Domestic Violence Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors)](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
 - [CERT, Common Sense Guide to Mitigating Insider Threats 2013:](https://www.cert.org/blogs/insider-threat/post.cfm?EntryID=139)
 - [eSecurityPlanet, 5 Best Practices for Securing Remote Access](http://www.esecurityplanet.com/trends/article.php/11164_3937121_2/5-Best-Practices-for-Securing-Remote-Access.htm)
-
 - [ITTechNewsDaily, 5 Best Practices for Managing Remote Access:](http://www.ittechnewsdaily.com/175-managing-remote-access-security.html)
 - [Berkeley Security, Securing Remote Desktop for System Administrators](https://security.berkeley.edu/content/securing-remote-desktop-system-administrators)
 - [Dr. Eric Cole, Secure Anchor 2006](http://www.securityhaven.com/docs/Security_Best_Practices.pdf)
@@ -139,6 +144,7 @@
 - [NIST, Guide for Security-Focused Configuration Management of Information Systems](http://csrc.nist.gov/publications/nistpubs/800-128/sp800-128.pdf)
 
 ####Chapter 8- Data Security, Backup & Recovery####
+
 - [NIST Contingency Planning Guide for Federal Information Systems](http://csrc.nist.gov/publications/nistpubs/800-34-rev1/sp800-34-rev1_errata-Nov11-2010.pdf)
 - [SANS Institute- Disaster Recovery Plan Strategies and Processes](http://www.sans.org/reading-room/whitepapers/recovery/disaster-recovery-plan-strategies-processes-564)
 - [Internews, SaferJourno](https://saferjourno.internews.org)
@@ -158,6 +164,7 @@
 - [Ready.gov- IT Disaster Recovery Plan](http://www.ready.gov/business/implementation/IT)
 
 ####Chapter 9- Website, Software & System Security####
+
 - [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 - [Indiana University, Best practices for computer security](https://kb.iu.edu/d/akln)
 - [Microsoft, Data Security and Data Availability in the Administrative Authority](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
@@ -177,6 +184,7 @@
 - [NIST, Guidelines on Security and Privacy in Public Cloud Computing](http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf)
 
 ####Chapter 10- Physical Security####
+
 -   [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 -   [SANS Institute, Computer Rooms - meet the physical security measures](http://www.giac.org/paper/gsec/2892/computer-rooms-meet-physical-security-measures/104866)
 -   [University of Florida, Physical Security of Server Rooms](https://security.ufl.edu/wp-content/uploads/2013/09/PS0002-02.pdf)
@@ -185,6 +193,7 @@
 -   [SANS Institute, Penetration Tests and Red Team Exercises](https://www.sans.org/critical-security-controls/control/20)
 
 ####Chapter 11- Know Your Rights: In-country Rules & Regulations####
+
 - [Digital Media Law Project, Berkman Center for Internet & Society](http://www.dmlp.org/legal-guide/responding-legal-threats)
 - [EFF, Legal Guide for Bloggers](https://www.eff.org/issues/bloggers/legal)
 - [BBC, How to avoid libel & defamation](http://www.bbc.co.uk/dna/collective/A1183394)

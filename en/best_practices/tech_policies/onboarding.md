@@ -24,7 +24,7 @@ Having contributed to the organization’s success, staff who are moving on (whe
 
 - **Monitor account access**: Setup an alert to monitor access to sensitive data via disabled accounts. (Refer to Chapter 7 for best practices on Network Security).
 
-**Tools & Templates**
+#### Tools & Templates ####
 
 - [University of Oklahoma, Information Technology New Hire Checklist:](http://dentistry.ouhsc.edu/Portals/0/Onboarding%20checklist%20for%20IT_1.pdf)
 - [ABA Law Practice Magazine, Departing Employee Technology Checklist:](http://apps.americanbar.org/lpm/lpt/articles/pdf/mgt04101.pdf)

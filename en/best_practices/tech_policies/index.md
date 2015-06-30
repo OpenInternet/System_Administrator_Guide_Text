@@ -9,34 +9,34 @@
 - [Incident Reporting Policy](#tpincident)
 - [Chapter References](#tpreferences)
 
-### Introduction {#tpintroduction}
+### Introduction {#tpintroduction} ###
 
 !INCLUDE "tpintroduction.md"
 
-### Password Policy {#tppassword}
+### Password Policy {#tppassword} ###
 
 !INCLUDE "password.md"
 
-### Data Privacy Policy {#tpdataprivacy}
+### Data Privacy Policy {#tpdataprivacy} ###
 
 !INCLUDE "dataprivacy.md"
 
-### BYOD (Bring Your Own Device) Policy {#tpbyod}
+### BYOD (Bring Your Own Device) Policy {#tpbyod} ###
 
 !INCLUDE "byod.md"
 
-### Staff Onboarding & Departure Policy {#tponboarding}
+### Staff Onboarding & Departure Policy {#tponboarding} ###
 
 !INCLUDE "onboarding.md"
 
-### Traveller's Policy {#tptravel}
+### Traveller's Policy {#tptravel} ###
 
 !INCLUDE "travel.md"
 
-### Incident Reporting Policy {#tpincident}
+### Incident Reporting Policy {#tpincident} ###
 
 !INCLUDE "incident.md"
 
-### Chapter References {#tpreferences}
+### Chapter References {#tpreferences} ###
 
 !INCLUDE "chapter_references.md"

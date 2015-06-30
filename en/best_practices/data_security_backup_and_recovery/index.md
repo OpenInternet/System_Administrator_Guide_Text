@@ -2,7 +2,7 @@
 
 ####Best Practices####
 
-**8.1 Understand the data & processes**
+##### 8.1 Understand the data & processes #####
 
 As you design systems to protect your organization and user’s data, understand the flow of information, along with the various categories. Once you have identified the various categories of data (emails, documents, employee records, tax & other legal records, contacts, chats), create a tiered system to classify data based on its importance and sensitivity. Access to sensitive data should be limited via “Access Control” (Refer to Chapter 7 on Network Security).
 
@@ -10,13 +10,13 @@ Understanding the business process of how information is created and stored at t
 
 In addition, understanding the pressures & dependencies that staff deal with (such as, tight deadlines) is also imperative while proposing practical, workable data solutions that will succeed within the context of the organizational information workflow.
 
-**8.2 Data Collection Protocol**
+##### 8.2 Data Collection Protocol #####
 
 As you understand the data your organization collects and creates, partner with decision-makers to understand the requirements behind collecting and storing of Personal Identifiable Information (PII). This may be personal & confidential of your organization’s donors such as bank account information and address of individual donors or birthdates of consultants. Its imperative to work with decision-makers to ensure internal policies (human resources forms, employee records, reports from implementation partners) are refined such that your organization is not collecting any more information on people than is absolutely necessary. Collecting less PII (Personal Identifiable Information) reduces the risk of data leaks and subsequent, reputational damage to your organization.
 
 In addition, based on your organization’s Risk Assessment (Refer to Chapter 1), if its imperative to protect the identify of staff, partners or donors working with your organization, be sure their photos or contact information is not displayed on your organization’s website.
 
-**8.3 Data Backup & Recovery**
+##### 8.3 Data Backup & Recovery #####
 
 *Backup Strategy*
 
@@ -78,7 +78,7 @@ Don’t wait until a disaster to test out your Disaster Recovery plan: Frequent 
 
 ![Disaster Recovery Plan](images/disaster_recovery.png)
 
-**8.4 Data Retention, Archiving and Disposal**
+##### 8.4 Data Retention, Archiving and Disposal #####
 
 Based on the classification of your organization’s data, create a Retention, Archiving and Disposal (RAD) plan. While data storage capacity is getting inexpensive in most countries, it may be prudent to create a RAD plan to avoid accidental leakage of data, reduce the risk of malicious deletion or unauthorized access.
 
@@ -86,19 +86,19 @@ Understand local data retention laws before disposing digital files - such as em
 
 Disposal of data also includes protocols of securely shredding physical files & documents to prevent unauthorized access to printouts of sensitive information.
 
-**8.5 Contact Management provisions**
+##### 8.5 Contact Management provisions #####
 
 Contact information of people that your staff interact with (whether partners, sources, consultants, or donors) usually resides in their email or on their phones. One hacked email account on your network or a lost phone can expose the identity of these individuals putting them at risk. In addition, turnover within your organization may also lead to the loss of contact information to key individuals. As such, create provisions to provide a secure (encrypted) database to store all contact information in order to provide business continuity and safeguard the contact information of individuals by moving them away from individual email accounts or address books. Institute a contact management policy within the organization to ensure all contact information is kept up-to-date in the contact management system and sharing of contacts tagged as “sensitive” is not permissible.
 
 Ensure that your backup policy addresses regular backups of the contact management system and the physical protection of these backups.
 
-**8.6 Data security while crossing borders**
+##### 8.6 Data security while crossing borders #####
 
 While it’s important to create provisions to protect data while on the network, be aware of various methods through which your organization’s data also travels outside the network on staff laptops, USBs or stored in the cloud by staff. As you design the organization’s Traveller's Policy (Refer to Chapter 2 on IT Policies) discuss the protocols for safeguarding your organization’s data while crossing borders (especially imperative when staff travel to “less friendly” countries).
 
 As security provisions will be unique to each scenario, it’s important to institute a “check-in” policy with staff before they travel to design unique, but workable, data storage and security solutions based on their needs. A few simple examples could include - ensuring staff remove sensitive data from their computers and phones, or prepare a “loaner” laptop that holds the bare minimum information required for their assignment, creating a “TAILS” repo for staff to store sensitive information, understanding data loss in case the laptop or phone gets confiscated.
 
-**8.7 Physical Access and Security**
+##### 8.7 Physical Access and Security #####
 
 *Storage of Backup Tapes*: Ensure that all backups are properly labeled and provisions to transport them to a secure, off-site location are made. An off-site backup location may be a storage service provider or the home of the executive director or lead systems administrator.
 
