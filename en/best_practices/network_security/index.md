@@ -258,76 +258,44 @@ It may be beneficial to adopt simple project management practices even for small
 
 **7.15 Keep yourself updated**
 
-Staying in tune with current best practices, industry trends and emerging threats will help you learn about possible attacks to your network. Its recommended for sysadmins to sign-up to security mailing lists, read security news sites, receive information guides & updates shared by vendors and follow security researchers via twitter to ensure that they are always “in-the-know” when it comes to security trends and threats. **(Refer to "Community Resources" (page??) for sites followed by sysadmins in the Internet Freedom community).**
+Staying in tune with current best practices, industry trends and emerging threats will help you learn about possible attacks to your network. Its recommended for sysadmins to sign-up to security mailing lists, read security news sites, receive information guides & updates shared by vendors and follow security researchers via twitter to ensure that they are always “in-the-know” when it comes to security trends and threats. (Refer to "Community Resources" towards the end of this guide for websites and mailing lists followed by sysadmins in the Internet Freedom community).
 
 ###Tools & Templates###
-
 - Intrusion Detection & Prevention System (IDPS): [Snort](https://www.snort.org)
-
 - VPN: [Psiphon](https://psiphon.ca/); [RiseupVPN](https://help.riseup.net/en/vpn)
 
 ###Recommended Reading###
-
 - [Engine Room Checklist](https://github.com/the-engine-room/responsible-data/tree/master/organizational-security-atomized-plan)
-
 - [NIST, Guide to General Server Security](http://csrc.nist.gov/publications/nistpubs/800-123/SP800-123.pdf)
-
 - [NIST, An Introduction to Computer Security](http://csrc.nist.gov/publications/nistpubs/800-12/handbook.pdf)
-
 - [NIST, Guide to Intrusion Detection and Prevention Systems (IDPS)](http://csrc.nist.gov/publications/nistpubs/800-94/SP800-94.pdf)
 
 ###Chapter References###
 - [SANS Institute, Essential Information Security For Corporate Employees](http://www.sans.org/reading-room/whitepapers/awareness/essential-information-security-corporate-employees-1179)
-
 - [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 - [NIST, Guide to Computer Security Log Management](http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf)
-
 - [NIST, Audit Trails](http://csrc.nist.gov/publications/nistbul/itl97-03.txt)
-
 - [Commonwealth of Pennsylvania, IT Audit Logging Standard](http://www.dpw.state.pa.us/cs/groups/webcontent/documents/communication/p_031981.pdf)
-
 - [United States Patent & Trademark Office, Network Audit, Logging and Monitoring Policy](http://www.uspto.gov/about/vendor_info/current_acquisitions/sdi_ng/ocio_6011_09.pdf)
-
 - [NIST, Guidelines on Firewalls and Firewall Policy](http://csrc.nist.gov/publications/nistpubs/800-41-Rev1/sp800-41-rev1.pdf)
-
 - [NETSPI, Firewall configuration checklist](https://www.netspi.com/Portals/0/docs/Blog_Documents/EH_Firewalls/Firewall_Audit_Checklist_Short_v1.pdf)
-
 - [Windstream, Is Your Network Safe Behind Just A Firewall](http://www.windstreambusiness.com/resources/whitepapers/is-your-network-safe-behind-just-a-firewall)
-
 - [Cisco, Network Security Policy](Best Practices White Paper: http://www.cisco.com/c/en/us/support/docs/availability/high-availability/13601-secpol.html#t4)
-
 - [National Network to End Domestic Violence Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors)](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
-
 - [CERT, Common Sense Guide to Mitigating Insider Threats 2013:](https://www.cert.org/blogs/insider-threat/post.cfm?EntryID=139)
-
 - [eSecurityPlanet, 5 Best Practices for Securing Remote Access](http://www.esecurityplanet.com/trends/article.php/11164_3937121_2/5-Best-Practices-for-Securing-Remote-Access.htm)
-
 - [ITTechNewsDaily, 5 Best Practices for Managing Remote Access:](http://www.ittechnewsdaily.com/175-managing-remote-access-security.html)
-
 - [Berkeley Security, Securing Remote Desktop for System Administrators](https://security.berkeley.edu/content/securing-remote-desktop-system-administrators)
-
 - [Dr. Eric Cole, Secure Anchor 2006](http://www.securityhaven.com/docs/Security_Best_Practices.pdf)
-
 - [Internap, April 2013- 5 best practices for successful system administration](http://www.internap.com/2013/04/10/5-best-practices-for-successful-system-administration/)
-
 - [ZDNet, March 2013- 10 security best practice guidelines for businesses](http://www.zdnet.com/article/10-security-best-practice-guidelines-for-businesses/)
-
 - [TechNet, April 2011- Simple Firewall Best Practices for Small and Midsize Businesses](https://technet.microsoft.com/en-us/security/hh144813.aspx)
-
 - [Kevin Beaver, CISSP](http://www.principlelogic.com/docs/firewall_best_practices.pdf)
-
 - [Vinod Mohan, SolarWinds Worldwide, LLC 2013](http://cdn.swcdn.net/creative/v9.3/pdf/Whitepapers/Best_Practices_for_Effective_Firewall_Management.pdf)
-
 - [NIST, Guidelines for Securing Wireless Local Area Networks (WLANs)](http://csrc.nist.gov/publications/nistpubs/800-153/sp800-153.pdf)
-
 - [Webopedia, Intrusion Detection (IDS) and Prevention (IPS) Systems](http://www.webopedia.com/DidYouKnow/Computer_Science/intrusion_detection_prevention.asp)
-
 - [David Piscitello, Intrusion Detection… Or Prevention](http://www.corecom.com/external/bcrmag/bcrmag-ids-may02.pdf)
-
 - [SANS Institute, Critical Security Controls](https://www.sans.org/critical-security-controls/controls)
-
 - [SANS Institute, Monitoring Security and Performance on Converged Traffic Networks](http://www.sans.org/reading-room/whitepapers/analyst/monitoring-security-performance-converged-traffic-networks-34720)
-
 - [NIST, Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r1.pdf)
-
 - [NIST, Guide for Security-Focused Configuration Management of Information Systems](http://csrc.nist.gov/publications/nistpubs/800-128/sp800-128.pdf)
