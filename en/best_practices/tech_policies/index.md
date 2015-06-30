@@ -1,42 +1,42 @@
 ##Tech Policies## {#chapter2}
 
-- Introduction (#introduction)
-- Password Policy(#password)
-- Data Privacy Polciy (#dataprivacy)
-- BYOD Policy (#byod)
-- Staff Onboarding & Departure Policy (#onboarding)
-- Traveller's Policy (#travel)
-- Incident Reporting Policy (#incident)
-- Chapter References (#references)
+- [Introduction](#tpintroduction)
+- [Password Policy](#tppassword)
+- [Data Privacy Polciy](#tpdataprivacy)
+- [BYOD Policy](#tpbyod)
+- [Staff Onboarding & Departure Policy](#tponboarding)
+- [Traveller's Policy](#tptravel)
+- [Incident Reporting Policy](#tpincident)
+- [Chapter References](#tpreferences)
 
-### Introduction {#introduction}
+### Introduction {#tpintroduction}
 
 !INCLUDE "introduction.md"
 
-### Password Policy {#password}
+### Password Policy {#tppassword}
 
 !INCLUDE "password.md"
 
-### Data Privacy Policy {#dataprivacy}
+### Data Privacy Policy {#tpdataprivacy}
 
 !INCLUDE "dataprivacy.md"
 
-### BYOD Policy {#BYOD}
+### BYOD Policy {#tpbyod}
 
 !INCLUDE "byod.md"
 
-### Staff Onboarding & Departure Policy {#onboarding}
+### Staff Onboarding & Departure Policy {#tponboarding}
 
 !INCLUDE "onboarding.md"
 
-### Traveller's Policy {#travel}
+### Traveller's Policy {#tptravel}
 
 !INCLUDE "travel.md"
 
-### Incident Reporting Policy {#incident}
+### Incident Reporting Policy {#tpincident}
 
 !INCLUDE "incident.md"
 
-### Chapter References {#references}
+### Chapter References {#tpreferences}
 
 !INCLUDE "chapter_references.md"

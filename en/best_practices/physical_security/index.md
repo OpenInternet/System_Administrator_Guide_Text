@@ -47,6 +47,7 @@ to break into the system, using the console. In fact, this is an
 essential feature to break into the system when the superuser password
 is lost. Secure your console from someone who can keep guessing the
 superuser password at the console:
+
 -   Do not leave console logged in at any point of time, if you are
     away; make a practice to log-out every time after completing your
     job. If your system supports timeout feature for system console,
@@ -121,6 +122,7 @@ Like many electronic devices, computers are quite sensitive. They do not
 adapt well to unstable electricity supplies, extreme temperatures, dust,
 high humidity or mechanical stress. There are a number of things you can
 do to protect your computers and network equipment from such threats:
+
 -   Electrical problems such as power surges, blackouts and brownouts
     can cause physical damage to a computer. Irregularities like this
     can crash your hard drive, damaging the information it contains, or
@@ -153,21 +155,13 @@ do to protect your computers and network equipment from such threats:
 
 ####Recommended Reading####
 
--   NIST, Physical and Environmental Security:
-    [http://csrc.nist.gov/publications/nistpubs/800-14/800-14.pdf](http://www.google.com/url?q=http%3A%2F%2Fcsrc.nist.gov%2Fpublications%2Fnistpubs%2F800-14%2F800-14.pdf&sa=D&sntz=1&usg=AFQjCNExR_l_THECl3lxdPyJtuzeLJw6eQ)
--   Security-in-a-box:
-    [https://securityinabox.org/en/guide/physical](https://www.google.com/url?q=https%3A%2F%2Fsecurityinabox.org%2Fen%2Fguide%2Fphysical&sa=D&sntz=1&usg=AFQjCNHyQHtCv0OCtiDyyWe1cABDKaGw-Q)
--   Frontline Defenders, Workbook on Security:
-    [http://frontlinedefenders.org/files/workbook\_eng.pdf\#page=80](http://www.google.com/url?q=http%3A%2F%2Ffrontlinedefenders.org%2Ffiles%2Fworkbook_eng.pdf%23page%3D80&sa=D&sntz=1&usg=AFQjCNG1j3i8x4pf8Pc4XWIsAqTC2h2oug)
--   TechRepublic, 10 physical security measures every organization
-    should take:
-    [http://www.techrepublic.com/blog/10-things/10-physical-security-measures-every-organization-should-take/](http://www.google.com/url?q=http%3A%2F%2Fwww.techrepublic.com%2Fblog%2F10-things%2F10-physical-security-measures-every-organization-should-take%2F&sa=D&sntz=1&usg=AFQjCNG4blxGVF-HySHTX8So9HqIg2UODQ)
--   SANS Institute, Data Center Physical Security Checklist:
-    [http://www.sans.org/reading-room/whitepapers/awareness/data-center-physical-security-checklist-416](http://www.google.com/url?q=http%3A%2F%2Fwww.sans.org%2Freading-room%2Fwhitepapers%2Fawareness%2Fdata-center-physical-security-checklist-416&sa=D&sntz=1&usg=AFQjCNE2G3RSo0NpRqdYEmXF83HJPs5qdA)
--   Frontline, Protection Manual for Human Right Defenders:
-    [http://www.peacebrigades.org/fileadmin/user\_files/groups/uk/files/Publications/Frontline\_Manual\_pdf.pdf\#page=83](http://www.google.com/url?q=http%3A%2F%2Fwww.peacebrigades.org%2Ffileadmin%2Fuser_files%2Fgroups%2Fuk%2Ffiles%2FPublications%2FFrontline_Manual_pdf.pdf%23page%3D83&sa=D&sntz=1&usg=AFQjCNGRwL8UdiTA4ze9BwV3Qlyeqp-Mhw)
--   Pentest Standard,
-    [http://www.pentest-standard.org/index.php/Pre-engagement\#Physical\_Penetration\_Test](http://www.google.com/url?q=http%3A%2F%2Fwww.pentest-standard.org%2Findex.php%2FPre-engagement%23Physical_Penetration_Test&sa=D&sntz=1&usg=AFQjCNHR3jTOrGKuaghx6a_nPwQyjVxFHQ) 
+-   [NIST, Physical and Environmental Security:](http://csrc.nist.gov/publications/nistpubs/800-14/800-14.pdf)
+-   [Security-in-a-box:](https://securityinabox.org/en/guide/physical)
+-   [Frontline Defenders, Workbook on Security:](http://frontlinedefenders.org/files/workbook\_eng.pdf\#page=80)
+-   [TechRepublic, 10 physical security measures every organization should take:](http://www.techrepublic.com/blog/10-things/10-physical-security-measures-every-organization-should-take/)
+-   [SANS Institute, Data Center Physical Security Checklist:](http://www.sans.org/reading-room/whitepapers/awareness/data-center-physical-security-checklist-416)
+-   [Frontline, Protection Manual for Human Right Defenders:](http://www.peacebrigades.org/fileadmin/user\_files/groups/uk/files/Publications/Frontline\_Manual\_pdf.pdf\#page=83)
+-   [Pentest Standard,](http://www.pentest-standard.org/index.php/Pre-engagement\#Physical\_Penetration\_Test)
 
 
 ####Chapter References####
@@ -178,4 +172,3 @@ do to protect your computers and network equipment from such threats:
 -   [MIT, Protecting Devices:](https://ist.mit.edu/security/devices)
 -   [Security-in-a-Box:](https://info.securityinabox.org/default/chapter\_2\_3)
 -   [SANS Institute, Penetration Tests and Red Team Exercises:](https://www.sans.org/critical-security-controls/control/20)
-

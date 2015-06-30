@@ -3,22 +3,25 @@ title: 'Guide for System Administrators in At‐Risk Organizations'
 assistant: 'Srija S'
 author: 'Mahvash Taqi'
 ---
+
 ##TABLE OF CONTENTS##
-License  (#license)
 
-Attribution for Content (#attribution)
+[License](#license)
 
-Disclaimer (#disclaimer)
+[Attribution for Content](#attribution)
 
-Acknowledgements (#acknowledgements)
+[Disclaimer](#disclaimer)
 
-Introduction (#introduction)
+[Acknowledgements](#acknowledgements)
 
-System Administrator Code of Ethics (#ethics)
+[Introduction](#introduction)
 
-Best Practices 
+[System Administrator Code of Ethics](#ethics)
 
-Chapter 1 - Conducting a Risk Assessment (#chapter1)
+Best Practices
+
+[Chapter 1 - Conducting a Risk Assessment](#chapter1)
+
 - Understanding the various elements
 - Step 1 - Identify Risks, Vulnerabilities & Capacities
 - Step 2- Risk Matrix
@@ -28,16 +31,18 @@ Chapter 1 - Conducting a Risk Assessment (#chapter1)
 - Recommended Reading
 - Chapter References
 
-Chapter 2- Tech Policies (#chapter2)
-- Password Policy 
+[Chapter 2- Tech Policies](#chapter2)
+
+- Password Policy
 - Data Privacy Policy
 - BYOD (Bring Your Own Device) Policy
-- Staff Onboarding & Departure Policy 
+- Staff Onboarding & Departure Policy
 - Traveller’s Policy
 - Incident Reporting Policy
 - Chapter References
 
-Chapter 3-Staff Awareness & Communication (#chapter3)
+[Chapter 3-Staff Awareness & Communication](#chapter3)
+
 - 3.1 Usage Policies
 - 3.2 Relationship with “privileged” users
 - 3.3 Change Management Plan
@@ -50,7 +55,8 @@ Chapter 3-Staff Awareness & Communication (#chapter3)
 - Recommended Reading
 - Chapter References
 
-Chapter 4- Budgeting for Security (#chapter4)
+[Chapter 4- Budgeting for Security](#chapter4)
+
 - 4.1 Create a business case for investment in cyber security
 - 4.2 IT Budget - Do’s and Don’ts
 - 4.3 Security Program Metrics
@@ -60,7 +66,8 @@ Chapter 4- Budgeting for Security (#chapter4)
 - Recommended Reading
 - Chapter References
 
-Chapter 5- Service Level Agreement: Do's and Don'ts (#chapter5)
+[Chapter 5- Service Level Agreement: Do's and Don'ts](#chapter5)
+
 - 5.1 Uptime
 - 5.2 Response times
 - 5.3 SLA penalties
@@ -75,7 +82,8 @@ Chapter 5- Service Level Agreement: Do's and Don'ts (#chapter5)
 - Recommended Reading
 - Chapter References
 
-Chapter 6- Ensuring User Data Protection & Privacy (#chapter6)
+[Chapter 6- Ensuring User Data Protection & Privacy](#chapter6)
+
 - 6.1 Encrypt User Data-at-Rest
 - 6.1.i Full disk encryption (FDE)
 - 6.1.ii Encrypt passwords
@@ -93,7 +101,8 @@ Chapter 6- Ensuring User Data Protection & Privacy (#chapter6)
 - Recommended Reading
 - Chapter References
 
-Chapter 7- Network Security (#chapter7)
+[Chapter 7- Network Security](#chapter7)
+
 - 7.1 Monitor, Measure, and Record
 - 7. 2 Effective Firewall Management
 - 7.3 Intrusion Detection and Prevention System (IDPS)
@@ -113,7 +122,8 @@ Chapter 7- Network Security (#chapter7)
 - Recommended Reading
 - Chapter References
 
-Chapter 8- Data Security, Backup & Recovery (#chapter8)
+[Chapter 8- Data Security, Backup & Recovery](#chapter8)
+
 - 8.1 Understand the data & processes
 - 8.2 Data Collection Protocol
 - 8.3 Data Backup & Recovery
@@ -125,7 +135,8 @@ Chapter 8- Data Security, Backup & Recovery (#chapter8)
 - Recommended Reading
 - Chapter References
 
-Chapter 9- Website, Software & System Security (#chapter9)
+[Chapter 9- Website, Software & System Security](#chapter9)
+
 - 9.1 Website Security
 - 9.1.i Protect your website
 - 9.1.ii Protect your visitors
@@ -139,7 +150,8 @@ Chapter 9- Website, Software & System Security (#chapter9)
 - Recommended Reading
 - Chapter References
 
-Chapter 10- Physical Security (#chapter10)
+[Chapter 10- Physical Security](#chapter10)
+
 - 10.1 Equipment Security
 - 10.2 Prevent unauthorized access to your ISP connection
 - 10.3 Prevent unauthorized physical access
@@ -152,32 +164,33 @@ Chapter 10- Physical Security (#chapter10)
 - Recommending Reading
 - Chapter References
 
-Chapter 11- Know your Rights: In-country Rules & Regulations (#chapter11)
-- Suggestions 
-- Recommended Reading 
-- Chapter References 
+[Chapter 11- Know your Rights: In-country Rules & Regulations](#chapter11)
 
-## License
+- Suggestions
+- Recommended Reading
+- Chapter References
+
+## License {#license}
 
 !INCLUDE "front_matter/license.md"
 
-## Attribution for Content 
+## Attribution for Content {#attribution}
 
 !INCLUDE "front_matter/attribution.md"
 
-## Disclaimer 
+## Disclaimer {#disclaimer}
 
 !INCLUDE "front_matter/disclaimer.md"
 
-## Acknowledgments
+## Acknowledgments {#acknowledgements}
 
 !INCLUDE "front_matter/acknowledgments.md"
 
-## Introduction
+## Introduction {#introduction}
 
 !INCLUDE "front_matter/introduction.md"
 
-## System Administrator Code of Ethics
+## System Administrator Code of Ethics {#ethics}
 
 !INCLUDE "front_matter/code_of_ethics.md"
 
@@ -203,10 +216,10 @@ Chapter 11- Know your Rights: In-country Rules & Regulations (#chapter11)
 
 !INCLUDE "best_practices/know_your_rights/index.md"
 
-## Community Resources (#resources)
+## Community Resources {#resources}
 
 !INCLUDE "back_matter/community_references/index.md"
 
-## Chapter References (#references)
+## Chapter References {#references}
 
 !INCLUDE "back_matter/chapter_references/index.md"

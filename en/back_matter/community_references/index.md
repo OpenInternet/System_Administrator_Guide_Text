@@ -1,3 +1,1 @@
-##Community Resources## {#resources}
-
-During the “discovery phase” of this guide, we interviewed system administrators who work at independant media outlets or at NGOs focused on human rights to understand their challenges. During the course of this process, a few shared the following resources they rely on to keep themselves up-to-date. We hope this list proves helpful to you too. 
+During the “discovery phase” of this guide, we interviewed system administrators who work at independant media outlets or at NGOs focused on human rights to understand their challenges. During the course of this process, a few shared the following resources they rely on to keep themselves up-to-date. We hope this list proves helpful to you too.
