@@ -25,6 +25,8 @@
 
 [^idps] [TechTarget, Do you need an IDS or IPS, or both](http://searchsecurity.techtarget.com/Do-you-need-an-IDS-or-IPS-or-both)
 
+[^access_auth] http://csrc.nist.gov/groups/SNS/rbac/documents/design_implementation/csl95-12.txt
+
 [^log_management]: [Log Management – Lifeblood of Information Security] (http://www.net-security.org/article.php?id=975&p=2)
 
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box] (https://securityinabox.org/en/guide/physical)
