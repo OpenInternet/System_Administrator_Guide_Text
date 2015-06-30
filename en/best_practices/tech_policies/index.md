@@ -11,7 +11,7 @@
 
 ### Introduction {#tpintroduction}
 
-!INCLUDE "introduction.md"
+!INCLUDE "tpintroduction.md"
 
 ### Password Policy {#tppassword}
 
