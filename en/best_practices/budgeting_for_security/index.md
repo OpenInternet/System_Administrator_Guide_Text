@@ -64,12 +64,13 @@ In addition, sharing news and information about security trends will ensure that
 As you design a security program for your organization, it is a good practice to also share & learn from other organizations experiencing similar risks. Creating a safe “peer” space for system administrators working at community organizations, whether at a media outlets and/or human rights organization, to come together and share their knowledge will help you learn about potential threats, steps taken to mitigate them and will serve as an early-warning system for identification of potential threats, allowing you to be proactive in planning against them. 
 
 ####Tools & Templates####
-- Discounted software licenses for registered NGOs are available via [TechSoup](http://www.techsoup.org/)
+- Discounted software licenses for registered NGOs is available via [TechSoup](http://www.techsoup.org/)
 - Snapshot of a sample IT budget **(link to a blank budget template will be provided)**  
 
 **ADD IMAGE**
 
 ####Recommended Reading####
+(Left blank intentionally; looking for contributions from the community)
 
 ####Chapter References####
 - A Look at Targeted Attacks Through the Lense of an NGO, The Max Planck Institute for Software Systems: https://www.mpi-sws.org/~stevens/pubs/sec14.pdf 
