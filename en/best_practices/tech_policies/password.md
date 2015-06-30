@@ -41,7 +41,7 @@ Users should be reminded against:
 
 #### Password management for multi-lingual users ####
 
-Most users, in most countries, have keyboards that include most Latin characters. This means that they are able to type passwords composed of "English" letters, even if they don't read or write the language. When composing your organization’s password policy, it's important to consider the limitations on the password fields of systems and applications, as not every system or application supports non-Latin characters in the password field. In addition, remind users about password privacy best practices (i.e: the danger of someone looking over their shoulder) if text input involves a display component.
+Most users, in most countries, have keyboards that include most Latin characters. This means that they are able to type passwords composed of "English" letters, even if they don't read or write the language.[^multilingual] When composing your organization’s password policy, it's important to consider the limitations on the password fields of systems and applications, as not every system or application supports non-Latin characters in the password field. In addition, remind users about password privacy best practices (i.e: the danger of someone looking over their shoulder) if text input involves a display component.
 
 #### User Adoption ####
 

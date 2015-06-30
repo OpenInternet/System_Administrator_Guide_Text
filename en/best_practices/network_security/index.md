@@ -7,7 +7,6 @@
 This is the golden rule for all sysadmins - understand the traffic on your network. Get/build/buy a system to monitor, measure, record and analyze network traffic. It may be prudent to regularly share network analysis reports with key stakeholders and staff to help them understand the various threats to the network. In addition to raising their awareness on the network security challenges faced by the organization, it also would allow for enhanced investment in security technology and digital security education & training for staff (Refer to Chapter 4- Budgeting for Tech)
 
 Here is a recommended shortlist of things to start monitoring/recording/charting/graphing:
-
 - Load average
 - Memory usage
 - Disk I/O (transactions per second)
@@ -55,7 +54,7 @@ Today’s malware is so advanced that a firewall alone will leave a network vuln
 
 The problem with this defense is that the firewall does not investigate the data that is allowed to enter the doors on the network. If there is danger lurking outside the front door (port connection) and the data finds a way into the home (the network), it will cause an intense amount of damage. And, although it’s not practical to check your guests’ bags, it is necessary to scan all items entering your network to determine if they are friend or foe because the network’s health and safety rely on it. An IDPS is the answer to address this challenge.
 
-An Intrusion Detection and Protection System (IDPS) is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware & produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.
+An Intrusion Detection and Protection System (IDPS) is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware & produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.[^idps]
 
 For added protection, you may adopt the “anomaly detection” versus a “misuse detection” approach via an IDPS. In misuse detection, the IDS analyzes the information it gathers and compares it to large databases of attack signatures. That is, the IDS looks for a specific attack that has already been documented. Much like a virus detection system, detection software is only as good as the database of intrusion signatures that it uses to compare packets against. However, in anomaly detection, the system administrator has more control and can define the baseline, or normal, state of the network's traffic load, breakdown, protocol, and typical packet size. The anomaly detector monitors network segments to compare their state to the normal baseline, looks for anomalies and alerts the system administrator when one is detected.
 
@@ -63,9 +62,9 @@ In order to set up proper network security, layers of software, and solutions ne
 
 ##### 7. 4 Access Control & Authorization #####
 
-Access is the ability to perform a function with a computer resource (e.g., use, change, or view).  Access controls are the system-based means by which the ability is explicitly enabled or restricted in some way.  Access controls can prescribe not only who (a user) or what (a process) is to have access to a specific system resource, but also the level of access that is permitted.
+Access is the ability to perform a function with a computer resource (e.g., use, change, or view).  Access controls are the system-based means by which the ability is explicitly enabled or restricted in some way.  Access controls can prescribe not only who (a user) or what (a process) is to have access to a specific system resource, but also the level of access that is permitted. [^access_auth]
 
-Authentication is the means of establishing the validity of this claim.  There are three means of authenticating a user’s identity which can be used alone or in combination: something the individual knows (a secret –e.g., a password, Personal Identification Number (PIN), or cryptographic key); something the individual possesses (a token – e.g., a bank’s ATM card or a smart card); and something the individual is (a biometric – e.g., characteristics such as a voice pattern, handwriting dynamics, or a fingerprint).
+Authentication is the means of establishing the validity of this claim.  There are three means of authenticating a user’s identity which can be used alone or in combination: something the individual knows (a secret –e.g., a password, Personal Identification Number (PIN), or cryptographic key); something the individual possesses (a token – e.g., a bank’s ATM card or a smart card); and something the individual is (a biometric – e.g., characteristics such as a voice pattern, handwriting dynamics, or a fingerprint). [^access_auth]
 
 In most cases, we rely on passwords (something the individual knows) to authenticate end-users to our systems.
 
@@ -76,6 +75,7 @@ Access control to IT systems and data repositories should be based on the follow
 - Roles: Access to information must also be controlled by the job assignment or function (i.e., the role) of the user who is seeking access.
 - Access Modes: Consider the types of access, or access modes - common access modes, which can be used in both operating and application systems, include read, write, execute, and delete.
 - Location: Where appropriate, access to particular system resources (especially, to sensitive data repositories) will be based upon physical or logical location.
+
 Ensure the following best practices with regards to authentication:
 - Require Users to Authenticate: users must authenticate their claimed identities on all IT resources and data repositories. During the first instance of access with a new account, the initial password must be changed by the individual responsible for the account, in compliance with the defined password policy. Enable 2-factor Authentication. (Refer to Chapter 2 on Password Policy)
 - Limit Log-on Attempts: The organization facilities must limit the number of log-on attempts to five (5).  This helps to prevent guessing of authentication data.  Where round-the-clock system administration service is available, system administrator intervention will be required to clear a locked account.  Where round-the-clock system administration service is not available, accounts will remain locked out for at least ten (10) minutes.

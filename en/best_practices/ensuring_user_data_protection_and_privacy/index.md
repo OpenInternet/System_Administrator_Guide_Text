@@ -10,7 +10,7 @@ Data-at-Rest refers to user information stored on their devices, in external har
 
 When working with users at a media or a human rights organization, it’s imperative to safeguard their information on their devices. Having made the business case for encrypting data (Refer to Chapter 1 for Risk Assessment) and after taking into consideration laws governing your organization (Refer to Chapter 11- Know Your Rights), institute the policy to encrypt all hard-drives to plan against stolen or confiscated devices.
 
-Full disk encryption (FDE) enables strong encryption algorithms to automatically protect all data stored on the hard drive of user’s PCs and laptops. With FDE, data is encrypted automatically when it's stored on the hard disk. This is different from file or folder encryption systems, where it's up to the user to decide which data needs encrypting. FDE's biggest advantage is that there's no room for error if users don't abide by or don't understand encryption policies. [^FDE]
+"Full disk encryption (FDE) enables strong encryption algorithms to automatically protect all data stored on the hard drive of user’s PCs and laptops. With FDE, data is encrypted automatically when it's stored on the hard disk. This is different from file or folder encryption systems, where it's up to the user to decide which data needs encrypting. FDE's biggest advantage is that there's no room for error if users don't abide by or don't understand encryption policies", as explained by Mary Brandel in this article [^FDE] published in ComputerWorld.
 
 Here are some best practices when instituting Full Disk Encryption (FDE):
 
@@ -51,11 +51,11 @@ If staff leave the connection from their device unencrypted while checking email
 - Educate users on the risks of connecting to unsecured, public wifi connections; how to identify a secure connection (https) and train them on establishing a SSL-connection to the internet or email service by using a VPN such as Psiphon.
 - Enable WAP2 to encrypt the wifi connection in the office. For added security, set up a segregated wifi connection for guest versus staff (Refer to chapter 7 - Network Security for best practices in
 securing wifi).
-- Installing browser plug-ins such as HTTPS-Everywhere forces the browser to use encryption on popular websites that usually aren't encrypted, thus making the web more secure. Look for https in the URL to know for sure that a site is secure.
+- Installing browser plug-ins such as HTTPS-Everywhere forces the browser to use encryption on popular websites that usually aren't encrypted, thus making the web more secure. Look for https in the URL to know for sure that a site is secure. [^email_settings]
 
 ![HTTPS Icon](images/ssl_gmail.png)
 
-Most email clients such as (Microsoft Outlook) have built-in settings to ensure a secure encrypted connection is established, enable these settings during the configuration of the email client on their devices.
+Most email clients such as (Microsoft Outlook) have built-in settings [^email_settings] to ensure a secure encrypted connection is established, enable these settings during the configuration of the email client on their devices.
 
 ![HTTPS Email checkbox](images/SSL_email.png)
 

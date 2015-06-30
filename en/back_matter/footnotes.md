@@ -8,13 +8,23 @@
 
 [^risk_matrix]: [Humanitarian Practice Network, Operational Security Management in Violent Environments (Revised Edition)](http://www.odihpn.org/hpn-resources/good-practice-reviews/operational-security-management-in-violent-environments-revised-edition)
 
+[^multilingual]: [Password Management Best Practices](http://hitachi-id.com/password-manager/docs/password-management-best-practices.html)
+
+[^daas]: [For suggested reading on this topic, refer to TechTarget, How Cloud Security Concerns Affect Trust in DaaS Providers:](http://searchvirtualdesktop.techtarget.com/tip/How-cloud-security-concerns-affect-trust-in-DaaS-providers)
+
 [^change_management]:[10 Best Practices in Change Management](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/)
 
 [^agreement_components]: [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
 
 [^FDE]: [Full Disk Encryption Dos and Don'ts](http://www.computerworld.com/article/2528345/network-security/full-disk-encryption-dos-and-don-ts.html)
 
+[^email_settings]: [PCWorld, How to Encrypt Your Email](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
+
 [^firewall_management]: [Simple Firewall Best Practices for Small and Midsize Businesses](https://technet.microsoft.com/en-us/security/hh144813.aspx)
+
+[^idps]: [TechTarget, Do you need an IDS or IPS, or both](http://searchsecurity.techtarget.com/Do-you-need-an-IDS-or-IPS-or-both)
+
+[^access_auth]: http://csrc.nist.gov/groups/SNS/rbac/documents/design_implementation/csl95-12.txt
 
 [^log_management]: [Log Management – Lifeblood of Information Security](http://www.net-security.org/article.php?id=975&p=2)
 
