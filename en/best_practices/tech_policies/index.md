@@ -1,10 +1,13 @@
 ##Tech Policies## {#chapter2}
 
+Password Policy(#password)
 
-SAVE THIS CODE
-## Physical Security {#bpps}
+Data Privacy Polciy (#dataprivacy)
 
-- [Best Practices](#bppsbp)
+BYOD Policy (#byod)
+
+
+
     1. [10.1 Equipment Security](#psbp1)
     2. [10.2 Prevent unauthorized access to your ISP connection](#psbp2)
     3. [10.3 Prevent unauthorized physical access](#psbp3)
@@ -17,20 +20,34 @@ SAVE THIS CODE
 - [Recommended Reading](#bppsrr)
 - cd [Chapter References](#bppscr)
 
-!INCLUDE "introduction.md"
+### Password Policy {#password}
 
-### Best Practices {#bppsbp}
+!INCLUDE "password.md"
 
-!INCLUDE "best_practices.md"
+### Data Privacy Policy {#dataprivacy}
 
-### Tools & Templates {#bppstt}
+!INCLUDE "dataprivacy.md"
 
-!INCLUDE "tools_and_templates.md"
+### BYOD Policy {#BYOD}
 
-### Recommended Reading {#bppsrr}
+!INCLUDE "byod.md"
+
+### Staff Onboarding & Departure Policy {#onboarding}
+
+!INCLUDE "onboarding.md"
+
+### Traveller's Policy {#travel}
+
+!INCLUDE "travel.md"
+
+### Incident Reporting Policy {#incident}
+
+!INCLUDE "incident.md"
+
+### Recommended Reading {#reading}
 
 !INCLUDE "recommended_reading.md"
 
-### Chapter References {#bppscr}
+### Chapter References {#references}
 
 !INCLUDE "chapter_references.md"
