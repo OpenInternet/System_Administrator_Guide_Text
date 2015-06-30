@@ -11,6 +11,8 @@
 
 [^multilingual] [Password Management Best Practices] (http://hitachi-id.com/password-manager/docs/password-management-best-practices.html)
 
+[^daas]: For suggested reading on this topic, refer to TechTarget, How Cloud Security Concerns Affect Trust in DaaS Providers: http://searchvirtualdesktop.techtarget.com/tip/How-cloud-security-concerns-affect-trust-in-DaaS-providers
+
 [^change_management]:[10 Best Practices in Change Management] (http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/)
 
 [^agreement_components]: [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
