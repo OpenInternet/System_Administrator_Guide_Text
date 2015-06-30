@@ -76,6 +76,9 @@ Do your customers know how to reach you? Share your contact information with end
 
 **ADD IMAGE**
 
+####Recommended Reading####
+(Left blank intentionally; looking for contributions from the community) 
+
 ####Chapter References####
 - PCMag.com: http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
 - Change Management Plan Workbook & Template, Queensland Government Chief Information Office: http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf
