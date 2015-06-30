@@ -1,5 +1,3 @@
-#### Introduction
-
 Having understood the operational risks to your organization, its mission and its stakeholders (staff, partners, sources or donors) in Chapter 1 (Conducting a Risk Assessment), your next move is to design & institute tech policies that will help you attain the specific security goals defined. 
 
 Tech policies help you implement a security roadmap, maintain a controlled environment when reacting to risks, and most importantly, help you align recommended best practices to your organization’s day-to-day operations while holding people accountable for following these practices, ultimately promoting a culture of digital well-being. 
