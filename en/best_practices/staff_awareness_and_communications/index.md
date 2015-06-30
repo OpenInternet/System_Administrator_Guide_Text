@@ -1,4 +1,4 @@
-##Staff Awareness & Communications##
+##Staff Awareness & Communications## {#chapter3}
 
 While a holistic approach to security encompasses technology, process and people - the main focus of this chapter is on *“the people”*- this is the area of greatest impact. One can have the best technology and practices in place, however, if they are not used or followed appropriately, then other efforts will fall short of safeguarding an organization against security threats.
 
