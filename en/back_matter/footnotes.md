@@ -18,7 +18,7 @@
 
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box] (https://securityinabox.org/en/guide/physical)
 
-[^rights_suggestions]
+[^rights_suggestions]: [Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks] (http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
 
 
 
