@@ -132,6 +132,5 @@ Help create a holistic security environment for users by educating them on revie
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
 - [Tactical Tech'sSecurity-in-a-Box](https://securityinabox.org/en)
 - [FrontlineDefenders: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
-
 - [Internews, SaferJourno](https://saferjourno.internews.org/)
 - [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
