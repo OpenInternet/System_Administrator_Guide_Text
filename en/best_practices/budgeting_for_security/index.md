@@ -81,7 +81,9 @@ As you design a security program for your organization, it is a good practice to
 
 ####Tools & Templates####
 - Discounted software licenses for registered NGOs is available via [TechSoup](http://www.techsoup.org/)
-- Snapshot of a sample IT budget **(link to a blank budget template will be provided)**
+- Snapshot of a sample IT budget
+
+![Sample Budget](images/budget_snapshot.png)
 
 ####Recommended Reading####
 (Left blank intentionally; looking for contributions from the community)
