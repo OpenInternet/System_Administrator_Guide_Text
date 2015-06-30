@@ -55,7 +55,7 @@ author: 'Mahvash Taqi'
 
 [Chapter 4- Budgeting for Security](#chapter4)
 
-- 4.1 Create a business case for investment in cyber security
+- 4.1 Make a case for including Security as a line item in the overall organization’s budget 
 - 4.2 IT Budget - Do’s and Don’ts
 - 4.3 Security Program Metrics
 - 4.4 Communication with decision-makers
