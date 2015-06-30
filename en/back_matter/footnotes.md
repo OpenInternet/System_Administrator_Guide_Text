@@ -1,4 +1,6 @@
-[^adminrole]: [The Guardian, Cory Doctorow: If one thing gives me hope for the future, it’s the cause of internet freedom] (http://www.theguardian.com/technology/2015/may/26/hope-future-internet-activism-freedom)
+[^adminrole]: [The Guardian, Cory Doctorow: If one thing gives me hope for the future, it’s the cause of internet freedom]
+(http://www.theguardian.com/technology/2015/may/26/hope-future-internet-activism-freedom)
+
 [^risk_assessment_definitions]: [Frontline Defenders: Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
 [^risk_formula]: [Frontline Defenders: Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
