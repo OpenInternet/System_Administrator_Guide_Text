@@ -23,6 +23,8 @@
 
 [^firewall_management]: [Simple Firewall Best Practices for Small and Midsize Businesses] (https://technet.microsoft.com/en-us/security/hh144813.aspx)
 
+[^idps] [TechTarget, Do you need an IDS or IPS, or both](http://searchsecurity.techtarget.com/Do-you-need-an-IDS-or-IPS-or-both)
+
 [^log_management]: [Log Management – Lifeblood of Information Security] (http://www.net-security.org/article.php?id=975&p=2)
 
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box] (https://securityinabox.org/en/guide/physical)
