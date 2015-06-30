@@ -5,7 +5,8 @@ A Service Level Agreement (SLA, for short) is a legal document that explains wha
 
 Your SLA plays an important role in defining the relationship between you and your IT service provider. It guarantees you a certain level of service, giving you confidence that if something goes wrong, the service provider will respond quickly. Without a comprehensive SLA in place, you are unlikely to have much leverage if your IT service provider fails to respond to your requests.
 
-####Best Practices#### [^agreement_components]
+####Best Practices#### 
+Here are a few suggested best practices [^agreement_components]: 
 
 **5.1 Uptime**
 

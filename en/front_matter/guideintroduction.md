@@ -8,6 +8,8 @@ The FOTN report also highlights that internet freedom around the world has decli
 The internet has become a new battleground between governments that censor online content and those who advocate freedom to browse, post, and share information online for all, regardless of their place of residence.
 
 ####Role of a System Administrator####
-Within their area of responsibility, system administrators facilitate end-user privilege management, implement operating procedures to conform to information security standards, and the adoption of security protocols. [^adminrole] However, the role of a System Administrator working in an at-risk organization goes beyond the daily grind of monitoring networks, user-account management or setting up new firewall rules.
 
-Given the changing technology environment, system administrators have the additional responsibility to be change agents within their organization and steer decision-makers and staff to adopt a more holistic approach to security after understanding the context within which their organization is operating, the risks it faces and the laws that govern it.
+
+Within their area of responsibility, system administrators facilitate end-user privilege management, implement operating procedures to conform to information security standards, and the adoption of security protocols. [^adminrole] However, the role of a System Administrator working in an at-risk organization goes beyond the daily grind of monitoring networks, user-account management or setting up firewall rules.
+
+Given the changing technology environment, system administrators have the additional responsibility to be **change agents** within their organization and steer decision-makers and staff to adopt a more holistic approach to security after understanding the context within which their organization is operating, the risks it faces and the laws that govern it.

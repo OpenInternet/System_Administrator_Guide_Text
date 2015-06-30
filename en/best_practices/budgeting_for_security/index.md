@@ -104,5 +104,4 @@ As you design a security program for your organization, it is a good practice to
 - [Understand The State Of Network Security, Forrester](https://www.forrester.com/Understand+The+State+Of+Network+Security+2014+To+2015/fulltext/-/E-RES119025)
 - [Cyber Security-It’s not just about technology, KPMG](http://www.kpmg.com/Global/en/IssuesAndInsights/ArticlesPublications/Documents/cyber-security-not-just-technology.pdf)
 - [States’ Cyber Security Budget Conundrum, Wall Street Journal-October 2014](http://deloitte.wsj.com/cio/2014/10/30/states-cyber-security-budget-conundrum/)
-
 - [A clever way to increase employee awareness about phishing, Network World, Linda Musthaler](http://www.networkworld.com/article/2273153/lan-wan/a-clever-way-to-increase-employee-awareness-about-phishing.html)

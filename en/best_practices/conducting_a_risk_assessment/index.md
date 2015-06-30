@@ -1,8 +1,8 @@
 ##Conducting a Risk Assessment## {#chapter1}
 
-We assess and manage risks constantly in our daily activities - from pouring a hot cup of coffee in a paper cup to crossing a busy road during rush-hour traffic. This innate habit of assessing risks transcends to business as well, such as planning against financial uncertainty by diversifying revenue streams or reacting to new laws that could affect organizational impact. While managing physical and financial risks is important, it is imperative to apply these concepts to information and communication security, and the overall *digital well-being* of an organization, as well.
+We assess and manage risks constantly in our daily activities - from pouring a hot cup of coffee in a paper cup to crossing a busy road during rush-hour traffic. This innate habit of assessing risks transcends to business as well, such as planning against financial uncertainty by diversifying revenue streams or reacting to new laws that could affect organizational impact. While managing physical and financial risks is important, it is imperative to apply these concepts to information and communication security, and the overall *"digital well-being"* of an organization, as well.
 
-As a system administrator working at an organization focused on human rights or in a media outlet, you are uniquely positioned to influence digital well-being and have a responsibility beyond the daily tasks of monitoring network traffic and user account management to lead your organization through a holistic approach to security. After all, digital security is not just about the tools used but an understanding of risks and measures that need to be taken to mitigate them - more often, these measures may include enhancing physical security, or “soft approaches” such as raising end-user awareness & training, instead of further investment in a top-of-the-line IDPS (intrusion detection & prevention system). While the latter is essential, the vulnerabilities exposed by an insecure work environment (device theft) or an ill-informed end-user whose email account gets hacked due to weak password practices (information & identity theft) can expose sensitive organizational data, causing havoc and should not be ignored. As such, a 360-degree approach to digital security –which goes beyond systems and software is essential.
+As a system administrator working at an organization focused on human rights or in a media outlet, you are uniquely positioned to influence the digital well-being and have a responsibility beyond the daily tasks of monitoring network traffic and user account management to lead your organization through a holistic approach to security. After all, digital security is not just about the tools used but an understanding of risks and measures that need to be taken to mitigate them - more often, these measures may include enhancing physical security, or “soft approaches” such as raising end-user awareness & training, instead of further investment in a top-of-the-line IDPS (intrusion detection & prevention system). While the latter is essential, the vulnerabilities exposed by an insecure work environment (device theft) or an ill-informed end-user whose email account gets hacked due to weak password practices (information & identity theft) can expose sensitive organizational data, causing havoc and should not be ignored. As such, a 360-degree approach to digital security –which goes beyond systems and software is essential.
 
 Having said this, digital security is also *not* just the sole responsibility of a system administrator or IT staff - it requires an organizational commitment from staff at every level, from decision-makers to the receptionist, with a unified pledge of safeguarding the organization’s mission, its progress, reputation and the physical well-being of all associated individuals (staff, target audience of work performed, partner, donors, etc.) Organizational buy-in is critical for a security plan to succeed - as holistic security encompasses technology, processes and people.
 
@@ -59,7 +59,7 @@ Since risks will differ according to the unique context of your country, the pat
 
 Based on your specific scenario, the list of potential risks can be overwhelming and can create a sense of “panic” among staff who may feel paralyzed by existing vulnerabilities that need to be addressed, especially if capacities are hugely lacking.
 
-As such, as a next step, it’s imperative to assess the probability and impact of these risks. Mapping these risks against a Risk Matrix will help you prioritize the areas where most attention is required, without overwhelming staff, business processes and limited resources.
+As such, as a next step, it’s imperative to assess the probability and impact of these risks. Mapping these risks against a Risk Matrix [^risk_matrix] will help you prioritize the areas where most attention is required, without overwhelming staff, business processes and limited resources.
 
 ![Risk Matrix](images/risk_matrix.png)
 
@@ -83,24 +83,39 @@ Be sure to share the above risk assessment framework (Steps 1- 4) with staff as 
 
 **Tools & Templates**
 - [Risk Assessment worksheet (Figure 2.1 page 15; Frontline Defenders: (Workbook on Security)](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+
 - [Internews’ SAFETAG audit framework and approach towards Risk Modeling & Roadmap Development ](http://safetag.org/overview.pdf)
 
 **Recommended Reading**
 - [EFF, An Introduction to Threat Modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
 - [Frontline Defenders: Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+
 - [Humanitarian Practice Network, Operational Security Management in Violent Environments (Revised Edition)](http://www.odihpn.org/hpn-resources/good-practice-reviews/operational-security-management-in-violent-environments-revised-edition)
+
 - [Internews’ SAFETAG audit framework](http://safetag.org/overview.pdf)
+
 - [NIST, Guide for Conducting Risk Assessments](http://csrc.nist.gov/publications/nistpubs/800-30-rev1/sp800_30_r1.pdf)
 
 **Chapter References**
 - [NIST, An Introduction to Computer Security: The NIST Handbook](http://csrc.nist.gov/publications/nistpubs/800-12/handbook.pdf)
+
 - [RiseUp, Communication Security](https://help.riseup.net/en/security)
+
 - [EFF, An Introduction to Threat Modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
 - [Frontline Defenders: Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+
 - [Rory Peck Trust, Digital Security Risk Assessment guide](https://web.archive.org/web/20140722111408/https://rorypecktrust.org/getmedia/f8ca7438-3202-4890-89e3-c1d8dba80bad/Rory-Peck-Trust-Digital-Security-Risk-Assessment-Guide.pdf.aspx?ext=.pdf)
+
 - [Humanitarian Practice Network, Operational Security Management in Violent Environments (Revised Edition)](http://www.odihpn.org/hpn-resources/good-practice-reviews/operational-security-management-in-violent-environments-revised-edition)
+
 - [Integrated Security, Defining the threshold of acceptable risk](http://www.integratedsecuritymanual.org/exercise/defining-the-threshold-of-acceptable-risk)
+
 - [Cisco, Network Security Policy: Best Practices White Paper](http://www.cisco.com/c/en/us/support/docs/availability/high-availability/13601-secpol.html#t4)
+
 - [EFF, An Introduction to Threat Modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
 - [PBS.org, Rory Byrne, Information Security for Journalists - The Bigger Picture](http://www.pbs.org/idealab/2014/06/information-security-for-journalists-the-bigger-pictur)
+
 - [Front Line - The International Foundation for the Protection of Human Rights Defenders, Protection Manual for Human Rights Defenders](http://www.peacebrigades.org/fileadmin/user_files/groups/uk/files/Publications/Frontline_Manual_pdf.pdf#page=83)
