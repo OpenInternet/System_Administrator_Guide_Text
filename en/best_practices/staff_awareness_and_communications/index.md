@@ -79,31 +79,19 @@ While you have your super-hero cape on to help safeguard your organization’s i
 Do your customers know how to reach you? Share your contact information with end-users, when they join the organization to make sure they have multiple ways to contact you when they need your assistance. While most system administrators spend their time behind huge screens monitoring the network, walk around and find ways to talk to end-users in hallways or in common areas - “de-mystify your presence” to ensure direct communication with your end-users.
 
 ####Tools & Templates####
-
 - [Digital Hygiene Campaign posters for display in common areas from Stop. Think. Connect:](http://stopthinkconnect.org/campaigns/keep-a-clean-machine/)
-
 - Example of a Service Maintenance Notice to staff
-
 ![service notice](images/service_email.png)
 
 ####Recommended Reading####
-
 (Left blank intentionally; looking for contributions from the community)
 
 ####Chapter References####
-
 - [PCMag.com](http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
-
 - [Change Management Plan Workbook & Template, Queensland Government Chief Information Office](http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf)
-
 - [Prosci Change Management Learning Center](http://www.change-management.com/best-practices-report-toc.htm)
-
 - [Tim Tinker, Booz Allen Hamilton](http://www.boozallen.com/media/file/applying-change-management-in-crisis-and-emergency.pdf)
-
 - [Microsoft TechNet](https://www.microsoft.com/technet/prodtechnol/exchange/guides/ExMgmtGuide/ce0d5bce-3426-42ec-95ea-638aec4b83b5.mspx?mfr=true)
-
 - [Cisco Change Management Best Practices](http://www.cisco.com/c/en/us/products/collateral/services/high-availability/white_paper_c11-458050.html)
-
 - [Intuit Quickbase](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/#sthash.LZM0U59v.dpuf)
-
 - [Change Management Coach](http://www.change-management-coach.com/change-management-models.html)
