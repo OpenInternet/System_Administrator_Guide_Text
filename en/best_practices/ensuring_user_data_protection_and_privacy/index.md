@@ -107,9 +107,9 @@ Help create a holistic security environment for users by educating them on revie
 
 ###Tools & Templates###
 
-- [Anonymous web browsing:](https://www.torproject.org/)
+- [Anonymous web browsing](https://www.torproject.org/)
 
-- [Secure Email & mailing lists: Riseup.net:](https://help.riseup.net)
+- [Secure Email & mailing lists: Riseup.net](https://help.riseup.net)
 
 - Encrypted cloud data storage: SpiderOak, all data on servers is encrypted and cannot be viewed by the sysadmins.
 
@@ -117,48 +117,48 @@ Help create a holistic security environment for users by educating them on revie
 
 - Encrypted phone calls: Redphone, Signal, Ostel
 
-- [Secure web browsing: HTTPS everywhere:](https://www.eff.org/https-everywhere)
+- [Secure web browsing: HTTPS everywhere](https://www.eff.org/https-everywhere)
 
-- [SparkleShare.org File Synchronization:](http://sparkleshare.org/)
+- [SparkleShare.org File Synchronization](http://sparkleshare.org/)
 
 ###Recommended Reading###
 
-- [Internews, SpeakSafe:](https://speaksafe.internews.org/)
+- [Internews, SpeakSafe](https://speaksafe.internews.org/)
 
-- [Tactical Tech's Security-in-a-Box:](https://securityinabox.org/en)
+- [Tactical Tech's Security-in-a-Box](https://securityinabox.org/en)
 
-- [Frontline Defenders: Practical Steps for Human Rights Defenders at Risk:](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+- [Frontline Defenders: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
-- [Internews, SaferJourno:](https://saferjourno.internews.org/)
+- [Internews, SaferJourno](https://saferjourno.internews.org/)
 
-- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders:](https://www.frontlinedefenders.org/esecman/)
+- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
 
-- [BetterCrypto.org, Applied Crypto Hardening:](https://bettercrypto.org/static/applied-crypto-hardening.pdf)
+- [BetterCrypto.org, Applied Crypto Hardening](https://bettercrypto.org/static/applied-crypto-hardening.pdf)
 
 ###Chapter References###
 
-- [Wired, March 2015:](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
+- [Wired, March 2015](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
 
-- [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls:](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
+- [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
 
-- [LiUtilities.com: How to Encrypt a Wireless Router:](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
+- [LiUtilities.com: How to Encrypt a Wireless Router](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
 
 - [OnGuardOnline.Gov: Securing Your Wireless Network:](http://www.onguardonline.gov/articles/0013-securing-your-wireless-network)
 
-- [CSOOnline - Full Disk Encryption Dos and Don'ts:](http://www.csoonline.com/article/2124486/data-protection/full-disk-encryption-dos-and-don-ts.html?page=2)
+- [CSOOnline - Full Disk Encryption Dos and Don'ts](http://www.csoonline.com/article/2124486/data-protection/full-disk-encryption-dos-and-don-ts.html?page=2)
 
-- [PCWorld- How to encrypt your email:](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
+- [PCWorld- How to encrypt your email](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
 
-- [OnGuardOnline.Gov: Tips for Using Public Wi-Fi Networks:](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
+- [OnGuardOnline.Gov: Tips for Using Public Wi-Fi Networks](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
 
-- [National Network to End Domestic Violence:](http://tools.nnedv.org/tipsheets-charts)
+- [National Network to End Domestic Violence](http://tools.nnedv.org/tipsheets-charts)
 
-- [Internews, SpeakSafe:](https://speaksafe.internews.org/)
+- [Internews, SpeakSafe](https://speaksafe.internews.org/)
 
-- [Tactical Tech'sSecurity-in-a-Box:](https://securityinabox.org/en)
+- [Tactical Tech'sSecurity-in-a-Box](https://securityinabox.org/en)
 
-- [FrontlineDefenders: Practical Steps for Human Rights Defenders at Risk:](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+- [FrontlineDefenders: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
-- [Internews, SaferJourno:](https://saferjourno.internews.org/)
+- [Internews, SaferJourno](https://saferjourno.internews.org/)
 
-- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders:](https://www.frontlinedefenders.org/esecman/)
+- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
