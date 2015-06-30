@@ -36,21 +36,15 @@ This model focuses on outcomes and not on tasks to be performed. Many change mod
 
 The focus of this model is on individual change, ensuring each person makes the transition. When you focus on the individual, you are able to measure where they are in the change process and what is required to assist them. You are not simply relying on running a certain number of training programs, or communicating a particular message, and expecting everyone to follow.
 
-Following are some best practices when instituting organizational wide change to tech processes. We’ll look at concrete examples of these principles [^change_management] in our next section (3.4):
+Following are some best practices when instituting organizational wide change to tech processes. We’ll look at concrete examples of these principles as highlighted in Intuit Quickbase's guide to change management [^change_management] in our next section (3.4):
 
 - **Provide early and consistent communication**: Your employees will resist change more when it is sudden and they have little time to adjust. Release information as soon as possible, and then roll out the change in incremental steps.
-
 - **Iron out the kinks**: Nothing is more frustrating than a new software system that is buggy, or a new set of rules that never stay the same. Make sure the change is tested and is rock-solid before you start implementing it. Create a roll-back plan to revert to incase the change fails.
-
 - **Time it right**: Try not to roll out change during a time of the year that is busy, or when the organization is under exceptional pressure.
-
 - **Make the change desirable, get end-user buy-in**: Help end-users understand the need for the change by discussing problems with the current system, and soliciting advice in making the change successful. Ensure you have their buy-in to ensure seamless adoption. Compile this feedback with statistics and trend data. Design a presentation that promotes the change.
 - **Make the benefits relevant**: Help end-users understand the big picture by outlining the organization’s threats, and illustrating how the change will help mitigate them. Break down the benefits so they apply directly to them. For example, how using a password management system will protect organizational data or how using encrypted channels (where permissible) would protect their communication.
-
 - **Monitor the change as it's implemented**: If your plan hits a snag, identify and correct it quickly, before it sours the atmosphere. Watch modified operations carefully, and instruct end-users to provide feedback.
-
 - **Fully integrate the change**: Help existing employees adapt to the change faster, and make sure new employees understand it right away by revising new-hire orientation material.
-
 - **Ease up the pressure**: Don’t expect end-users to adjust to the change right off the bat. Make it clear that there is a learning curve, and that you are open to questions and concerns. Remember that being adaptable by considering feedback may help you perfect the change.
 
 **3.4 Communication & Training**
