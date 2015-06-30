@@ -67,8 +67,6 @@ Your end-users are busy making the world a better place - their time is of value
 
 Use every opportunity to share a best practice with them - the most opportune time may be when you are helping them fixing a print error they are experiencing or installing software on their computer. A friendly conversation can be a teaching moment that will help you accomplish your goal of ensuring they are following best practices and eliminating their likelihood of being the weakest link in the security chain.
 
-**ADD IMAGE**
-
 ![Staff Training](images/staff_training.png)
 
 
