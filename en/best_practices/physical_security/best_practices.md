@@ -17,15 +17,23 @@ Always escort a representative from the ISP or local telecommunications
 provider when providing physical access to this electrical closet.
 
 #### 10.3 Prevent unauthorized physical access {#psbp3}
-- Physical security of your organization starts at your building’s doorstep. This includes who the building security guard allows access to, followed by authorization to enter the office premises after approval from the receptionist. Ensure that your organization has a guest entry log procedure. All non-employees should be escorted by a staff person present at all times, including any service providers.  
-- If the situation warrants it (based on your organizational Risk Assessment - Chapter 1) and after consultation with the organization’s decision-makers, consider installing security cameras to monitor the office premises. Make sure signs informing staff & visitors that they are being “surveilled” via these cameras are clearly placed to ensure complete transparency. In addition, ensure that the cameras are installed such that they won’t invade privacy of staff by capturing their computer screens; create a policy that communicates secure storage & access of the security camera tapes. the At the very least, there should be a procedure in place to safeguard the premises via an alarm system or access to the office keys by critical staff. If keys are used to secure premises, ensure that keys are handled securely at all times and there is a key handling policy in place. 
-- Locate critical networks, servers, workstations and telecommunications equipment in physically secure locations that permit access only to authorized personnel. Consider investing in locked closets to provide additional security and have clear signs denoting areas of unauthorized access to staff. Always accompany a vendor in the server room if service is being received. 
-- Ensure servers are mounted on sturdy racks, a few feet above the ground. Cables should be clearly marked and secured above ground, not left loose as this could be hazardous to staff. 
-- WAPs (wifi access points) should be secured via in a sealed, transparent “security box” ensuring that they cannot be tampered with. 
-- In addition to protecting servers, routers, WAP(s), ensure that the office phone sets, fax stations, scanners and printers are equally secured and access is restricted to staff. These devices should be placed in visible common areas to prevent tampering.  Place reminders next to fax machines and printers to ensure staff are not leaving sensitive documents unattended and all confidential documents are shredded before they are disposed. 
+- Physical security of your organization starts at your building’s doorstep. This includes who the building security guard allows access to, followed by authorization to enter the office premises after approval from the receptionist. Ensure that your organization has a guest entry log procedure. All non-employees should be escorted by a staff person present at all times, including any service providers.
+
+- If the situation warrants it (based on your organizational Risk Assessment - Chapter 1) and after consultation with the organization’s decision-makers, consider installing security cameras to monitor the office premises. Make sure signs informing staff & visitors that they are being “surveilled” via these cameras are clearly placed to ensure complete transparency. In addition, ensure that the cameras are installed such that they won’t invade privacy of staff by capturing their computer screens; create a policy that communicates secure storage & access of the security camera tapes. the At the very least, there should be a procedure in place to safeguard the premises via an alarm system or access to the office keys by critical staff. If keys are used to secure premises, ensure that keys are handled securely at all times and there is a key handling policy in place.
+
+- Locate critical networks, servers, workstations and telecommunications equipment in physically secure locations that permit access only to authorized personnel. Consider investing in locked closets to provide additional security and have clear signs denoting areas of unauthorized access to staff. Always accompany a vendor in the server room if service is being received.
+
+- Ensure servers are mounted on sturdy racks, a few feet above the ground. Cables should be clearly marked and secured above ground, not left loose as this could be hazardous to staff.
+
+- WAPs (wifi access points) should be secured via in a sealed, transparent “security box” ensuring that they cannot be tampered with.
+
+- In addition to protecting servers, routers, WAP(s), ensure that the office phone sets, fax stations, scanners and printers are equally secured and access is restricted to staff. These devices should be placed in visible common areas to prevent tampering.  Place reminders next to fax machines and printers to ensure staff are not leaving sensitive documents unattended and all confidential documents are shredded before they are disposed.
+
 - Ensure your office’s facilities - main power supply, internet connection from the ISP (internet service provider), air conditioning and UPS (Uninterruptible Power Supply) cannot be tampered with. Its recommended to have backup UPS powered and ready to go in case of device failure of the main UPS for critical IT services. Where feasible, you may also consider a redundant power supply (such as a generator) or internet connection (a backup ISP). Take into account costs associated to ensuring redundancy & business continunity. (Refer to Chapter 4-Budegting for Security and Chapter 8-Data Security, Backup & Recovery for additional best practices)
-- Invest in fire extinguishers for the office, and in particular for the server room. Consider investing in gas-based fire extinguishers that wont damage servers or other equipment in the server room. Display a clearly marked fire escape plan in common areas and in the server room. 
-- Secure all desktops, laptops and other portable devices with locks. 
+
+- Invest in fire extinguishers for the office, and in particular for the server room. Consider investing in gas-based fire extinguishers that wont damage servers or other equipment in the server room. Display a clearly marked fire escape plan in common areas and in the server room.
+
+- Secure all desktops, laptops and other portable devices with locks.
 
 
 #### 10.4 System Console & Auto-logout {#psbp4}
@@ -42,12 +50,14 @@ superuser password at the console:
     away; make a practice to log-out every time after completing your
     job. If your system supports timeout feature for system console,
     configure it.
+
 -   System administrators generally have an habit of keeping multiple
     sessions/windows to different systems simultaneously active to carry
     out administrative tasks. If an intruder breaks into a system
     administrator's terminal, there is a chance of getting access to
     multiple systems. These terminals should be located in a secure
     area.
+
 -   Evaluate a policy for remote access to servers: while this can be
     added convenience for system administrators, if not implemented and
     monitored carefully, it can also expose a huge security hole into
@@ -119,22 +129,28 @@ do to protect your computers and network equipment from such threats:
     physically harm the electronic components in your computer. Invest
     in a UPS (Uninterruptible Power Supplies) to stabilise electricity
     supply and provide temporary power in the event of a blackout.
+
 -   Test your electrical network before you connect important equipment
     to it. Try to use power sockets that have three slots, one of them
     being a 'ground line', or 'earth'. And, if possible, take a day or
     two to see how the electrical system in a new office behaves when
     powering inexpensive devices, such as lamps and fans, before putting
     your computers at risk.
+
 -   To defend against accidents in general, avoid placing critical
     hardware in passages, reception areas or other easily accessible
     locations.
+
 -   UPS', power filters, surge protectors, power strips and extension
     cables, particularly those attached to servers and networking
     equipment, should be positioned where they will not be switched off
     by an accidental misstep.
+
 -   If you keep any of your computers or servers inside cabinets, make
     sure they have adequate ventilation, or they might overheat.
+
 -   Computer equipment should not be housed near radiators, heating
     vents, air conditioners or other ductwork.
+
 -   Exposed power strips or wires are a fire hazard; keep cables away
     from water or direct sunlight.

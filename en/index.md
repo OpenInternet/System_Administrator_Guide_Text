@@ -1,7 +1,7 @@
 ---
 title: 'Guide for System Administrators in At‐Risk Organizations'
-Created, Written and Produced by: 'Mahvash Taqi'
-Lead Research Assistant:'Srija S'
+assistant: 'Srija S'
+author: 'Mahvash Taqi'
 ---
 
 ## Introduction
