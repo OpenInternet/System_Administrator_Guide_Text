@@ -108,3 +108,32 @@
 - [ITDonut Resources:](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
 - [Biztree.com:](http://www.biztree.com/doc/service-level-agreement-D778)
 - [TidyForm.com:](http://www.tidyform.com/service-level-agreement.html)
+
+####Chapter 6- Ensuring User Data Protection & Privacy####
+###Chapter References###
+
+- [Wired, March 2015:](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)
+
+- [GizMag, September 2014- Apps to easily encrypt your text messaging and mobile calls:](http://www.gizmag.com/secure-text-messaging-phone-clients-comparison-ios-and-android/34000/)
+
+- [LiUtilities.com: How to Encrypt a Wireless Router:](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
+
+- [OnGuardOnline.Gov: Securing Your Wireless Network:](http://www.onguardonline.gov/articles/0013-securing-your-wireless-network)
+
+- [CSOOnline - Full Disk Encryption Dos and Don'ts:](http://www.csoonline.com/article/2124486/data-protection/full-disk-encryption-dos-and-don-ts.html?page=2)
+
+- [PCWorld- How to encrypt your email:](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
+
+- [OnGuardOnline.Gov: Tips for Using Public Wi-Fi Networks:](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
+
+- [National Network to End Domestic Violence:](http://tools.nnedv.org/tipsheets-charts)
+
+- [Internews, SpeakSafe:](https://speaksafe.internews.org/)
+
+- [Tactical Tech'sSecurity-in-a-Box:](https://securityinabox.org/en)
+
+- [FrontlineDefenders: Practical Steps for Human Rights Defenders at Risk:](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
+
+- [Internews, SaferJourno:](https://saferjourno.internews.org/)
+
+- [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders:](https://www.frontlinedefenders.org/esecman/)
