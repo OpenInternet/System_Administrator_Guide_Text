@@ -19,6 +19,10 @@ BYOD Policy (#byod)
 - [Tools & Templates](#bppstt)
 - [Recommended Reading](#bppsrr)
 - cd [Chapter References](#bppscr)
+- 
+### Introduction {#introduction}
+
+!INCLUDE "introduction.md"
 
 ### Password Policy {#password}
 
