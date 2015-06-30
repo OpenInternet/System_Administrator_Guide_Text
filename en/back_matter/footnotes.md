@@ -19,6 +19,8 @@
 
 [^FDE]: [Full Disk Encryption Dos and Don'ts] (http://www.computerworld.com/article/2528345/network-security/full-disk-encryption-dos-and-don-ts.html)
 
+[^email_settings] [PCWorld, How to Encrypt Your Email](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
+
 [^firewall_management]: [Simple Firewall Best Practices for Small and Midsize Businesses] (https://technet.microsoft.com/en-us/security/hh144813.aspx)
 
 [^log_management]: [Log Management – Lifeblood of Information Security] (http://www.net-security.org/article.php?id=975&p=2)
