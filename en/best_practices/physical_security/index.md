@@ -147,5 +147,11 @@ do to protect your computers and network equipment from such threats:
 -   Exposed power strips or wires are a fire hazard; keep cables away
     from water or direct sunlight.
 
+####Tools & Templates#### 
+- VPN: [Psiphon](https://psiphon.ca/); [RiseupVPN](https://help.riseup.net/en/vpn)
+
+####Recommended Reading####
+
+####Chapter References####
 
 
