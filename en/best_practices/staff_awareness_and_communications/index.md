@@ -34,9 +34,9 @@ One process model that is often cited is ADKAR: Awareness-Desire-Knowledge-Abili
 
 This model focuses on outcomes and not on tasks to be performed. Many change models describe what needs to be done, while this model describes the outcomes.
 
-The focus of this model is on individual change, ensuring each person makes the transition. When you focus on the individual, you are able to measure where they are in the change process and what is required to assist them. You are not simply relying on running a certain number of training programs, or communicating a particular message, and expecting everyone to follow.
+The focus of this model is on individual change, ensuring each person makes the transition. When you focus on the individual, you are able to measure where they are in the change process and what is required to assist them. You are not simply relying on running a certain number of training programs, or communicating a particular message, and expecting everyone to follow. [^change_mgmt]
 
-Following are some best practices when instituting organizational wide change to tech processes. We’ll look at concrete examples of these principles as highlighted in Intuit Quickbase's guide to change management [^change_management] in our next section (3.4):
+Following are some best practices when instituting organizational wide change to tech processes, as highlighted in Intuit Quickbase's guide to change management [^change_management]. We’ll look at concrete examples of these principles in our next section (3.4):
 
 - **Provide early and consistent communication**: Your employees will resist change more when it is sudden and they have little time to adjust. Release information as soon as possible, and then roll out the change in incremental steps.
 - **Iron out the kinks**: Nothing is more frustrating than a new software system that is buggy, or a new set of rules that never stay the same. Make sure the change is tested and is rock-solid before you start implementing it. Create a roll-back plan to revert to incase the change fails.
