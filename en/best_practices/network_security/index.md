@@ -1,8 +1,8 @@
 ##Network Security## {#chapter7}
 
-####Best Practices####
+###Best Practices###
 
-##### 7.1 Monitor, Measure, and Record #####
+#### 7.1 Monitor, Measure, and Record ####
 
 This is the golden rule for all sysadmins - understand the traffic on your network. Get/build/buy a system to monitor, measure, record and analyze network traffic. It may be prudent to regularly share network analysis reports with key stakeholders and staff to help them understand the various threats to the network. In addition to raising their awareness on the network security challenges faced by the organization, it also would allow for enhanced investment in security technology and digital security education & training for staff (Refer to Chapter 4- Budgeting for Tech)
 
@@ -20,7 +20,7 @@ Here is a recommended shortlist of things [^monitor] to start monitoring/recordi
 
 Once you have consistent information, you’ll start seeing patterns and can look for things out of the ordinary/abnormal traffic. It’s also good for correlating data to behaviors when you’re troubleshooting issues and aren’t sure where to start.
 
-##### 7. 2 Effective Firewall Management #####
+#### 7. 2 Effective Firewall Management ####
 
 Following these best practices, as highlighted by Miha Pihlerin's article [^firewall_management] published in Microsoft Technet, and conducting regular maintenance work can make the life of a system administrator less stressful and help better protect your network.
 
@@ -48,7 +48,7 @@ Following these best practices, as highlighted by Miha Pihlerin's article [^fire
 - Regardless of the make and model of your firewall, you should regularly update your firewalls. All firewall manufacturers release updates for their products. These updates often include bug fixes and new features that can help mitigate new types of threats, thereby minimizing risk.
 - When possible, also update network card drivers. These updates often solve problematic behaviors, including those that might, at first, seem to be related to an unreliable firewall.
 
-##### 7.3 Intrusion Detection and Prevention System (IDPS) #####
+#### 7.3 Intrusion Detection and Prevention System (IDPS) ####
 
 Today’s malware is so advanced that a firewall alone will leave a network vulnerable. A firewall provides a basic line of defense (analyzes packet headers and enforces policy based on protocol type, source address, destination address, source port, and/or destination port) by allowing or blocking connectivity to the network through port connections. You may think of a firewall like a house - it allows you to close and lock the doors and windows you don’t want outsiders to have access to, while keeping them open for welcome visitors.
 
@@ -60,7 +60,7 @@ For added protection, you may adopt the “anomaly detection” versus a “misu
 
 In order to set up proper network security, layers of software, and solutions need to be in place that protect against various threats. Firewalls, anti-virus programs, access controls, and an IDPS solution (such as Snort) are all necessary to achieve effective network security.
 
-##### 7.4 Access Control & Authorization #####
+#### 7.4 Access Control & Authorization ####
 
 Access is the ability to perform a function with a computer resource (e.g., use, change, or view).  Access controls are the system-based means by which the ability is explicitly enabled or restricted in some way.  Access controls can prescribe not only who (a user) or what (a process) is to have access to a specific system resource, but also the level of access that is permitted. [^access_auth]
 
@@ -83,7 +83,7 @@ Ensure the following best practices with regards to authentication:
 - Use of the default “Guest” accounts is strongly discouraged on servers and workstations but, if needed, these accounts must conform to the naming conventions and the password policy established in this policy. Additional measures, such as disabling, renaming, or decoying these standard accounts, should be employed.
 - Administer Data Properly: Establish procedures to disable lost or stolen passwords and monitor systems to look for stolen or shared accounts.
 
-##### 7.5 Network Zones & Data Segregation based on Sensitivity #####
+#### 7.5 Network Zones & Data Segregation based on Sensitivity ####
 
 A common practice of protecting sensitive data against threats is setting zones of segregation based on access - this could be as simple as setting up a separate WAPs (wireless access points) for organizational staff and another for guests to connect to.
 
@@ -91,7 +91,7 @@ Taking this practice a step further, classify your data based on sensitivity (Le
 
 Classification of your data based on sensitivity would allow you to create the appropriate security policies for access (access control), storage (network partitions, backups) and communication (encrypted channels) of this data.
 
-##### 7.6 Alerts to recognize Abnormal Traffic Behavior #####
+#### 7.6 Alerts to recognize Abnormal Traffic Behavior ####
 
 You may setup simple scripts to send you alerts to monitor the following recommended abnormal traffic behavior [^traffic]. However, remember that doing so may generate denser and larger logs that may be difficult to analyze.
 - Port scans - opening of ports in an attempt to enumerate services.
@@ -102,13 +102,13 @@ You may setup simple scripts to send you alerts to monitor the following recomme
 - CPU Usage and memory leaks on servers
 - Unauthorized modification of system and configuration files
 
-##### 7.7 Advanced Traffic Filtering #####
+#### 7.7 Advanced Traffic Filtering ####
 Some advanced traffic filtering guidelines [^traffic]:
 - Multi-layer firewall: Networks can be threatened in a variety of ways. Maximize network security with packet, circuit, and application-level traffic screening to reduce the risk of unauthorized access.
 - Smart application filters: Control application-specific traffic, such as electronic mail and streaming media, with data-aware filters to enhance security. Smart Application Filters recognize content and apply policy as the content traverses the network.
 - Dynamic IP filtering: Reduce the risk of external attacks by restricting access to an as-needed basis and opening ports only for active sessions.
 
-##### 7.8 System Audit Logs #####
+#### 7.8 System Audit Logs ####
 
 An audit trail (also called audit log) is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event. In information or communications security, information audit means a chronological record of system activities to enable the reconstruction and examination of the sequence of events and/or changes in an event (For example: understanding a virus attack on the network or unauthorized access to confidential data).
 
@@ -132,7 +132,7 @@ A log management infrastructure consists of the hardware, software, networks, an
 - Re-configure logging as needed based on policy changes, technology changes, and other factors.
 - Monitor and document anomalies in log settings, configurations, and processes.
 
-##### 7.9 Remote Access #####
+#### 7.9 Remote Access ####
 
 These days, most applications allow web-access for staff working remotely (for example: a SSL-connection to the office exchange server via Outlook Web Access or via an email client), as such, its imperative to understand why remote access is required to your network and to which applications.
 
@@ -149,7 +149,7 @@ However, if staff do require access to their office computer or a specific appli
 - Monitor remote access via VPNs and create alerts to ensure you are aware of unauthorized access to systems or data.
 - Enable two-factor authentication on all sensitive systems. Ensure a user-account lockout policy is in place to lock an account for a period of time after a number of incorrect password guesses, this will help prevent hackers from using automated password guessing tools from gaining access to your system. Refer to Chapter 2 on Password Policy to ensure strong authentication standards & protocols are in place.
 
-##### 7.10 Secure WiFi #####
+#### 7.10 Secure WiFi ####
 
 Wireless networks can provide an unintended open door to your business network. Recommended tips for securing a wireless network:
 - Change the wireless network hardware (router /access point) administrative password from the factory default to a complex password (Refer to Chapter 2 for password best practices). Save the password in a secure, encrypted location as it will be needed to make future changes to the device. In addition, set an alert to change the password on your wifi router at regular intervals - once a month is an ideal time frame. Be sure to communicate the new password to all staff.
@@ -163,7 +163,7 @@ Wireless networks can provide an unintended open door to your business network. 
 - Encourage holistic security practices, and during trainings & staff awareness workshops (Refer to Chapter 3), discuss the importance of securing their home WAP (wireless access points) with staff.
 - Encourage staff to use a VPN such as Psiphon when connecting to public, unsecured WAPs (such as wifi in a cafe or at the airport) for browsing the Internet or accessing work email.
 
-##### 7.11 Mitigating “Insider” threats #####
+#### 7.11 Mitigating “Insider” threats ####
 
 Institute stringent access controls and monitoring policies on privileged users, including technical staff. System administrators and privileged users have greater access to systems, networks, or applications than other users, thus posing an increased risk. While working through your organization’s Risk Assessment (Refer to Chapter 1), ensure that you identify privileged users, including technical staff, who have greater access to your systems. Create the necessary policies and identify accountability practices in collaboration with key decision-makers to ensure your organization’s information will be protected against “insider” threats. Some of these approaches [^insider] include:
 
@@ -172,11 +172,11 @@ Institute stringent access controls and monitoring policies on privileged users,
 - Consider having privileged users sign a privileged user agreement or rules of behavior that outlines what is required of them.
 - Finally, as part of the employee exit procedure (Chapter 2- Policies), be especially careful to disable system access to former system administrators and technical or privileged users.
 
-##### 7.12 Develop a system for day-to-day work #####
+#### 7.12 Develop a system for day-to-day work ####
 
 Create a checklist of tasks that need to be performed on a daily basis - some of these may include: checking monitoring consoles for alerts, storage capacity of backup tapes & logs, reading blogs & websites for new security threats, vendor websites for firmware updates.[^monitor] Allocate time at the beginning of the day to complete your daily checklist of tasks before moving on to other tasks.
 
-##### 7.13 Document Everything #####
+#### 7.13 Document Everything ####
 
 As challenging as it is, you must document standard procedures, connectivity information, regular maintenance tasks, and disaster recovery contingency plans. Documentation is difficult because it requires the System Administrator to stop and move stepwise through each task, while thoughtfully documenting each procedure. It's time-consuming and labor-intensive to thoroughly document, take screenshots, describe procedures, and explain possible outcomes.[^document_ethg]
 
@@ -186,11 +186,11 @@ Moreover, detailed documentation of changes made (for example: when reacting to 
 
 Good documentation does pay-off in the end, especially during an emergency such as a hardware failure when you need to re-configure your server or during a network conflict when you are trying to trace down an anomaly. Ensure that these configuration notes are saved securely and accessible easily in case of emergencies.
 
-##### 7.14 Develop project management habits #####
+#### 7.14 Develop project management habits ####
 
 It may be beneficial to adopt simple project management practices even for small, one-person projects. Write up a small scope of work, write requirements, get sign-off from stakeholders on their expectations, plan a schedule, and record your activities. Write up a postmortem document at the end. Even if it’s just for yourself. It doesn’t have to be fancy, and it certainly doesn’t have to be formal PMBoK activities.[^monitor] It may seem bureaucratic managing all that paper and it may seem like you’re spending more time on paperwork than system administration, but it helps keep you organized, helps you prioritize competing tasks and communicate effectively with your supervisors.
 
-##### 7.15 Keep yourself updated #####
+#### 7.15 Keep yourself updated ####
 
 Staying in tune with current best practices, industry trends and emerging threats will help you learn about possible attacks to your network. Its recommended for sysadmins to sign-up to security mailing lists, read security news sites, receive information guides & updates shared by vendors and follow security researchers via twitter to ensure that they are always “in-the-know” when it comes to security trends and threats. (Refer to "Community Resources" towards the end of this guide for websites and mailing lists followed by sysadmins in the Internet Freedom community).
 
