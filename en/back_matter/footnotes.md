@@ -32,7 +32,7 @@
 
 [^idps]: [TechTarget, Do you need an IDS or IPS, or both](http://searchsecurity.techtarget.com/Do-you-need-an-IDS-or-IPS-or-both)
 
-[^anamoly]: http://www.webopedia.com/DidYouKnow/Computer_Science/intrusion_detection_prevention.asp
+[^anamoly]: [Webopedia, Intrusion Detection (IDS) and Prevention (IPS) Systems] (http://www.webopedia.com/DidYouKnow/Computer_Science/intrusion_detection_prevention.asp)
 
 [^access_auth]: http://csrc.nist.gov/groups/SNS/rbac/documents/design_implementation/csl95-12.txt
 
