@@ -32,7 +32,7 @@ The 3-2-1 rule means that the best way to backup your data is to:
 
 The purpose of this system it to make sure that you have one copy handy in emergencies, but a second copy somewhere else in case of confiscation or a natural disaster at one location. Encrypting those backups keeps the information safe on the backup, as well.
 
-In addition, a backup plan should [^backup_plan]:
+In addition, a backup plan should [^backup]:
 
 - Verify that remote employees are reminded to backup critical files from their PCs to a specified user share on the network which is included in the backup strategy regularly (for example, weekly or monthly).
 - Verify that backups jobs (in an automatic and/or manual fashion) are performed per schedule and properly labeled.
@@ -42,7 +42,7 @@ In addition, a backup plan should [^backup_plan]:
 
 Below is a typical tape backup rotation strategy, however, you may adopt a more aggressive approach of more frequent backups and segregated tapes for sensitive data as part of your backup plan.
 
-*Typical Tape Backup Rotation Strategy*
+*Typical Tape Backup Rotation Strategy* [^backup]
 
 - To conserve tapes, maintain simplicity and insure sufficient retention of history, a five-day tape rotation schedule should be implemented using a different tape for each day of the week and each Friday (week-ending). Weekday tapes are retained for one month.
 - The tape used on the last day of the month is rotated out of service and retained for 12 months. At the end of each year, the tape used on the last backup of the year is rotated out and retained indefinitely. Using this schedule, any file that is stored longer than one day, but not past Friday backup, will be recoverable if restore is requested within five business days of creation date.
