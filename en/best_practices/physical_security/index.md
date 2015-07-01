@@ -1,5 +1,7 @@
 ##Physical Security## {#chapter10}
 
+hihihi
+
 While monitoring network traffic to prevent virus & malware attacks and
 ensuring data and communication security are important aspects of a
 System Administrator’s job, it’s equally imperative to prevent physical
