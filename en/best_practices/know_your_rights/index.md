@@ -1,4 +1,4 @@
-## Know Your Rights: In-country Rules & Regulations ## {#chapter11}
+## Know Your Rights: In-Country Rules & Regulations ## {#chapter11}
 
 As you institute measures for information and communication security for your organization, it’s important to be aware of local, national and international laws that apply to your organization based on the nature of its work as well as any IT and privacy regulations that could impact your organization’s policies and business workflows.
 
