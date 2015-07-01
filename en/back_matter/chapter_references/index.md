@@ -59,22 +59,22 @@
 
 - [PCMag.com](http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
 - [Change Management Plan Workbook & Template, Queensland Government Chief Information Office](http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf)
-- [Prosci Change Management Learning Center](http://www.change-management.com/best-practices-report-toc.htm)
+- [Prosci, Change Management Learning Center](http://www.change-management.com/best-practices-report-toc.htm)
 - [Tim Tinker, Booz Allen Hamilton](http://www.boozallen.com/media/file/applying-change-management-in-crisis-and-emergency.pdf)
 - [Microsoft TechNet](https://www.microsoft.com/technet/prodtechnol/exchange/guides/ExMgmtGuide/ce0d5bce-3426-42ec-95ea-638aec4b83b5.mspx?mfr=true)
-- [Cisco Change Management Best Practices](http://www.cisco.com/c/en/us/products/collateral/services/high-availability/white_paper_c11-458050.html)
-- [Intuit Quickbase](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/#sthash.LZM0U59v.dpuf)
-- [Change Management Coach](http://www.change-management-coach.com/change-management-models.html)
+- [Cisco, Change Management Best Practices](http://www.cisco.com/c/en/us/products/collateral/services/high-availability/white_paper_c11-458050.html)
+- [Intuit Quickbase, Best Practices in Change Management](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/#sthash.LZM0U59v.dpuf)
+- [Change Management Coach, Change Management Models](http://www.change-management-coach.com/change-management-models.html)
 
 
 
 ####Chapter 4-Budgeting for Security####
 
-- [A Look at Targeted Attacks Through the Lense of an NGO, The Max Planck Institute for Software Systems](https://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
-- [Advice on IT security budget management, TechTarget](http://searchsecurity.techtarget.com/Advice-on-IT-security-budget-management)
-- [Middle East Cyber Security Threat Report 2014, Mohamed N. El-Guindy, Academia.edu](http://www.academia.edu/5522905/Middle_East_Cyber_Security_Threat_Report_2014)
-- [Cyber Threat to Non-Governmental organizations, Paul Goldernberg, CTOVision](https://ctovision.com/2013/10/cyber-threat-non-governmental-organizations/)
-- [Rising Cybersecurity Budgets Still Not Enough, GovTech](http://www.govtech.com/security/Report-Rising-Cybersecurity-Budgets-Still-Not-Enough.html)
+- [The Max Planck Institute for Software Systems, A Look at Targeted Attacks Through the Lense of an NGO, ](https://www.mpi-sws.org/~stevens/pubs/sec14.pdf)
+- [TechTarget, Advice on IT security budget management, ](http://searchsecurity.techtarget.com/Advice-on-IT-security-budget-management)
+- [Mohamed N. El-Guindy, Academia.edu, Middle East Cyber Security Threat Report 2014](http://www.academia.edu/5522905/Middle_East_Cyber_Security_Threat_Report_2014)
+- [Paul Goldernberg, CTOVision, Cyber Threat to Non-Governmental organizations](https://ctovision.com/2013/10/cyber-threat-non-governmental-organizations/)
+- [GovTech,Rising Cybersecurity Budgets Still Not Enough, ](http://www.govtech.com/security/Report-Rising-Cybersecurity-Budgets-Still-Not-Enough.html)
 - [ComputerWorld, IT Budget Forecast for 2015](http://www.computerworld.com/article/2840907/forecast-2015-it-spending-on-an-upswing.html)
 - [Times of India, Cyber security not a priority for NGOs, Educational Institutes](http://timesofindia.indiatimes.com/city/nagpur/Cyber-security-not-a-priority-for-NGOs-educational-institutes/articleshow/45289714.cms)
 - [Deloitte, NASCIO Cybersecurity Study](http://www.nascio.org/publications/documents/Deloitte-NASCIOCybersecurityStudy_2014.pdf)
@@ -91,9 +91,9 @@
 ####Chapter 5- Service Level Agreement: Do's and Dont's####
 
 - [TechTarget, Podcast:Service-level agreement (SLA) negotiation - defining service-level objectives](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives)
-- [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
-- [Biztree.com](http://www.biztree.com/doc/service-level-agreement-D778)
-- [TidyForm.com](http://www.tidyform.com/service-level-agreement.html)
+- [ITDonut Resources, Sample Service Level Agreement](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
+- [Biztree, Service Level Agreement](http://www.biztree.com/doc/service-level-agreement-D778)
+- [TidyForm, Service Level Agreement](http://www.tidyform.com/service-level-agreement.html)
 
 
 ####Chapter 6- Ensuring User Data Protection & Privacy####
@@ -124,7 +124,7 @@
 - [NETSPI, Firewall configuration checklist](https://www.netspi.com/Portals/0/docs/Blog_Documents/EH_Firewalls/Firewall_Audit_Checklist_Short_v1.pdf)
 - [Windstream, Is Your Network Safe Behind Just A Firewall](http://www.windstreambusiness.com/resources/whitepapers/is-your-network-safe-behind-just-a-firewall)
 - [Cisco, Network Security Policy](Best Practices White Paper: http://www.cisco.com/c/en/us/support/docs/availability/high-availability/13601-secpol.html#t4)
-- [National Network to End Domestic Violence Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors)](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
+- [National Network to End Domestic Violence, Technology Safety Organizational Technology Capacity & Development for Agencies & Programs Working With Survivors](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
 - [CERT, Common Sense Guide to Mitigating Insider Threats 2013:](https://www.cert.org/blogs/insider-threat/post.cfm?EntryID=139)
 - [eSecurityPlanet, 5 Best Practices for Securing Remote Access](http://www.esecurityplanet.com/trends/article.php/11164_3937121_2/5-Best-Practices-for-Securing-Remote-Access.htm)
 - [ITTechNewsDaily, 5 Best Practices for Managing Remote Access:](http://www.ittechnewsdaily.com/175-managing-remote-access-security.html)
@@ -137,7 +137,7 @@
 - [Vinod Mohan, SolarWinds Worldwide, LLC 2013](http://cdn.swcdn.net/creative/v9.3/pdf/Whitepapers/Best_Practices_for_Effective_Firewall_Management.pdf)
 - [NIST, Guidelines for Securing Wireless Local Area Networks (WLANs)](http://csrc.nist.gov/publications/nistpubs/800-153/sp800-153.pdf)
 - [Webopedia, Intrusion Detection (IDS) and Prevention (IPS) Systems](http://www.webopedia.com/DidYouKnow/Computer_Science/intrusion_detection_prevention.asp)
-- [David Piscitello, Intrusion Detection… Or Prevention](http://www.corecom.com/external/bcrmag/bcrmag-ids-may02.pdf)
+- [David Piscitello, Intrusion Detection…Or Prevention](http://www.corecom.com/external/bcrmag/bcrmag-ids-may02.pdf)
 - [SANS Institute, Critical Security Controls](https://www.sans.org/critical-security-controls/controls)
 - [SANS Institute, Monitoring Security and Performance on Converged Traffic Networks](http://www.sans.org/reading-room/whitepapers/analyst/monitoring-security-performance-converged-traffic-networks-34720)
 - [NIST, Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r1.pdf)
@@ -153,19 +153,19 @@
 - [Texas A&M, Information Technology Disaster Recovery Plan](https://www.tamuct.edu/departments/informationtechnology/extras/ITDisasterRecoveryPlan.pdf)
 - [Online Trust Alliance, Security & Privacy Best Practices](https://otalliance.org/resources/security-privacy-best-practices)
 - [BlackStratus, 17 Best Practices for Maintaining Data Security in a Business Environment](http://www.blackstratus.com/blog/practices-maintaining-data-security-business-environment/)
-- [ZDNet](http://www.zdnet.com/article/10-security-best-practice-guidelines-for-businesses/)
-- [Interactive Advertising Bureau (IAB)](http://www.iab.net/guidelines/508676/508905/data_security)
-- [FoxBusiness](http://smallbusiness.foxbusiness.com/technology-web/2014/06/19/data-security-best-practices/)
+- [ZDNet, Securty Best Practice Guidelines for Business](http://www.zdnet.com/article/10-security-best-practice-guidelines-for-businesses/)
+- [Interactive Advertising Bureau, Data Security](http://www.iab.net/guidelines/508676/508905/data_security)
+- [FoxBusiness, Data Security Best Practices](http://smallbusiness.foxbusiness.com/technology-web/2014/06/19/data-security-best-practices/)
 - [Microsoft, Best Practices for Enterprise Security](https://msdn.microsoft.com/en-us/library/cc750076.aspx)
 - [Microsoft, Data Security and Data Availability in the Administrative Authority](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 - [DisasterRecovery.org](http://www.disasterrecovery.org/it_network_dr.html)
 - [Disaster Recovery Guide](:http://www.disaster-recovery-guide.com/)
 - [Indiana university](https://kb.iu.edu/d/akln)
-- [Ready.gov- IT Disaster Recovery Plan](http://www.ready.gov/business/implementation/IT)
+- [Ready.gov, IT Disaster Recovery Plan](http://www.ready.gov/business/implementation/IT)
 
 ####Chapter 9- Website, Software & System Security####
 
-- [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
+- [SANS Institute, System Administrator-Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 - [Indiana University, Best practices for computer security](https://kb.iu.edu/d/akln)
 - [Microsoft, Data Security and Data Availability in the Administrative Authority](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 - [DarkReading, The Five Most Common Security Pitfalls In Software Development](http://www.darkreading.com/the-five-most-common-security-pitfalls-in-software-development/d/d-id/1140103?)
@@ -179,7 +179,7 @@
 - [PCMag, The Best Antivirus for 2015](http://www.pcmag.com/article2/0,2817,2372364,00.asp)
 - [BeyondSecurity, Web Security Basics](http://www.beyondsecurity.com/web-security-and-web-scanning.html)
 - [CreativeBloq, 10 security tips to protect your website from hackers](http://www.creativebloq.com/web-design/website-security-tips-protect-your-site-7122853)
-- [National Network to End Domestic Violence: Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors)](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
+- [National Network to End Domestic Violence, Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors)](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
 - [NIST, Security Considerations in the System Development Life Cycle](http://csrc.nist.gov/publications/nistpubs/800-64-Rev2/SP800-64-Revision2.pdf)
 - [NIST, Guidelines on Security and Privacy in Public Cloud Computing](http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf)
 
@@ -189,16 +189,20 @@
 -   [SANS Institute, Computer Rooms - meet the physical security measures](http://www.giac.org/paper/gsec/2892/computer-rooms-meet-physical-security-measures/104866)
 -   [University of Florida, Physical Security of Server Rooms](https://security.ufl.edu/wp-content/uploads/2013/09/PS0002-02.pdf)
 -   [MIT, Protecting Devices](https://ist.mit.edu/security/devices)
--   [Security-in-a-Box](https://info.securityinabox.org/default/chapter\_2\_3)
+-   [Tactical Tech, Security-in-a-Box](https://info.securityinabox.org/default/chapter\_2\_3)
 -   [SANS Institute, Penetration Tests and Red Team Exercises](https://www.sans.org/critical-security-controls/control/20)
 
 ####Chapter 11- Know Your Rights: In-country Rules & Regulations####
 
-- [Digital Media Law Project, Berkman Center for Internet & Society](http://www.dmlp.org/legal-guide/responding-legal-threats)
+- [Berkman Center for Internet & Society, Digital Media Law Project](http://www.dmlp.org/legal-guide/responding-legal-threats)
 - [EFF, Legal Guide for Bloggers](https://www.eff.org/issues/bloggers/legal)
 - [BBC, How to avoid libel & defamation](http://www.bbc.co.uk/dna/collective/A1183394)
 - [EFF, How to Blog Safely](https://www.eff.org/wp/blog-safely)
-- [Law Society, Information Security](http://www.lawsociety.org.uk/support-services/advice/practice-notes/information-security/)
-- [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
-- [Lifehacker, Daniel Mathews, Even Learning About Encryption in Australia will soon be Illegal](http://www.lifehacker.com.au/2015/05/even-learning-about-encryption-in-australia-will-soon-be-illegal/)
-- [National Defense Industrial Association](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1)
+- [Law Society.org.uk, Information Security](http://www.lawsociety.org.uk/support-services/advice/practice-notes/information-security/)
+- [Whiteford, Taylor, Preston, Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
+- [Daniel Mathews, Lifehacker, Even Learning About Encryption in Australia will soon be Illegal](http://www.lifehacker.com.au/2015/05/even-learning-about-encryption-in-australia-will-soon-be-illegal/)
+- [Jeffrey G. Richardson, National Defense Industrial Association, Use Caution When Traveling With Encryption Software](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1)
+
+
+
+ 
