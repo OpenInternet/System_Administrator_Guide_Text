@@ -18,7 +18,7 @@ Understand the various profile of users in your organization (from program staff
 
 Get end-user buy in while setting these policies to ensure that the solution will be successful and will not fail due to passive resistance, as ultimately “it’s about the users”- they need to understand the reasons as to why strict adherence to these policies will safe-guard them against malicious attacks and secure their data & communication. Refer to Chapter 2 on recommended tech policies.
 
-#### 3.2 Identifying ‘privileged’ users ####
+#### 3.2 Identifying ‘Privileged’ Users ####
 
 Your organization’s Risk Assessment (Refer to Chapter 1) will identify users within the organization who need access to sensitive data. This will help you short-list the ‘privileged’ users in your organizations. They could include your organization’s executives, accounting staff, human resources staff, individuals working on high-stake projects such as business plans, financial forecasts, project strategies, donor & partner relationships or in a media organization, this could include the new reporters & editors. Their common trait, from an organizational security perspective, is that they all have more access to sensitive organizational data, making them easier targets for cyber threats as compared to other non-privileged users.
 
@@ -47,7 +47,7 @@ Following are some best practices when instituting organizational wide change to
 - **Fully integrate the change**: Help existing employees adapt to the change faster, and make sure new employees understand it right away by revising new-hire orientation material.
 - **Ease up the pressure**: Don’t expect end-users to adjust to the change right off the bat. Make it clear that there is a learning curve, and that you are open to questions and concerns. Remember that being adaptable by considering feedback may help you perfect the change.
 
-#### 3.4 Communication & Training ####
+#### 3.4 Communication and Training ####
 
 Chalking up tech policies, usage protocols and security plans is not sufficient unless they are communicated well to end-users and adoption is enforced through user-friendly approaches.
 
@@ -64,7 +64,7 @@ Use every opportunity to share a best practice with them - the most opportune ti
 ![Staff Training](images/staff_training.png)
 
 
-##### 3.4.iii Create Tech Champions within the organization #####
+##### 3.4.iii Create Tech Champions Within the Organization #####
 
 While you have your super-hero cape on to help safeguard your organization’s information, the reality is that you are just one person with a lot of responsibilities. As you build trust relationships with end-users in the organization, identify the “super-users” and leverage their expertise as “advocates for change” who can help with adoption of IT policies on your behalf. This creates a social element of learning through peers (at the grassroots level) as opposed to the top-bottom approach of system administration.
 
