@@ -53,7 +53,7 @@ Understand the devices that are connecting to your network, as device manufactur
 
 #### Future Trend ####
 
-With companies and organizations struggling with challenges associated with BYOD, new trends such as “Desktop as a Service” (DaaS) [^daas] are emerging to solve the BYOD puzzle. This promising trend aims to virtualize users’ desktops and deliver them as a service, giving them the ability to access a virtual desktop via different devices, from a physical desktop or laptop to a tablet or smartphone. This would eliminate the risks associated with loss of sensitive data due to device compromise and creates a segregated virtual work environment that would be easier for System Administrators to manage, however, any user privacy concerns as are yet to be determined.
+With companies and organizations struggling with challenges associated with BYOD, new trends such as “Desktop as a Service” (DaaS) are emerging to solve the BYOD puzzle.[^future_trend] This promising trend aims to virtualize users’ desktops and deliver them as a service, giving them the ability to access a virtual desktop via different devices, from a physical desktop or laptop to a tablet or smartphone. This would eliminate the risks associated with loss of sensitive data due to device compromise and creates a segregated virtual work environment that would be easier for System Administrators to manage, however, any user privacy concerns as are yet to be determined. [^daas]
 
 
 #### Tools & Templates ####
