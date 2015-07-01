@@ -6,7 +6,7 @@ A Service Level Agreement (SLA, for short) is a legal document that explains wha
 
 Your SLA plays an important role in defining the relationship between you and your IT service provider. It guarantees you a certain level of service, giving you confidence that if something goes wrong, the service provider will respond quickly. Without a comprehensive SLA in place, you are unlikely to have much leverage if your IT service provider fails to respond to your requests.
 
-####Best Practices####
+###Best Practices###
 
 Here are a few suggested best practices [^agreement_components]:
 
@@ -58,7 +58,7 @@ Working at a human rights organization or media outlet, you should pay special a
 
 Finally, remember that while an SLA gives you some backup and confidence, it’s no substitute for having a good relationship with an IT service provider you trust.
 
-####Service Providers recommended by the Internet Freedom Community####
+###Service Providers recommended by the Internet Freedom Community###
 
 - Secure email and mailing lists:
     - [Riseup.net](https://Riseup.net)
@@ -77,13 +77,13 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
     - [Project Galileo by Cloudflare](https://www.cloudflare.com/galileo)
 
 
-####Recommended Reading####
+###Recommended Reading###
 
 - [Internews, My Website is Down](https://github.com/OpenInternet/MyWebsiteIsDown/blob/master/MyWebsiteIsDown.md)
 - [EEF’s Guide on choosing a web host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - [Guide to Selecting Information Technology Security Products, NIST:](http://csrc.nist.gov/publications/nistpubs/800-36/NIST-SP800-36.pdf)
 
-####Chapter References####
+###Chapter References###
 
 - [TechTarget, Podcast:Service-level agreement (SLA) negotiation - defining service-level objectives](http://searchstorage.techtarget.com/feature/Service-level-agreement-SLA-negotiation-Defining-service-level-objectives)
 - [ITDonut Resources, Sample Service Level Agreement](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
