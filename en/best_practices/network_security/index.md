@@ -60,7 +60,7 @@ For added protection, you may adopt the “anomaly detection” versus a “misu
 
 In order to set up proper network security, layers of software, and solutions need to be in place that protect against various threats. Firewalls, anti-virus programs, access controls, and an IDPS solution (such as Snort) are all necessary to achieve effective network security.
 
-##### 7. 4 Access Control & Authorization #####
+##### 7.4 Access Control & Authorization #####
 
 Access is the ability to perform a function with a computer resource (e.g., use, change, or view).  Access controls are the system-based means by which the ability is explicitly enabled or restricted in some way.  Access controls can prescribe not only who (a user) or what (a process) is to have access to a specific system resource, but also the level of access that is permitted. [^access_auth]
 
@@ -112,7 +112,7 @@ Some advanced traffic filtering guidelines [^traffic]:
 
 An audit trail (also called audit log) is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event. In information or communications security, information audit means a chronological record of system activities to enable the reconstruction and examination of the sequence of events and/or changes in an event (For example: understanding a virus attack on the network or unauthorized access to confidential data).
 
-Some applications generate their own log files, while others use the logging capabilities of the OS on which they are installed. Applications vary significantly in the types of information that they log. The following lists some of the most commonly logged types of information and the potential benefits of each [^log_management][^audit_logs] :
+Some applications generate their own log files, while others use the logging capabilities of the OS on which they are installed. Applications vary significantly in the types of information that they log. The following lists some of the most commonly logged types of information and the potential benefits of each, as articulated by Colm Murphy's article [^log_management][^audit_logs] on net-security.org:
 
 - Client requests and server responses, which can be very helpful in reconstructing sequences of events and determining their apparent outcome. If the application logs successful user authentications, it is usually possible to determine which user made each request. Some applications can perform highly detailed logging, such as e-mail servers recording the sender, recipients, subject name, and attachment names for each e-mail; Web servers recording each URL requested and the type of response provided by the server; and business applications recording which financial records were accessed by each user. This information can be used to identify or investigate incidents and to monitor application usage for compliance and auditing purposes.
 - Account information such as successful and failed authentication attempts, account changes (e.g., account creation and deletion, account privilege assignment), and use of privileges. In addition to identifying security events such as brute force password guessing and escalation of privileges, it can be used to identify who has used the application and when each person has used it.
