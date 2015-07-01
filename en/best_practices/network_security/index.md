@@ -93,8 +93,7 @@ Classification of your data based on sensitivity would allow you to create the a
 
 ##### 7.6 Alerts to recognize Abnormal Traffic Behavior #####
 
-You may setup simple scripts to send you alerts to monitor the following recommended abnormal traffic behavior. However, remember that doing so may generate denser and larger logs that may be difficult to analyze.
-
+You may setup simple scripts to send you alerts to monitor the following recommended abnormal traffic behavior [^traffic]. However, remember that doing so may generate denser and larger logs that may be difficult to analyze.
 - Port scans - opening of ports in an attempt to enumerate services.
 - Attempted DNS zone transfers.
 - E-mail reconnaissance - repeated failed attempts to variations of a user's name may give away information about infrastructure.
@@ -104,7 +103,7 @@ You may setup simple scripts to send you alerts to monitor the following recomme
 - Unauthorized modification of system and configuration files
 
 ##### 7.7 Advanced Traffic Filtering #####
-
+Some advanced traffic filtering guidelines [^traffic]:
 - Multi-layer firewall: Networks can be threatened in a variety of ways. Maximize network security with packet, circuit, and application-level traffic screening to reduce the risk of unauthorized access.
 - Smart application filters: Control application-specific traffic, such as electronic mail and streaming media, with data-aware filters to enhance security. Smart Application Filters recognize content and apply policy as the content traverses the network.
 - Dynamic IP filtering: Reduce the risk of external attacks by restricting access to an as-needed basis and opening ports only for active sessions.
