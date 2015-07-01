@@ -8,7 +8,7 @@ Network security wouldn’t succeed without partnership with your end-users.  It
 
 Below are some of the suggested best practices and approaches related to communicating policies to staff, raising security awareness and providing skills training.
 
-####Best Practices####
+###Best Practices###
 
 #### 3.1 Usage Policies ####
 
@@ -72,18 +72,18 @@ While you have your super-hero cape on to help safeguard your organization’s i
 
 Do your customers know how to reach you? Share your contact information with end-users, when they join the organization to make sure they have multiple ways to contact you when they need your assistance. While most system administrators spend their time behind huge screens monitoring the network, walk around and find ways to talk to end-users in hallways or in common areas - “de-mystify your presence” to ensure direct communication with your end-users.
 
-####Tools & Templates####
+###Tools & Templates###
 
 - [Digital Hygiene Campaign posters for display in common areas from Stop. Think. Connect:](http://stopthinkconnect.org/campaigns/keep-a-clean-machine/)
 - Example of a Service Maintenance Notice to staff
 
 ![service notice](images/service_email.png)
 
-####Recommended Reading####
+###Recommended Reading###
 
 (Left blank intentionally; looking for contributions from the community)
 
-####Chapter References####
+###Chapter References###
 
 - [PCMag.com](http://securitywatch.pcmag.com/security/326921-college-campuses-get-an-f-in-cybersecurity)
 - [Change Management Plan Workbook & Template, Queensland Government Chief Information Office](http://www.nrm.wa.gov.au/media/10528/change_management_plan_workbook_and_template.pdf)
