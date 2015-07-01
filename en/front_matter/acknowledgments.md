@@ -8,7 +8,7 @@ Finally, special thanks to Srija S (lead research assistant) and all the Interne
 
 This guide was made possible with the financial support from the US Department of State – Bureau of Democracy, Human Rights and Labor. 
 
-Created, Written and Produced by: Mahvash Taqi 
+Written and Produced by: Mahvash Taqi 
 
 Lead Research Assistant: Srija S
 
