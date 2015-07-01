@@ -1,6 +1,6 @@
 ##Website, Software and System Security## {#chapter9}
 
-####Best Practices####
+###Best Practices###
 
 ####9.1 Website Security####
 
@@ -98,7 +98,7 @@ Its easy to overlook social applications such as your organization’s Facebook 
 - Review security and privacy settings for all accounts.
 - Setup policies for password recovery to an organizational email address, instead of an individual email account - this would ensure no one person has access to these key institutional social assets.
 
-####Tools & Templates####
+###Tools & Templates###
 
 - DDOS protection:
     -   [Deflect by Equalit.ie](https://www.deflect.ca)
@@ -111,7 +111,7 @@ Its easy to overlook social applications such as your organization’s Facebook 
     -   [EEF’s Guide on chossing a web host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - [Secunia Personal Software Inspector (PSI) available for Windows OS]((http://secunia.com/vulnerability_scanning/personal))
 
-####Recommended Reading####
+###Recommended Reading###
 
 - [Secure hosting guide](https://equalit.ie/)
 - [eQualit.ie recommended list of hosting providers](http://wiki.deflect.ca/wiki/ISP_reviews)
@@ -120,7 +120,7 @@ Its easy to overlook social applications such as your organization’s Facebook 
 - [Internews, My Website Is Down](:https://github.com/OpenInternet/MyWebsiteIsDown/blob/master/MyWebsiteIsDown.md)
 - [National Network to End Domestic Violence, Technology & Confidentiality Resources Toolkit](http://tools.nnedv.org/tipsheets-charts)
 
-####Chapter References####
+###Chapter References###
 
 - [SANS Institute, System Administrator-Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 - [Indiana University, Best practices for computer security](https://kb.iu.edu/d/akln)
