@@ -174,14 +174,16 @@ Institute stringent access controls and monitoring policies on privileged users,
 
 ##### 7.12 Develop a system for day-to-day work #####
 
-Create a checklist of tasks that need to be performed on a daily basis - some of these may include: checking monitoring consoles for alerts, storage capacity of backup tapes & logs, reading blogs & websites for new security threats, vendor websites for firmware updates. Allocate time at the beginning of the day to complete your daily checklist of tasks before moving on to other tasks.
+Create a checklist of tasks that need to be performed on a daily basis - some of these may include: checking monitoring consoles for alerts, storage capacity of backup tapes & logs, reading blogs & websites for new security threats, vendor websites for firmware updates.[^monitor] Allocate time at the beginning of the day to complete your daily checklist of tasks before moving on to other tasks.
 
 ##### 7.13 Document Everything #####
 
-As challenging as it is, you must document standard procedures, connectivity information, regular maintenance tasks, and disaster recovery contingency plans. Documentation is difficult because it requires the System Administrator to stop and move stepwise through each task, while thoughtfully documenting each procedure. It's time-consuming and labor-intensive to thoroughly document, take screenshots, describe procedures, and explain possible outcomes.
+As challenging as it is, you must document standard procedures, connectivity information, regular maintenance tasks, and disaster recovery contingency plans. Documentation is difficult because it requires the System Administrator to stop and move stepwise through each task, while thoughtfully documenting each procedure. It's time-consuming and labor-intensive to thoroughly document, take screenshots, describe procedures, and explain possible outcomes.[^document_ethg]
 
 However, standard procedures help you maintain consistency and reproducibility in your computing environment. Creating and adhering to a set of standard procedures has the added effect of stabilizing your systems and services, which, in turn, stabilizes your company's overall productivity.
+
 Moreover, detailed documentation of changes made (for example: when reacting to a security incident) will go a long way in helping you investigate future network failures or potential conflicts. As such, it is highly recommended that sysadmins create a simple protocol of documenting all changes to all systems on the network, such as the firewall, router, server, WAP (wireless access point) configuration.
+
 Good documentation does pay-off in the end, especially during an emergency such as a hardware failure when you need to re-configure your server or during a network conflict when you are trying to trace down an anomaly. Ensure that these configuration notes are saved securely and accessible easily in case of emergencies.
 
 ##### 7.14 Develop project management habits #####
