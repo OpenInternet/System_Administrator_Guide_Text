@@ -29,7 +29,7 @@ Following these best practices [^firewall_management] and conducting regular mai
 - Change the default administrator or root password on the firewall to a complex, long passphrase. Set a reminder to change the firewall admin password every 6 months.
 - Monitor the CPU usage & network throughput of the firewall to ensure applications installed on it (such as an anti-virus, VPN software) are not slowing it down.
 
-*Review firewall policies regularly*
+*Review firewall policies regularly* [^fw_policies]
 
 - Over time, firewall policies become outdated. Servers that were published to the internet get decommissioned, and services get moved to new servers. But firewall policies tied to decommissioned servers often are not removed or updated. The danger here is that IP addresses of decommissioned servers get reused on new servers, and new servers can then easily be published for unintended services.
 - Change Management protocol: Regular overview of the policies is even more important if there is more than one system administrator. In such environments, it is likely that, for example, two administrators created two different policies for same network traffic specifications. When conducting policy reviews, see if you can consolidate any of the policies. Establish a change management protocol to document all firewall changes when there is more than one system administrator.
