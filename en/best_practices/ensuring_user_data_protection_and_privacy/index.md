@@ -1,12 +1,12 @@
 ##Ensuring User Data Protection & Privacy## {#chapter6}
 
-While access to sensitive data on the network is governed via “Access Control” (Refer to Chapter 7 on Network Security), you can assist with additional privacy to users by ensuring they adopt the following secure data communication & storage practices, provided these practices constitute approaches identified during the organization’s Risk Assessment (Refer to Chapter 1). Keep laws & regulations related to encryption in mind before recommending these best practices.
+While access to sensitive data on the network is governed via “Access Control” (Refer to Chapter 7 on Network Security), you can assist with additional privacy to users by ensuring they adopt the following secure data communication and storage practices, provided these practices constitute approaches identified during the organization’s Risk Assessment (Refer to Chapter 1). Keep laws and regulations related to encryption in mind before recommending these best practices.
 
 ###6.1 Encrypt User Data-at-Rest###
 
 Data-at-Rest refers to user information stored on their devices, in external hard drives and on removable media such as USBs, DVDs.
 
-##### 6.1.i Full disk encryption (FDE) #####
+##### 6.1.i Full Disk Encryption (FDE) #####
 
 When working with users at a media or a human rights organization, it’s imperative to safeguard their information on their devices. Having made the business case for encrypting data (Refer to Chapter 1 for Risk Assessment) and after taking into consideration laws governing your organization (Refer to Chapter 11- Know Your Rights), institute the policy to encrypt all hard-drives to plan against stolen or confiscated devices.
 
@@ -22,15 +22,15 @@ Here are some best practices when instituting Full Disk Encryption (FDE):
 - Ensure users are employing secure storage practices & strong creation policies for their pre-boot password.
 - Key recovery: Help users understand the implications if they forget their pre-boot password. Ensure that they have a mechanism of regularly backing-up their data, in case their device needs to be re-formatted in order to start from scratch without the pre-boot password. (Special considerations needed to put in place when staff use personal devices for work purposes that do not automatically connect to the network backup system). You may consider implementing “key escrow” for encryption keys associated with work devices. However, careful mechanisms needs to be put in place to ensure that escrowed keys are kept super secure, and a policy is defined and clearly communicated with respect to key access request (for example: a supervisor cannot access their subordinate’s data without prior permission) and the responsibility of the technical person in charge of granting access.
 
-##### 6.1.ii Encrypt passwords #####
+##### 6.1.ii Encrypt Passwords #####
 
 Institute a policy for the use of password managers (such as KeePass) to store passwords in irreversible encrypted form. As the name implies, password managers make password management effortless, especially as end-users adopt best practices such as using a different password for each account, while they also assure security, by protecting end-users against keyloggers (malware). Encrypted passwords are harder to crack further enhancing user data privacy. (Refer to Chapter 2 for further best practices on password management.)
 
-##### 6.1.iii Encrypt removable media #####
+##### 6.1.iii Encrypt Removable Media #####
 
 With the prevalence of USB drives & external HDDs, more attention is being paid to removable media encryption and device control. Train users on encrypting the entire USB drive before storing data on it - this is especially critical when users are traveling with sensitive data while crossing borders and protection against data leaks in the event of device loss or theft. Ensure encryption of personal devices (laptops & phones) used to access organizational data is addressed under the BYOD policy. (Refer to Chapter 2 for best practices with respect to the BYOD policy.)
 
-##### 6.1.iv Encrypt backup tapes #####
+##### 6.1.iv Encrypt Backup Tapes #####
 
 Employ secure data backup practices and ensure that data is encrypted on servers and in backup media (such as tapes). This would ensure added security in case of an office raid if servers & backup tapes are confiscated or in case of loss or theft of tapes. (Refer to Chapter 8- Data Security, Backup & Restore for additional best practices to protect data on servers.)
 
@@ -44,7 +44,7 @@ To secure end-users’ data privacy during transit, they should encrypt three th
 - The actual data such as email messages, chats, phone calls or text messages, and
 - The stored, cached, or archived data on their devices
 
-##### 6.2.i Encrypt internet connection #####
+##### 6.2.i Encrypt Internet Connection #####
 
 If staff leave the connection from their device unencrypted while checking email messages or the web, potential hackers sniffing this connection can easily capture their email login credentials, web traffic and any messages they send or receive. This hazard typically arises when they use an unsecured, public network (the Wi-Fi hotspot in a cafe or at the airport).
 
@@ -59,7 +59,7 @@ Most email clients such as (Microsoft Outlook) have built-in settings [^email_se
 
 ![HTTPS Email checkbox](images/SSL_email.png)
 
-##### 6.2.ii Encrypt email messages #####
+##### 6.2.ii Encrypt Email Messages #####
 
 With the connection encrypted, it's time to ensure that the contents of the message are protected as well. This is especially true when using email-service-providers such as Gmail, but should also be applied when email is hosted in-house for additional user data privacy considerations. This step would ensure that system administrators are not able to read the contents of a user’s email, even though the metadata (to-from info, email subject, date-time) associated to these messages is visible.
 
@@ -69,7 +69,7 @@ While backing up their data, encourage users to encrypt their email or files bef
 
 ![Windows File Encryption](images/win_file_encryption.png)
 
-##### 6.2.iv Encrypt chats, phone calls and texts #####
+##### 6.2.iv Encrypt Chats, Phone Calls and Texts #####
 
 To safeguard information exchanged via instant messages (chats), encourage staff to use Pidgin with OTR. To prevent eavesdropping on phones calls and SMS exchanges over surveilled telecommunication carriers, a variety of open-source tools such as TextSecure (Android), RedPhone (Android), Signal (iOS) by Open Whisper Systems are recommended.  Bear in mind, though, that end-to-end encryption will only exist in conversations with other TextSecure/RedPhone/Signal users, though you'll be informed when a conversation is insecure.
 
@@ -78,11 +78,11 @@ Some of other options to increase security include scanning encryption keys in-p
 For complete guidance on helping users secure their communications, refer to [Security-in-a-Box’s guide.](https://securityinabox.org/en/guide/secure-communication)
 
 
-###6.3 Anonymity during surfing###
+###6.3 Anonymity During Surfing###
 
 An end-user’s unique scenario, with its associated threats and adversaries, may warrant use of anonymous web browsing. This would entail setting up the “Tor” browser (https://www.torproject.org) on their device and educating them on use, browser performance and the potential risks of Tor installed on their device based on laws & regulations specific to their scenario. Refer to [Security-in-a-Box's guide on digital shadows](https://securityinabox.org/en/guide/anonymity-and-circumvention) and [anonymous browsing](https://securityinabox.org/en/guide/torbrowser/windows) for step-by-step instructions.
 
-###6.4 Preventions against the Internet of Things (IoT)###
+###6.4 Preventions Against the Internet of Things (IoT)###
 
 With shoes recording our steps during a workout and watches monitoring our heart rate, smart devices have tightly integrated into our daily lives. And by design, they have access to our personal information such as location, contacts, photos & in some cases, even emails. Its hard to truly evaluate the private data that these device providers and apps are collecting. As the consumer market continues to get flooded with even more smart devices, its imperative to discuss this new expanded “information ecosystem” with your end-user and discuss measures they need to put in place to ensure their data privacy.
 
@@ -91,7 +91,7 @@ For Mobile security, refer to Security-in-a-Box’s guides on phone security:
 - [https://securityinabox.org/en/guide/mobile-phones](https://securityinabox.org/en/guide/mobile-phones)
 - [https://securityinabox.org/en/guide/smartphones](https://securityinabox.org/en/guide/smartphones)
 
-###6.5 Reading the “fine print”####
+###6.5 Reading the “Fine Print”####
 
 Help create a holistic security environment for users by educating them on reviewing “terms and conditions”, especially as they related to their data and its privacy and security, when signing up for tech services (email, social network sites or cloud services), smart devices or when downloading apps.
 
