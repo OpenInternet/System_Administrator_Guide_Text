@@ -66,3 +66,5 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 [^backup]: [msdn.microsoft.com, Kenneth Pfeil, Data Security and Data Availability in the Administrative Authority] (https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 
 [^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
+
+[^systemconsole] [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
