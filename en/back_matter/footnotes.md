@@ -12,6 +12,8 @@
 
 [^risk_matrix]: [Humanitarian Practice Network, Operational Security Management in Violent Environments (Revised Edition)](http://www.odihpn.org/hpn-resources/good-practice-reviews/operational-security-management-in-violent-environments-revised-edition)
 
+[^tp_areas]: [IT Policies Every Small Business Should Have, Corporate Computer Services, Inc.](http://www.corpcomputerservices.com/articles/it-policies-small-business)
+
 [^multilingual]: [Password Management Best Practices](http://hitachi-id.com/password-manager/docs/password-management-best-practices.html)
 
 [^daas]: [For suggested reading on this topic, refer to TechTarget, How Cloud Security Concerns Affect Trust in DaaS Providers:](http://searchvirtualdesktop.techtarget.com/tip/How-cloud-security-concerns-affect-trust-in-DaaS-providers)
