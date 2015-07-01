@@ -60,7 +60,7 @@ For added protection, you may adopt the “anomaly detection” versus a “misu
 
 In order to set up proper network security, layers of software, and solutions need to be in place that protect against various threats. Firewalls, anti-virus programs, access controls, and an IDPS solution (such as Snort) are all necessary to achieve effective network security.
 
-#### 7.4 Access Control & Authorization ####
+#### 7.4 Access Control and Authorization ####
 
 Access is the ability to perform a function with a computer resource (e.g., use, change, or view).  Access controls are the system-based means by which the ability is explicitly enabled or restricted in some way.  Access controls can prescribe not only who (a user) or what (a process) is to have access to a specific system resource, but also the level of access that is permitted. [^access_auth]
 
@@ -84,7 +84,7 @@ Ensure the following best practices with regards to authentication:
 - Use of the default “Guest” accounts is strongly discouraged on servers and workstations but, if needed, these accounts must conform to the naming conventions and the password policy established in this policy. Additional measures, such as disabling, renaming, or decoying these standard accounts, should be employed.
 - Administer Data Properly: Establish procedures to disable lost or stolen passwords and monitor systems to look for stolen or shared accounts.
 
-#### 7.5 Network Zones & Data Segregation based on Sensitivity ####
+#### 7.5 Network Zones and Data Segregation Based on Sensitivity ####
 
 A common practice of protecting sensitive data against threats is setting zones of segregation based on access - this could be as simple as setting up a separate WAPs (wireless access points) for organizational staff and another for guests to connect to.
 
@@ -92,7 +92,7 @@ Taking this practice a step further, classify your data based on sensitivity (Le
 
 Classification of your data based on sensitivity would allow you to create the appropriate security policies for access (access control), storage (network partitions, backups) and communication (encrypted channels) of this data.
 
-#### 7.6 Alerts to recognize Abnormal Traffic Behavior ####
+#### 7.6 Alerts to Recognize Abnormal Traffic Behavior ####
 
 You may setup simple scripts to send you alerts to monitor the following recommended abnormal traffic behavior [^traffic]. However, remember that doing so may generate denser and larger logs that may be difficult to analyze.
 - Port scans - opening of ports in an attempt to enumerate services.
@@ -164,7 +164,7 @@ Wireless networks can provide an unintended open door to your business network. 
 - Encourage holistic security practices, and during trainings & staff awareness workshops (Refer to Chapter 3), discuss the importance of securing their home WAP (wireless access points) with staff.
 - Encourage staff to use a VPN such as Psiphon when connecting to public, unsecured WAPs (such as wifi in a cafe or at the airport) for browsing the Internet or accessing work email.
 
-#### 7.11 Mitigating “Insider” threats ####
+#### 7.11 Mitigating “Insider” Threats ####
 
 Institute stringent access controls and monitoring policies on privileged users, including technical staff. System administrators and privileged users have greater access to systems, networks, or applications than other users, thus posing an increased risk. While working through your organization’s Risk Assessment (Refer to Chapter 1), ensure that you identify privileged users, including technical staff, who have greater access to your systems. Create the necessary policies and identify accountability practices in collaboration with key decision-makers to ensure your organization’s information will be protected against “insider” threats. Some of these approaches [^insider] include:
 
@@ -173,7 +173,7 @@ Institute stringent access controls and monitoring policies on privileged users,
 - Consider having privileged users sign a privileged user agreement or rules of behavior that outlines what is required of them.
 - Finally, as part of the employee exit procedure (Chapter 2- Policies), be especially careful to disable system access to former system administrators and technical or privileged users.
 
-#### 7.12 Develop a system for day-to-day work ####
+#### 7.12 Develop a System for Day-to-Day Work ####
 
 Create a checklist of tasks that need to be performed on a daily basis - some of these may include: checking monitoring consoles for alerts, storage capacity of backup tapes & logs, reading blogs & websites for new security threats, vendor websites for firmware updates.[^monitor] Allocate time at the beginning of the day to complete your daily checklist of tasks before moving on to other tasks.
 
@@ -187,11 +187,11 @@ Moreover, detailed documentation of changes made (for example: when reacting to 
 
 Good documentation does pay-off in the end, especially during an emergency such as a hardware failure when you need to re-configure your server or during a network conflict when you are trying to trace down an anomaly. Ensure that these configuration notes are saved securely and accessible easily in case of emergencies.
 
-#### 7.14 Develop project management habits ####
+#### 7.14 Develop Project Management Habits ####
 
 It may be beneficial to adopt simple project management practices even for small, one-person projects. Write up a small scope of work, write requirements, get sign-off from stakeholders on their expectations, plan a schedule, and record your activities. Write up a postmortem document at the end. Even if it’s just for yourself. It doesn’t have to be fancy, and it certainly doesn’t have to be formal PMBoK activities.[^monitor] It may seem bureaucratic managing all that paper and it may seem like you’re spending more time on paperwork than system administration, but it helps keep you organized, helps you prioritize competing tasks and communicate effectively with your supervisors.
 
-#### 7.15 Keep yourself updated ####
+#### 7.15 Keep Yourself Updated ####
 
 Staying in tune with current best practices, industry trends and emerging threats will help you learn about possible attacks to your network. Its recommended for sysadmins to sign-up to security mailing lists, read security news sites, receive information guides & updates shared by vendors and follow security researchers via twitter to ensure that they are always “in-the-know” when it comes to security trends and threats. (Refer to "Community Resources" towards the end of this guide for websites and mailing lists followed by sysadmins in the Internet Freedom community).
 
