@@ -1,6 +1,6 @@
 ## Know Your Rights: In-country Rules & Regulations ## {#chapter11}
 
-As you institute measures for information and communication security for your organization, it’s important to be aware of local, national and international laws that apply to your organization based on the nature of its work as well as any IT and Privacy regulations that could impact your organization’s policies and business workflows.
+As you institute measures for information and communication security for your organization, it’s important to be aware of local, national and international laws that apply to your organization based on the nature of its work as well as any IT and privacy regulations that could impact your organization’s policies and business workflows.
 
 For example, laws in various countries around the globe (for example: [Cuba](http://translatingcuba.com/from-lemon-juice-to-encrypted-code-yoani-sanchez/)) make use of encryption software illegal. And, in fact, the U.S. State Department advises persons traveling to Russia that taking laptops into that nation is unrestricted, but software may be inspected upon leaving. Any computer or software [containing sensitive or encrypted data](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1) may be confiscated by Russian authorities.
 
