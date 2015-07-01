@@ -39,7 +39,7 @@ author: 'Mahvash Taqi'
 - Incident Reporting Policy (#incident)
 - Chapter References
 
-[Chapter 3-Staff Awareness & Communication](#chapter3)
+[Chapter 3 - Staff Awareness & Communication](#chapter3)
 
 - 3.1 Usage Policies
 - 3.2 Identifying ‘privileged’ users
@@ -53,7 +53,7 @@ author: 'Mahvash Taqi'
 - Recommended Reading
 - Chapter References
 
-[Chapter 4- Budgeting for Security](#chapter4)
+[Chapter 4 - Budgeting for Security](#chapter4)
 
 - 4.1 Make a case for including Security as a line item in the overall organization’s budget 
 - 4.2 IT Budget - Do’s and Don’ts
