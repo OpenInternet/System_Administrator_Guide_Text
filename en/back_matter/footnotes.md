@@ -24,6 +24,8 @@
 
 [^email_settings]: [PCWorld, How to Encrypt Your Email](http://www.pcworld.com/article/254338/how_to_encrypt_your_email.html)
 
+[^monitor]: [Interap, 5 best practices for successful system administration](http://www.internap.com/2013/04/10/5-best-practices-for-successful-system-administration/)
+
 [^firewall_management]: [Simple Firewall Best Practices for Small and Midsize Businesses](https://technet.microsoft.com/en-us/security/hh144813.aspx)
 
 [^idps]: [TechTarget, Do you need an IDS or IPS, or both](http://searchsecurity.techtarget.com/Do-you-need-an-IDS-or-IPS-or-both)
