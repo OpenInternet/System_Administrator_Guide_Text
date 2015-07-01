@@ -63,10 +63,14 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^document_ethg]: [Top 5 Best Practices for System Administrators, pulseway.com](http://www.pulseway.com/blog/5-best-practices-for-system-admins)
 
-[^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
-
 [^backup]: [msdn.microsoft.com, Kenneth Pfeil, Data Security and Data Availability in the Administrative Authority] (https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 
-[^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
-
 [^systemconsole] [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
+
+[^physical_security]: [Deb Shinder, TechRepublic, 10 physical security measures every organization should take](http://www.techrepublic.com/blog/10-things/10-physical-security-measures-every-organization-should-take/)
+
+[^physical]: [SANS Institute, Data Center Physical Security Checklist](http://www.sans.org/reading-room/whitepapers/awareness/data-center-physical-security-checklist-416)
+
+[^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
+
+[^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
