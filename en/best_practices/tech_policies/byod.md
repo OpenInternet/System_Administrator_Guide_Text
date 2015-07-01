@@ -1,4 +1,6 @@
 {#byod}
+
+
 As access to technology and the Internet gets more affordable around the globe, organizational emails and data are being accessed by an increasing number of users on their personal devices (laptops and phones). Moreover, depending on the size of your organization or your staff’s work status (freelancers or consultants), staff’s personal devices may be the only alternative available for most individuals to perform work activities.
 
 Consumer devices are designed to be managed by an individual, not en masse, and although these “endpoints” reside outside of the control of the IT department, it's imperative to consider the following guidelines to institute control over your organization’s data and subsequent risks to the network as staff use their personal devices for work purposes.
