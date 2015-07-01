@@ -12,7 +12,7 @@ Conducting a Risk Assessment will help you analyze **risks** to your organizatio
 
 The assessment is a simple 4-step process laid out below, but first we look at a few basic definitions.
 
-### Understanding the various elements ###
+#### Understanding the various elements ####
 
 An overview of terms [^risk_assessment_definitions] follows:
 
