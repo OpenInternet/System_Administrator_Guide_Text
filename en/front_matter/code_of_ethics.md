@@ -1,5 +1,5 @@
 
-As a System Administrator working at an at-risk organization, it’s imperative that you are committed to the following guiding principles of integrity & ethical responsibility:
+As a System Administrator working at an at-risk organization, it’s imperative that you are committed to the following guiding principles [^ethics] of integrity & ethical responsibility:
 
 - Commitment to the organization’s mission and protection of organizational data, network, premises and most importantly, end-user’s privacy.
 - Committment to creating a safe & secure digital work environment for staff who are on the frontlines of supporting human rights.
