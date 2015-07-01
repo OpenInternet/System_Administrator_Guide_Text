@@ -2,13 +2,13 @@
 
 ###Best Practices###
 
-#### 8.1 Understand the data & processes ####
+#### 8.1 Understand the Data & Processes ####
 
 As you design systems to protect your organization and user’s data, understand the flow of information, along with the various categories. Once you have identified the various categories of data (emails, documents, employee records, tax & other legal records, contacts, chats), create a tiered system to classify data based on its importance and sensitivity. Access to sensitive data should be limited via “Access Control” (Refer to Chapter 7 on Network Security).
 
 Understanding the business process of how information is created and stored at the various stages (for example: in a newsroom, information received from sources is ultimately cumulated & shared across the organization to produce a news story - the number of hands through which this information is passed from the reporter, to the page layout designer, to the editorial team) will help you design the appropriate data storage and security solutions for each stage.
 
-In addition, understanding the pressures & dependencies that staff deal with (such as, tight deadlines) is also imperative while proposing practical, workable data solutions that will succeed within the context of the organizational information workflow.
+In addition, understanding the pressures and dependencies that staff deal with (such as, tight deadlines) is also imperative while proposing practical, workable data solutions that will succeed within the context of the organizational information workflow.
 
 #### 8.2 Data Collection Protocol ####
 
@@ -84,13 +84,13 @@ Understand local data retention laws before disposing digital files - such as em
 
 Disposal of data also includes protocols of securely shredding physical files & documents to prevent unauthorized access to printouts of sensitive information.
 
-#### 8.5 Contact Management provisions ####
+#### 8.5 Contact Management Provisions ####
 
 Contact information of people that your staff interact with (whether partners, sources, consultants, or donors) usually resides in their email or on their phones. One hacked email account on your network or a lost phone can expose the identity of these individuals putting them at risk. In addition, turnover within your organization may also lead to the loss of contact information to key individuals. As such, create provisions to provide a secure (encrypted) database to store all contact information in order to provide business continuity and safeguard the contact information of individuals by moving them away from individual email accounts or address books. Institute a contact management policy within the organization to ensure all contact information is kept up-to-date in the contact management system and sharing of contacts tagged as “sensitive” is not permissible.
 
 Ensure that your backup policy addresses regular backups of the contact management system and the physical protection of these backups.
 
-#### 8.6 Data security while crossing borders ####
+#### 8.6 Data Security While Crossing Borders ####
 
 While it’s important to create provisions to protect data while on the network, be aware of various methods through which your organization’s data also travels outside the network on staff laptops, USBs or stored in the cloud by staff. As you design the organization’s Traveller's Policy (Refer to Chapter 2 on IT Policies) discuss the protocols for safeguarding your organization’s data while crossing borders (especially imperative when staff travel to “less friendly” countries).
 
