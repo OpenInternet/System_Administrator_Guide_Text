@@ -37,13 +37,13 @@ Following these best practices [^firewall_management] and conducting regular mai
 - Get a “trusted, independent” audit: When possible, allow someone who has knowledge of and experience with managing firewalls but who is not involved in the day-to-day operations of your network to audit the firewall policies - this would ensure a trusted, fresh perspective and will help identify any policy conflicts.
 - It’s recommended to review the firewall policies at least twice a year.
 
-*Back up your firewall regularly*
+*Back up your firewall regularly* [^firewall_management]
 
 - Make a backup of firewall policies and configurations before performing any policy changes. With a backup, if you run into any problems with new policy configuration, it is easy to revert back to the previous, working configuration.
 - Consider what else is needed to restore your firewall if disaster recovery is necessary. Are there any specific routes that are not included in the firewall configuration backup, but are required for complete restore? How about certificates and their corresponding private keys that might be used for SSL session termination on the firewall?
 - Practice firewall recovery in test environment. Testing should point out any missing components in the backup and, therefore, give administrators the opportunity to learn the necessary skills to perform a quick and reliable restore when necessary.
 
-*Update the firewall*
+*Update the firewall* [^firewall_management]
 
 - Regardless of the make and model of your firewall, you should regularly update your firewalls. All firewall manufacturers release updates for their products. These updates often include bug fixes and new features that can help mitigate new types of threats, thereby minimizing risk.
 - When possible, also update network card drivers. These updates often solve problematic behaviors, including those that might, at first, seem to be related to an unreliable firewall.
