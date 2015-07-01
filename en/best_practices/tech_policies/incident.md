@@ -1,3 +1,5 @@
+{#incident}
+
 To maintain a seamless system administration environment, it's best to formalize the process of responding to incidents and communicating this policy to staff and the tech team (especially, in the case when there is more than one system administrator). The goal of incident reporting is non-punitive and it is considered an essential best practice for trouble-shooting network conflicts.
 
 An incident is a tech emergency which may include the following [^incident_policy]:
