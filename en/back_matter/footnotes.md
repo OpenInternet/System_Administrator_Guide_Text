@@ -44,7 +44,7 @@
 
 [^logs]: [LOG MANAGEMENT: USING COMPUTER AND NETWORK RECORDS TO IMPROVE INFORMATION SECURITY, NIST](http://www.itl.nist.gov/lab/bulletns/bltnoct06.htm)
 
-[^wifi]: [How to Encrypt a Wireless Router, http://www.liutilities.com/](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
+[^wifi]:[How to Encrypt a Wireless Router, liutilities.com](http://www.liutilities.com/how-to/encrypt-a-wireless-router/)
 
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
 
