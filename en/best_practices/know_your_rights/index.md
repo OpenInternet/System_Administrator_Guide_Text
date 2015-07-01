@@ -42,11 +42,11 @@ In view of the complex patchwork of data security and privacy laws, taking preve
 
 ### Chapter References ###
 
-- [Digital Media Law Project, Berkman Center for Internet & Society](http://www.dmlp.org/legal-guide/responding-legal-threats)
+- [Berkman Center for Internet & Society, Digital Media Law Project](http://www.dmlp.org/legal-guide/responding-legal-threats)
 - [EFF, Legal Guide for Bloggers](https://www.eff.org/issues/bloggers/legal)
 - [BBC, How to avoid libel & defamation](http://www.bbc.co.uk/dna/collective/A1183394)
 - [EFF, How to Blog Safely](https://www.eff.org/wp/blog-safely)
-- [Law Society, Information Security](http://www.lawsociety.org.uk/support-services/advice/practice-notes/information-security/)
-- [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
-- [Lifehacker, Daniel Mathews, Even Learning About Encryption in Australia will soon be Illegal](http://www.lifehacker.com.au/2015/05/even-learning-about-encryption-in-australia-will-soon-be-illegal/)
-- [National Defense Industrial Association](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1)
+- [Law Society.org.uk, Information Security](http://www.lawsociety.org.uk/support-services/advice/practice-notes/information-security/)
+- [Whiteford, Taylor, Preston, Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
+- [Daniel Mathews, Lifehacker, Even Learning About Encryption in Australia will soon be Illegal](http://www.lifehacker.com.au/2015/05/even-learning-about-encryption-in-australia-will-soon-be-illegal/)
+- [Jeffrey G. Richardson, National Defense Industrial Association, Use Caution When Traveling With Encryption Software](http://www.nationaldefensemagazine.org/archive/2013/August/pages/UseCautionWhenTravelingWithEncryptionSoftware.aspx?PF=1)
