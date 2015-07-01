@@ -43,7 +43,7 @@ Here are some tips to prevent potential personal harm, if staying anonymous as a
 - Use a service like [Tor](https://www.torproject.org) to stay anonymous when updating your Web site. Refer to Chapter 6 (Anonymity during Surfing) for more information on using Tor.
 - Protect the identity of the domain name owner via private domain registration- even though this may be slightly expensive it can help protect your identity, and of your organization associated with a website - this is especially true if there are chances your site will be controversial in your country. Kindly note that if your domain registrar is based in your country, they would know the true identity of the domain owner based on information shared during the domain registration process. In most countries, domain registrars are ISPs who are state-regulated and if your site conveys an anti-government message, your domain registrar could be pressurized to share domain owner information with your adversaries. In this case, consider using a domain registrar in a foreign country.
 
-##### 9.1.iv Preventing Website Censorship Via Multiple Channels of Distribution #####
+##### 9.1.iv Preventing Website Censorship via Multiple Channels of Distribution #####
 
 Webmasters can and should take different actions in order to spread their content as much as possible, to prevent being shut down or blocked.
 
