@@ -12,15 +12,15 @@ In addition, under other US state laws, including California, Massachusetts, and
 
 As such, it’s imperative to understand the legal IT aspects of operating within your local context. Here are a few suggestions [^rights_suggestions] to keep in mind:
 
-**Learn**: Know the laws that apply to you and what they require you to do. While the resources listed under the “Recommended Reading” section can aid you with initial research, they are not intended to be comprehensive  – rather, an essential step is to consult with a local lawyer to understand the true impact of local, national and international laws while designing an effective information and communication security system for your organization.
+#### Learn ####: Know the laws that apply to you and what they require you to do. While the resources listed under the “Recommended Reading” section can aid you with initial research, they are not intended to be comprehensive  – rather, an essential step is to consult with a local lawyer to understand the true impact of local, national and international laws while designing an effective information and communication security system for your organization.
 
-**Audit**: Audit your security practices and map out how you collect, share, store and use personal identifiable information (PII) of staff, donors, partners or visitors to your website.
+#### Audit ####: Audit your security practices and map out how you collect, share, store and use personal identifiable information (PII) of staff, donors, partners or visitors to your website.
 
-**Implement**: Design and implement a privacy and security plan that complies with applicable laws, limits exposure, and increases stakeholder confidence. Refer to Chapters 7 (Network Security), 8 (Data Security, Backup & Recovery), 9 (Website, Software & System Security) and 10 (Physical Security) for best practices.
+#### Implement ####: Design and implement a privacy and security plan that complies with applicable laws, limits exposure, and increases stakeholder confidence. Refer to Chapters 7 (Network Security), 8 (Data Security, Backup & Recovery), 9 (Website, Software & System Security) and 10 (Physical Security) for best practices.
 
-**Comply and Adjust**: Follow the plan, stay current on the legal requirements, and update your protections as technologies and laws change.
+#### Comply and Adjust ####: Follow the plan, stay current on the legal requirements, and update your protections as technologies and laws change.
 
-**Mitigate**: Prepare a risk mitigation plan, including how to handle the bad publicity, and swiftly implement it if the worst, such as a data breach, occurs.
+#### Mitigate ####: Prepare a risk mitigation plan, including how to handle the bad publicity, and swiftly implement it if the worst, such as a data breach, occurs.
 In view of the complex patchwork of data security and privacy laws, taking preventive measures to minimize the likelihood or scope of run-ins with the law by establishing appropriate tech policies and contingency plans will ensure legal compliance and will result in a positive outcome for all stakeholders, your organization and its mission.
 
 ### Recommended Reading ###
