@@ -121,14 +121,14 @@ Some applications generate their own log files, while others use the logging cap
 
 A log management infrastructure consists of the hardware, software, networks, and media used to generate, transmit, store, analyze, and dispose of log data. Some major factors to consider in the design of a log management system include:
 
-- Volume of log data to be processed- many logs have a maximum size, such as storing the 10,000 most recent events, or keeping 100 megabytes of log data. When the size limit is reached, the log might overwrite old data with new data or stop logging altogether, both of which would cause a loss of log data availability. To meet your organization’s data retention requirements in compliance with local laws, you might need to keep copies of log files for a longer period of time than the original log sources can support, which necessitates establishing log archival processes. Because of the volume of logs, it might be appropriate in some cases to reduce the logs by filtering out log entries that do not need to be archived.
+- Volume of log data to be processed- many logs have a maximum size, such as storing the 10,000 most recent events, or keeping 100 megabytes of log data. When the size limit is reached, the log might overwrite old data with new data or stop logging altogether, both of which would cause a loss of log data availability.[^logs] To meet your organization’s data retention requirements in compliance with local laws, you might need to keep copies of log files for a longer period of time than the original log sources can support, which necessitates establishing log archival processes. Because of the volume of logs, it might be appropriate in some cases to reduce the logs by filtering out log entries that do not need to be archived.
 - Network Bandwidth - ensure that all logs are generated during off-peak hours to allow the necessary bandwidth during work hours.
 - Time and resources needed for staff to analyze the logs
 - Define a log rotation and archival process
 - Retention Policy - understand the local laws pertaining to retention of data for legal purposes (evidence generation) and for audits & compliance efforts, especially financial and tax data
 - Monitoring the status of the log management infrastructure (e.g., failures in logging software or log archival media, failures of local systems to transfer their log data) and initiating appropriate responses when problems occur.
 - Security considerations related to online and offline data storage of log data. The confidentiality and integrity of the archived logs (on removable media) need to be protected, similar to backup data tapes (Refer to Chapter 8- Data Retention). In addition, ensure that old log data is disposed of properly once it is no longer needed.
-- Maintaining the security of the log management infrastructure, including testing and implementing upgrades & updates to the log management infrastructure components - software & hardware.
+- Maintaining the security of the log management infrastructure, including testing and implementing upgrades & updates to the log management infrastructure components - software & hardware. [^audit_log]
 - Re-configure logging as needed based on policy changes, technology changes, and other factors.
 - Monitor and document anomalies in log settings, configurations, and processes.
 
