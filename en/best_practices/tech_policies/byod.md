@@ -29,7 +29,7 @@ Before granting access to work emails and data to personal employee devices, cre
 
 #### Risks associated to mobile device location & recording capabilities ####
 
-Mobile devices are inherently insecure and offer an array of technologies, ranging from Global Positioning System (GPS) receivers to cameras and audio recorders. The BYOD policy should cover the use of these features as they relate to work. It's not just data loss or user privacy that's a concern, but also, potential loss of intellectual property if recording or photos of a project are accidentally leaked, lost, stolen or confiscated.[^mobile_risks]
+Mobile devices are inherently insecure and offer an array of technologies, ranging from Global Positioning System (GPS) receivers to cameras and audio recorders. The BYOD policy should cover the use of these features as they relate to work. It's not just data loss or user privacy that's a concern, but also, potential loss of intellectual property if recording or photos of a project are accidentally leaked, lost, stolen or confiscated.[^byod]
 
 Develop device loss, theft and staff exit policies
 
@@ -45,7 +45,7 @@ With access to work email and resources available on staff devices, create a cle
 
 #### Prepare your network ####
 
-Consumer devices are voice, video, high-def image and application rich. Employees using these devices will devour bandwidth and network resources. Assess your existing switch and router networks, your wired and wireless access in the office, the size of your Internet pipes and connections to remote locations. Make adjustments in advance of the increased demands that are inevitable on your IT network infrastructure grid. Consider setting up separate wifi networks for guests versus employees that employees bringing in their devices can connect to as well, instead of their devices gaining access to all network resources and assets. (Refer to Chapter 7 for network segregation best practices).
+Consumer devices are voice, video, high-def image and application rich. Employees using these devices will devour bandwidth and network resources. Assess your existing switch and router networks, your wired and wireless access in the office, the size of your Internet pipes and connections to remote locations. Make adjustments in advance of the increased demands that are inevitable on your IT network infrastructure grid.[^byod] Consider setting up separate wifi networks for guests versus employees that employees bringing in their devices can connect to as well, instead of their devices gaining access to all network resources and assets. (Refer to Chapter 7 for network segregation best practices).
 
 #### Continuously Monitor Automated Actions ####
 
