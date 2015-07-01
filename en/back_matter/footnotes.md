@@ -42,6 +42,8 @@
 
 [^audit_logs] [Guide to Computer Security Log Management, NIST] (http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf)
 
+[^logs]: [LOG MANAGEMENT: USING COMPUTER AND NETWORK RECORDS TO IMPROVE INFORMATION SECURITY, NIST](http://www.itl.nist.gov/lab/bulletns/bltnoct06.htm)
+
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
 
 [^backup]: [msdn.microsoft.com, Kenneth Pfeil, Data Security and Data Availability in the Administrative Authority] (https://msdn.microsoft.com/en-us/library/cc722918.aspx)
