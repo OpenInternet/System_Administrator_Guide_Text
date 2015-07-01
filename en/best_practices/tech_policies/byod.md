@@ -29,7 +29,7 @@ Before granting access to work emails and data to personal employee devices, cre
 
 #### Risks associated to mobile device location & recording capabilities ####
 
-Mobile devices are inherently insecure and offer an array of technologies, ranging from Global Positioning System (GPS) receivers to cameras and audio recorders. The BYOD policy should cover the use of these features as they relate to work. It's not just data loss or user privacy that's a concern, but also, potential loss of intellectual property if recording or photos of a project are accidentally leaked, lost, stolen or confiscated.
+Mobile devices are inherently insecure and offer an array of technologies, ranging from Global Positioning System (GPS) receivers to cameras and audio recorders. The BYOD policy should cover the use of these features as they relate to work. It's not just data loss or user privacy that's a concern, but also, potential loss of intellectual property if recording or photos of a project are accidentally leaked, lost, stolen or confiscated.[^mobile_risks]
 
 Develop device loss, theft and staff exit policies
 
