@@ -46,7 +46,7 @@ break-in or misuse. Most of the systems have backdoor entry or procedure
 to break into the system, using the console. In fact, this is an
 essential feature to break into the system when the superuser password
 is lost. Secure your console from someone who can keep guessing the
-superuser password at the console:
+superuser password at the console, as recommended in SANS Institute's guide [^systemconsole] on System Administration Security Practices:
 
 -   Do not leave console logged in at any point of time, if you are
     away; make a practice to log-out every time after completing your
@@ -57,7 +57,7 @@ superuser password at the console:
     out administrative tasks. If an intruder breaks into a system
     administrator's terminal, there is a chance of getting access to
     multiple systems. These terminals should be located in a secure
-    area.
+    area.[^systemconsole]
 -   Evaluate a policy for remote access to servers: while this can be
     added convenience for system administrators, if not implemented and
     monitored carefully, it can also expose a huge security hole into
