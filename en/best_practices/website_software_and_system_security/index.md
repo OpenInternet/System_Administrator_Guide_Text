@@ -122,7 +122,7 @@ Its easy to overlook social applications such as your organization’s Facebook 
 
 ####Chapter References####
 
-- [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
+- [SANS Institute, System Administrator-Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 - [Indiana University, Best practices for computer security](https://kb.iu.edu/d/akln)
 - [Microsoft, Data Security and Data Availability in the Administrative Authority](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 - [DarkReading, The Five Most Common Security Pitfalls In Software Development](http://www.darkreading.com/the-five-most-common-security-pitfalls-in-software-development/d/d-id/1140103?)
@@ -136,6 +136,6 @@ Its easy to overlook social applications such as your organization’s Facebook 
 - [PCMag, The Best Antivirus for 2015](http://www.pcmag.com/article2/0,2817,2372364,00.asp)
 - [BeyondSecurity, Web Security Basics](http://www.beyondsecurity.com/web-security-and-web-scanning.html)
 - [CreativeBloq, 10 security tips to protect your website from hackers](http://www.creativebloq.com/web-design/website-security-tips-protect-your-site-7122853)
-- [National Network to End Domestic Violence: Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors)](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
+- [National Network to End Domestic Violence, Technology Safety Organizational Technology Capacity & Development (for Agencies & Programs Working With Survivors)](http://nnedv.org/resources/safetynetdocs/154-organizational-technology-capacity-development.html)
 - [NIST, Security Considerations in the System Development Life Cycle](http://csrc.nist.gov/publications/nistpubs/800-64-Rev2/SP800-64-Revision2.pdf)
 - [NIST, Guidelines on Security and Privacy in Public Cloud Computing](http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf)
