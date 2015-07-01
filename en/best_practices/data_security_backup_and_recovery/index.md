@@ -52,10 +52,9 @@ Below is a typical tape backup rotation strategy, however, you may adopt a more 
 
 *Disaster Recovery*
 
-
 The goal of backing-up data is to be able to plan against catastrophic data loss or accidental deletion. In the event of such scenarios, a Disaster Recovery plan can be instrumental in reducing the damage caused and will allow for uninterrupted business continuity.
 
-A disaster recovery plan should include:
+A disaster recovery plan [^backup] should include:
 
 - Identification of critical systems, application data and programs, equipment, communications requirements, documentation, and supplies. Identify interdependencies of these systems between your organization’s business units or functions.
 - Risk analysis for each data set including impact analysis (impact on organization productivity, continuity, reputation), acceptable downtime and disaster definition.
@@ -69,8 +68,7 @@ A disaster recovery plan should include:
 - Access to vendors contracts and replacement commitments.
 - Considerations for a Hot/Cold sites for critical systems: A hot site is a completely functioning alternate site in another independent geographic location complete with backup systems and a duplicate and current environment. This is the most painless way to recover from a catastrophe or calamity; however, it is certainly the most expensive. A cold site merely contains system, personnel space and the network connectivity necessary to facilitate resumption, but does not have any systems or data.
 
-Don’t wait until a disaster to test out your Disaster Recovery plan: Frequent evaluation of the disaster recovery plan is critical to ensure they adequately meet business requirements. Ensure specific procedures are in place to adequately review recovery procedures including:
-
+Don’t wait until a disaster to test out your Disaster Recovery plan: Frequent evaluation of the disaster recovery plan is critical to ensure they adequately meet business requirements. Ensure specific procedures [^backup] are in place to adequately review recovery procedures including:
 - Assignment of responsibility to review and update the recovery plan to ensure that all copies reflect current conditions, including timely review and approval by appropriate levels of management.
 - Authorized distribution list for contingency plans.
 - The ability to recover at an alternate site.
