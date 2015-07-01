@@ -32,7 +32,7 @@ The 3-2-1 rule means that the best way to backup your data is to:
 
 The purpose of this system it to make sure that you have one copy handy in emergencies, but a second copy somewhere else in case of confiscation or a natural disaster at one location. Encrypting those backups keeps the information safe on the backup, as well.
 
-In addition, a backup plan should:
+In addition, a backup plan should [^backup_plan]:
 
 - Verify that remote employees are reminded to backup critical files from their PCs to a specified user share on the network which is included in the backup strategy regularly (for example, weekly or monthly).
 - Verify that backups jobs (in an automatic and/or manual fashion) are performed per schedule and properly labeled.
