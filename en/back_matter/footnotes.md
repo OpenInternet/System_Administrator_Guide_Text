@@ -28,6 +28,8 @@
 
 [^firewall_management]: [Simple Firewall Best Practices for Small and Midsize Businesses](https://technet.microsoft.com/en-us/security/hh144813.aspx)
 
+[^fw_policies]: https://technet.microsoft.com/en-us/security/hh144813.aspx
+
 [^idps]: [TechTarget, Do you need an IDS or IPS, or both](http://searchsecurity.techtarget.com/Do-you-need-an-IDS-or-IPS-or-both)
 
 [^access_auth]: http://csrc.nist.gov/groups/SNS/rbac/documents/design_implementation/csl95-12.txt
