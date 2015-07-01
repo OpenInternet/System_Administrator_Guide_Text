@@ -4,7 +4,7 @@
 
 ####9.1 Website Security####
 
-##### 9.1.i Protect your website #####
+##### 9.1.i Protect Your Website #####
 
 - Secure Hosting: consider a secure website hosting option for your website (Refer to Tools & Templates section below for list of secure hosting providers). You may consider hosting your website in a foreign country, where the content is less controversial and legally protected. This may imply only a small additional delay in page load time (usually a few milliseconds) for your visitors and may save you a lot of trouble if you are located in a country where you web site's content is considered very controversial. You may also want to create a mirror server running as a standby to which you can switch easily.
 - Protect your website against DDOS attacks by deploying open-source tools such as [Deflect](https://www.deflect.ca) by Equalit.ie. Deflect is a distributed infrastructure built to mitigate DDoS attacks and keep your website accessible at all times. (Refer to Tools & Templates section below for other ways to protect against DDOS attacks).
@@ -24,7 +24,7 @@
 - Software updates: Secure your Web site, especially if you use a CMS (Content Management System). Always install the latest stable updates to fix security flaws.
 - Test upgrades & patches on a sandbox before pushing changes to the production server: while software upgrades and security patches are essential to keep your site protected, be sure to test them on a sandbox to ensure site functionality remains intact before pushing changes to the production server.
 
-##### 9.1.ii Protect your visitors #####
+##### 9.1.ii Protect Your Visitors #####
 
 Apart from protecting your Web site and yourself, it is also important to protect the visitors from potential third party monitoring, especially if they submit content to your website.
 
@@ -35,7 +35,7 @@ Apart from protecting your Web site and yourself, it is also important to protec
 - Site Privacy Policy: If you site is collecting user information via a contact form or another mechanism, ensure your site’s privacy policy clearly states how collected information will be protected, in addition to not being shared with a 3rd party.
 - Educate your visitors: Teach your users how to use circumvention tools, and be able to improve their online security by linking them to resource such as [SpeakSafe](https://speaksafe.internews.org) or [Security-in-a-Box](https://securityinabox.org). Make a digital safety checklist available so your visitors can be sure they are not being monitored or attacked.
 
-##### 9.1.iii Protect yourself #####
+##### 9.1.iii Protect Yourself #####
 
 Here are some tips to prevent potential personal harm, if staying anonymous as a webmaster is important for you.
 
@@ -43,7 +43,7 @@ Here are some tips to prevent potential personal harm, if staying anonymous as a
 - Use a service like [Tor](https://www.torproject.org) to stay anonymous when updating your Web site. Refer to Chapter 6 (Anonymity during Surfing) for more information on using Tor.
 - Protect the identity of the domain name owner via private domain registration- even though this may be slightly expensive it can help protect your identity, and of your organization associated with a website - this is especially true if there are chances your site will be controversial in your country. Kindly note that if your domain registrar is based in your country, they would know the true identity of the domain owner based on information shared during the domain registration process. In most countries, domain registrars are ISPs who are state-regulated and if your site conveys an anti-government message, your domain registrar could be pressurized to share domain owner information with your adversaries. In this case, consider using a domain registrar in a foreign country.
 
-##### 9.1.iv Preventing website censorship via multiple channels of distribution #####
+##### 9.1.iv Preventing Website Censorship Via Multiple Channels of Distribution #####
 
 Webmasters can and should take different actions in order to spread their content as much as possible, to prevent being shut down or blocked.
 
@@ -78,7 +78,7 @@ Webmasters can and should take different actions in order to spread their conten
 - To prevent spamming to mails in the organization, mails only authenticated by users in the organizations should be allowed.
 - Business Continuity Planning: Ensure procedures are in place to ensure your systems, website and applications are backed-up, can be easily restored to ensure uninterrupted business continuity in the event of an interruption (software/hardware failure) or a catastrophe (theft, flood, fire, riots or an office raid). Refer to Chapter 8- Data Security, Backup & Restore.
 
-####9.4 Security on end-user devices####
+####9.4 Security on End-User Devices####
 
 - Install licensed software on end-users computers and ensure the necessary OS software patches are applied as well. You may be able to rely on getting discounted software licenses from an organization like TechSoup.
 - Install anti-virus and malware protection on all devices. Auto-update for virus definitions should be enabled and their devices should be set to scan daily for viruses. For devices connected to the network, you may choose to push virus definitions via a central anti-virus server during low bandwidth usage periods such as after working hours or on the weekends.
