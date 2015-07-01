@@ -2,8 +2,6 @@
 
 [^ethics]: [The USENIX Association, The System Administrators’ Code of Ethics](https://lopsa.org/files/ethics_horiz.pdf)
 
-
-
 [^adminrole]: [The Guardian, Cory Doctorow: If one thing gives me hope for the future, it’s the cause of internet freedom](http://www.theguardian.com/technology/2015/may/26/hope-future-internet-activism-freedom)
 
 [^risk_assessment_definitions]: [Frontline Defenders: Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
@@ -35,5 +33,8 @@
 [^log_management]: [Log Management – Lifeblood of Information Security](http://www.net-security.org/article.php?id=975&p=2)
 
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
+
+[^backup_plan]: [msdn.microsoft.com, Kenneth Pfeil, Data Security and Data Availability in the Administrative Authority] (https://msdn.microsoft.com/en-us/library/cc722918.aspx)
+
 
 [^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
