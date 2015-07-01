@@ -48,6 +48,8 @@
 
 [^insider]: [Common Sense Guide to Mitigating Insider Threats, cert.org](https://www.cert.org/blogs/insider-threat/post.cfm?EntryID=139)
 
+[^document_ethg]: [Top 5 Best Practices for System Administrators, pulseway.com](http://www.pulseway.com/blog/5-best-practices-for-system-admins)
+
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
 
 [^backup]: [msdn.microsoft.com, Kenneth Pfeil, Data Security and Data Availability in the Administrative Authority] (https://msdn.microsoft.com/en-us/library/cc722918.aspx)
