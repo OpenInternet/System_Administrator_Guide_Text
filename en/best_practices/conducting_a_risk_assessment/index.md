@@ -99,3 +99,4 @@ Be sure to share the above risk assessment framework (Steps 1- 4) with staff as 
 - [EFF, An Introduction to Threat Modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
 - [PBS.org, Rory Byrne, Information Security for Journalists - The Bigger Picture](http://www.pbs.org/idealab/2014/06/information-security-for-journalists-the-bigger-pictur)
 - [Front Line - The International Foundation for the Protection of Human Rights Defenders, Protection Manual for Human Rights Defenders](http://www.peacebrigades.org/fileadmin/user_files/groups/uk/files/Publications/Frontline_Manual_pdf.pdf#page=83)
+
