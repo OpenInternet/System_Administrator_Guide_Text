@@ -14,7 +14,7 @@ Conducting a Risk Assessment will help you analyze **risks** to your organizatio
 
 The assessment is a simple 4-step process laid out below, but first we look at a few basic definitions.
 
-#### Understanding the various elements ####
+#### Understanding the Various Elements ####
 
 An overview of terms [^risk_assessment_definitions] follows:
 
@@ -49,7 +49,7 @@ Completing the worksheet with the information gathered through this “discovery
 
 Since risks will differ according to the unique context of your country, the patterns of threats and attacks, the perpetrators, the degree of impunity, and the individual’s identity, profile, activities and location, this step takes into account the context (political, socio-economic) within which your organization operates and creates a framework to work within as you design an operational security plan for your organization. It also takes into account the ever-changing realities (scenarios) and builds in flexibility to accommodate these unique scenarios.
 
-#### Step 2- Risk Matrix ####
+#### Step 2 - Risk Matrix ####
 
 Based on your specific scenario, the list of potential risks can be overwhelming and can create a sense of “panic” among staff who may feel paralyzed by existing vulnerabilities that need to be addressed, especially if capacities are hugely lacking.
 
@@ -65,13 +65,13 @@ Via this exercise, by focusing on the areas of “very high impact- very high li
 
 Next, breakdown these security goals into achievable tasks (For example: creation of role-based access policies, or outreach to TechSoup for discounted software) that can be executed, their progress can be monitored, responsibility assigned and costs are associated for accomplishing the security goal. (Refer to Chapter 3 on preparing an IT budget).
 
-#### Step 3- Maintaining a risk-averse posture ####
+#### Step 3 - Maintaining a Risk-Averse Posture ####
 
 Conducting a risk assessment is not a one-time activity. As the context within which your organization operates changes (for example: introduction of stricter laws regulating NGOs; expansion of work activities in more hostile environments; enhanced investment in surveillance technologies by local authorities; change in the political environment), the risk matrix changes too. It's important to re-assess digital risks and evaluate their impact and likelihood and accordingly, maneuver the organization’s posture against the new threats. As such, it's recommended to conduct risk assessments on an on-going basis. Discuss and decide on a workable schedule to conduct regular risk assessments with the key stakeholders.
 
 ![Risk Cycle](images/risk_cycle.png)
 
-#### Step 4- Empowering individuals ####
+#### Step 4 - Empowering Individuals ####
 
 Be sure to share the above risk assessment framework (Steps 1- 4) with staff as part of their IT on-boarding process or during tech awareness workshops. Each individual armed with this framework will be empowered to assess threats, identify adversaries & individual capacities and create individual security (action) plans based on their unique scenario.
 
