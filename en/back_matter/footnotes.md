@@ -34,7 +34,9 @@
 
 [^anamoly]: [Webopedia, Intrusion Detection (IDS) and Prevention (IPS) Systems] (http://www.webopedia.com/DidYouKnow/Computer_Science/intrusion_detection_prevention.asp)
 
-[^access_auth]: http://csrc.nist.gov/groups/SNS/rbac/documents/design_implementation/csl95-12.txt
+[^access_auth]: [AN INTRODUCTION TO ROLE-BASED ACCESS CONTROL, NIST](http://csrc.nist.gov/groups/SNS/rbac/documents/design_implementation/csl95-12.txt)
+
+[^traffic]: [Data Security and Data Availability in the Administrative Authority, msdn.microsoft.com](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 
 [^log_management]: [Log Management – Lifeblood of Information Security](http://www.net-security.org/article.php?id=975&p=2)
 
