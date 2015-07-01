@@ -22,7 +22,7 @@ Once you have consistent information, you’ll start seeing patterns and can loo
 
 ##### 7. 2 Effective Firewall Management #####
 
-Following these best practices, as highlighted by Miha Pihlerin this [^firewall_management] Microsoft Technet's article, and conducting regular maintenance work can make the life of a system administrator less stressful and help better protect your network.
+Following these best practices, as highlighted by Miha Pihlerin's article [^firewall_management] published in Microsoft Technet, and conducting regular maintenance work can make the life of a system administrator less stressful and help better protect your network.
 
 - Conduct daily maintenance tasks: As stated above under “Monitor, Measure & Record”, review traffic logs & check for any alerts.
 - Deny all traffic by default and only open specific ports, protocols and services as needed.
