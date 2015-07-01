@@ -1,4 +1,6 @@
-##Physical Security## {#chapter10}
+##Physical Security## 
+
+{#chapter10}
 
 While monitoring network traffic to prevent virus & malware attacks and
 ensuring data and communication security are important aspects of a
