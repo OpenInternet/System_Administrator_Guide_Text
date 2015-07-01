@@ -120,8 +120,8 @@ based on these external factors regularly.
 
 Like many electronic devices, computers are quite sensitive. They do not
 adapt well to unstable electricity supplies, extreme temperatures, dust,
-high humidity or mechanical stress. There are a number of things [^healthy_environment] you can
-do to protect your computers and network equipment from such threats:
+high humidity or mechanical stress. There are a number of things you can
+do to protect your computers and network equipment from such threats, as suggested in Tactical Tech's Security-in-a-Box guide [^healthy_environment]:
 
 -   Electrical problems such as power surges, blackouts and brownouts
     can cause physical damage to a computer. Irregularities like this
