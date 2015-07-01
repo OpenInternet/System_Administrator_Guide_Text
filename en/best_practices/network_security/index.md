@@ -188,7 +188,7 @@ Good documentation does pay-off in the end, especially during an emergency such 
 
 ##### 7.14 Develop project management habits #####
 
-It may be beneficial to adopt simple project management practices even for small, one-person projects. Write up a small scope of work, write requirements, get sign-off from stakeholders on their expectations, plan a schedule, and record your activities. Write up a postmortem document at the end. Even if it’s just for yourself. It doesn’t have to be fancy, and it certainly doesn’t have to be formal PMBoK activities. It may seem bureaucratic managing all that paper and it may seem like you’re spending more time on paperwork than system administration, but it helps keep you organized, helps you prioritize competing tasks and communicate effectively with your supervisors.
+It may be beneficial to adopt simple project management practices even for small, one-person projects. Write up a small scope of work, write requirements, get sign-off from stakeholders on their expectations, plan a schedule, and record your activities. Write up a postmortem document at the end. Even if it’s just for yourself. It doesn’t have to be fancy, and it certainly doesn’t have to be formal PMBoK activities.[^monitor] It may seem bureaucratic managing all that paper and it may seem like you’re spending more time on paperwork than system administration, but it helps keep you organized, helps you prioritize competing tasks and communicate effectively with your supervisors.
 
 ##### 7.15 Keep yourself updated #####
 
