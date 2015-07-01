@@ -10,7 +10,7 @@ Here are some best practices to help you make a business case to decision-makers
 
 ####Best Practices####
 
-##### 4.1 Make a case for including Security as a line item in the overall organization’s budget #####
+##### 4.1 Make a Case for Including Security as a Line Item in the Overall Organization’s Budget #####
 
 Conducting a Risk Assessment (Refer to Chapter 1) will help you understand the threats to your organization, identify the various adversaries, the likelihood and impact of the various threats. Your strategies to mitigate these threats will help define the types of new or updated security controls -- whether processes, technologies, or educational programs -- that will be required by your organization.
 Involving decision makers and stakeholders, at all levels, in the Risk Assessment process will ensure you not only get a holistic sense of threats, adversaries and potential impact to the organization but also have indirectly received their buy-in via their participation, as they will start to understand the impact of a potential cyber-incident.
@@ -49,7 +49,7 @@ Ensure that you are measuring how the current security measures are safeguarding
 - Measures in pace to protect the online reputation of the organization via Facebook, Twitter, YouTube.
 - Number of digital security awareness sessions conducted with staff
 
-##### 4.4 Communication with decision-makers #####
+##### 4.4 Communication with Decision-Makers #####
 
 Regular communication regarding the organization’s risk posture and the effectiveness of its cyber security program will convince decision-makers with regards to the need for the recommended user policies (for example: password management, BYOD policy or secure communications) and changes in business workflows (for example: while working in a media agency, even with tight deadlines to release a news story, first downloading material received from a source on a USB to a computer which can run a scan to check for viruses, before using it on their personal laptops).
 
