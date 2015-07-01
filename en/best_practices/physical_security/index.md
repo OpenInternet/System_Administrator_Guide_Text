@@ -18,7 +18,7 @@ devices etc). Create a “check-out/check-in” procedure for devices (such
 as such as phones, laptops, and headsets) that need to be borrowed
 during work travel.
 
-#### 10.2 Prevent unauthorized access to your ISP connection ####
+#### 10.2 Prevent Unauthorized Access to Your ISP Connection ####
 
 Ensure internet cables connections from your ISP (internet service
 provider) cannot be tampered with. Usually these cables terminate in a
@@ -27,7 +27,7 @@ make sure physical access to this closet is authorized and monitored.
 Always escort a representative from the ISP or local telecommunications
 provider when providing physical access to this electrical closet.
 
-#### 10.3 Prevent unauthorized physical access ####
+#### 10.3 Prevent Unauthorized Physical Access ####
 
 - Physical security of your organization starts at your building’s doorstep. This includes who the building security guard allows access to, followed by authorization to enter the office premises after approval from the receptionist. Ensure that your organization has a guest entry log procedure. All non-employees should be escorted by a staff person present at all times, including any service providers.
 - If the situation warrants it (based on your organizational Risk Assessment - Chapter 1) and after consultation with the organization’s decision-makers, consider installing security cameras to monitor the office premises. Make sure signs informing staff & visitors that they are being “surveilled” via these cameras are clearly placed to ensure complete transparency. In addition, ensure that the cameras are installed such that they won’t invade privacy of staff by capturing their computer screens; create a policy that communicates secure storage & access of the security camera tapes. the At the very least, there should be a procedure in place to safeguard the premises via an alarm system or access to the office keys by critical staff. If keys are used to secure premises, ensure that keys are handled securely at all times and there is a key handling policy in place.
@@ -40,7 +40,7 @@ provider when providing physical access to this electrical closet.
 - Secure all desktops, laptops and other portable devices with locks.
 
 
-#### 10.4 System Console & Auto-logout ####
+#### 10.4 System Console and Auto-Logout ####
 
 The system console should be physically protected. If there is physical
 access to system console and the computer, it is easy for anyone to
@@ -68,7 +68,7 @@ superuser password at the console, as recommended in SANS Institute's guide [^sy
     enabled, ensure you use an encrypted VPN channel (such as Psiphon,
     RiseupVPN) to connect to your organization’s servers.
 
-#### 10.5 Loss of physical access to the office/server room ####
+#### 10.5 Loss of Physical Access to the Office or Server Room ####
 
 In case of an emergency, when you are unable to physically access the
 server room due to a natural calamity or political discord (riots or
@@ -80,7 +80,7 @@ secure tapes in 2 distinct locations to create another layer of physical
 security for your backups. All tapes should be encrypted to prevent data
 loss in case of theft or confiscation.
 
-#### 10.6 Know your rights ####
+#### 10.6 Know Your Rights ####
 
 During an office raid, be aware of local laws and your rights before
 allowing physical access to your organization's infrastructure to local
@@ -104,7 +104,7 @@ awareness of your organization’s situation could allow legal aid, human
 rights & independent media advocates, and in some cases, even the
 international community, to rally for your organization’s rights.
 
-#### 10.7 Know thy neighbor ####
+#### 10.7 Know Thy Neighbor ####
 
 As an organization focused on human rights or an independent media
 outlet, it's important for you to be aware of your physical location
@@ -118,7 +118,7 @@ enforcement) of your organization based on the media attention received
 by your neighbors. Assess and re-evaluate your physical security plan
 based on these external factors regularly.
 
-#### 10.8 Healthy environment for your hardware ####
+#### 10.8 Healthy Environment for Your Hardware ####
 
 Like many electronic devices, computers are quite sensitive. They do not
 adapt well to unstable electricity supplies, extreme temperatures, dust,
