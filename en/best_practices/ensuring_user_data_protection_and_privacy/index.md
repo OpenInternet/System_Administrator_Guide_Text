@@ -6,7 +6,7 @@ While access to sensitive data on the network is governed via “Access Control�
 
 Data-at-Rest refers to user information stored on their devices, in external hard drives and on removable media such as USBs, DVDs.
 
-##### 6.1.i Full Disk Encryption (FDE) #####
+#### 6.1.i Full Disk Encryption (FDE) ####
 
 When working with users at a media or a human rights organization, it’s imperative to safeguard their information on their devices. Having made the business case for encrypting data (Refer to Chapter 1 for Risk Assessment) and after taking into consideration laws governing your organization (Refer to Chapter 11- Know Your Rights), institute the policy to encrypt all hard-drives to plan against stolen or confiscated devices.
 
@@ -34,7 +34,7 @@ With the prevalence of USB drives & external HDDs, more attention is being paid 
 
 Employ secure data backup practices and ensure that data is encrypted on servers and in backup media (such as tapes). This would ensure added security in case of an office raid if servers & backup tapes are confiscated or in case of loss or theft of tapes. (Refer to Chapter 8- Data Security, Backup & Restore for additional best practices to protect data on servers.)
 
-###6.2 Encrypt User Data-in-Transit###
+#### 6.2 Encrypt User Data-in-Transit ####
 
 Data-in-Transit refers to user information shared via emails, instant messages/chats, text messages (SMS) and phone calls.
 
@@ -78,11 +78,11 @@ Some of other options to increase security include scanning encryption keys in-p
 For complete guidance on helping users secure their communications, refer to [Security-in-a-Box’s guide.](https://securityinabox.org/en/guide/secure-communication)
 
 
-###6.3 Anonymity During Surfing###
+#### 6.3 Anonymity During Surfing ####
 
 An end-user’s unique scenario, with its associated threats and adversaries, may warrant use of anonymous web browsing. This would entail setting up the “Tor” browser (https://www.torproject.org) on their device and educating them on use, browser performance and the potential risks of Tor installed on their device based on laws & regulations specific to their scenario. Refer to [Security-in-a-Box's guide on digital shadows](https://securityinabox.org/en/guide/anonymity-and-circumvention) and [anonymous browsing](https://securityinabox.org/en/guide/torbrowser/windows) for step-by-step instructions.
 
-###6.4 Preventions Against the Internet of Things (IoT)###
+#### 6.4 Preventions Against the Internet of Things (IoT) ####
 
 With shoes recording our steps during a workout and watches monitoring our heart rate, smart devices have tightly integrated into our daily lives. And by design, they have access to our personal information such as location, contacts, photos & in some cases, even emails. Its hard to truly evaluate the private data that these device providers and apps are collecting. As the consumer market continues to get flooded with even more smart devices, its imperative to discuss this new expanded “information ecosystem” with your end-user and discuss measures they need to put in place to ensure their data privacy.
 
@@ -91,7 +91,7 @@ For Mobile security, refer to Security-in-a-Box’s guides on phone security:
 - [https://securityinabox.org/en/guide/mobile-phones](https://securityinabox.org/en/guide/mobile-phones)
 - [https://securityinabox.org/en/guide/smartphones](https://securityinabox.org/en/guide/smartphones)
 
-###6.5 Reading the “Fine Print”####
+#### 6.5 Reading the “Fine Print” #####
 
 Help create a holistic security environment for users by educating them on reviewing “terms and conditions”, especially as they related to their data and its privacy and security, when signing up for tech services (email, social network sites or cloud services), smart devices or when downloading apps.
 
