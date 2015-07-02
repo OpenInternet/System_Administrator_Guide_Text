@@ -28,6 +28,12 @@
 
 !INCLUDE "incident.md"
 
+###Training Curriculum###
+
+!INCLUDE "curriculum.md"
+
 ### Chapter References###{#tpreferences}
 
 !INCLUDE "chapter_references.md"
+
+
