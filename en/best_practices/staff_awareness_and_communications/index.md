@@ -81,6 +81,8 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [SaferJourno: Malware and Basic Protection](https://saferjourno.internews.org/)
 - [SaferJourno: Keeping Data Safe](https://saferjourno.internews.org/)
 - [SaferJourno: Protecting Email](https://saferjourno.internews.org/)
+- SAFETAG: Data Assessment- Sensitive Data: [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
+- SAFETAG: Process Mapping and Risk Assessment: [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
 
 
 ###Tools & Templates###
@@ -104,3 +106,5 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [Cisco, Change Management Best Practices](http://www.cisco.com/c/en/us/products/collateral/services/high-availability/white_paper_c11-458050.html)
 - [Intuit Quickbase, Best Practices in Change Management](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/#sthash.LZM0U59v.dpuf)
 - [Change Management Coach, Change Management Models](http://www.change-management-coach.com/change-management-models.html)
+
+
