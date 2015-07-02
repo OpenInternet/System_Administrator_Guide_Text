@@ -26,15 +26,15 @@ Your SLA should detail what compensation you will receive if the service provide
 
 A good service level agreement should also provide a get-out clause, so you can terminate the contract if the provider repeatedly fails to meet the SLA. This example service level agreement shows a few typical penalty clauses, and some common exclusions. As with any contract, the devil is in the details.
 
-#### 5.4 Does the SLA Cover Resolution Time or Only Response Time? ####
+#### 5.4 Resolution Time versus Response Time? ####
 
-Most providers will not guarantee resolution times. This is because the most severe, disruptive problems (like hardware failures) can take longest to fix. For example, a server crash can sometimes be resolved by simply restarting the server. That might only take five minutes. But a server may also go offline because its hard disk has failed. If this happens, it can take a day or two to replace the disk, reinstall software and restore data from backups. Yet both these problems might be classed as 'severe', falling under the same resolution time.
+While response time indicates how quickly a service provider will respond to your request based on its priority (severe/emergency, urgent, medium or low), most providers will not guarantee resolution times. This is because the most severe, disruptive problems (like hardware failures) can take a long time to get resolved. For example, a server crash can sometimes be resolved by simply restarting the server, which might take a few minutes. But a server may also go offline because of a hard disk failure. If this happens, it can take a day or two to receive the replacement disk, reinstall software and restore data from backups. Yet both these problems might be classed as 'severe', falling under the same resolution time.
 
-Often, it just makes more sense for the provider to promise that they will always do their best to fix problems quickly.
+#### 5.5 Exclusions ####
 
-#### 5.5 What Kind of Issues Are Excluded? ####
+As mentioned above, sometimes it may be impossible to fix a problem within an hour or two as your service provider may have to order a part or physically visit your office. It’s common for an SLA to exclude circumstances like these. 
 
-Sometimes it may be impossible to fix a problem within an hour or two. Your service provider may have to order a part or visit your office. It’s common for an SLA to exclude circumstances like these.
+Keep "end-of-life" [(example)](https://www.google.com/chrome/devices/eol.html) considerations in mind when choosing services or products. 
 
 #### 5.6 Is Compensation Capped? ####
 
@@ -73,7 +73,7 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
     - [VirtualRoad/Qurium](https://www.qurium.org/services/) *also offers DDoS protection
 - DDoS protection:
     - [Deflect by Equalit.ie](https://www.deflect.ca)
-    - [Project Shield by Google](https://projectshield.withgoogle.com/public) *Keep "end-of-life" [(example)](https://www.google.com/chrome/devices/eol.html) considerations in mind*
+    - [Project Shield by Google](https://projectshield.withgoogle.com/public) 
     - [Project Galileo by Cloudflare](https://www.cloudflare.com/galileo)
 
 
