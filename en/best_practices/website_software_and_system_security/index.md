@@ -51,7 +51,7 @@ Webmasters can and should take different actions in order to spread their conten
 -   Create a mirror of your site as a standby to which you can easily switch.
 -   Offer an API (application programming interface), which allows others to access your content automatically via third-party software such as Twitter.
 -   Set up a newsletter, and send regular updates of new content by email. You will still be able to reach users when they are not able to visit your website anymore.
--   Set up a RSS feed and make sure it contains full articles and not only excerpts (snippets). This way your content can be parsed very easily by third party websites and applications such as Google Reader, which can be used to read your content where direct access is blocked.
+-   Set up a RSS feed and make sure it contains full articles and not only excerpts (snippets). This way your content can be parsed very easily by third party websites and applications, which can be used to read your content where direct access is blocked.
 -   Share your content on popular social networking platforms, such as Facebook or Twitter, which may be hard to block.
 -   Spread the content as much as possible. Make your content available for download. Wikipedia, for example distributes its entire content freely as a database dump that can used to easily create new mirror websites with the same content elsewhere.
 -   Consider publishing web articles under an open license (like GPL or Creative Commons) that allows everyone to reuse your content and create mirrors.
