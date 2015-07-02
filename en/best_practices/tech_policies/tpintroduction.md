@@ -2,7 +2,8 @@ Having understood the operational risks to your organization, its mission and it
 
 Tech policies help you implement a security roadmap, maintain a controlled environment when reacting to risks, and most importantly, help you align recommended best practices to your organization’s day-to-day operations while holding people accountable for following these practices, ultimately promoting a culture of digital well-being. 
 
-Here are the 6 main areas [^tp_areas] that tech policies should address:
+Here are the 6 main areas that tech policies should address as highlighted in Corporate Computer Services Inc's article on IT Policies Every Small Business Should Have[^tp_areas]:
+
 
 1. **Acceptable Use of Technology**: Guidelines for the use of computers, fax machines, telephones, Internet, email, and voicemail and the consequences for misuse.
 2. **Security**: Guidelines for passwords, 2-factor authentication, levels of access to the network, virus protection, confidentiality, and the usage of data.
