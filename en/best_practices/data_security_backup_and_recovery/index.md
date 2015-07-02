@@ -98,19 +98,19 @@ As security provisions will be unique to each scenario, it’s important to inst
 
 #### 8.7 Physical Access and Security ####
 
-*Storage of Backup Tapes*: Ensure that all backups are properly labeled and provisions to transport them to a secure, off-site location are made. An off-site backup location may be a storage service provider or the home of the executive director or lead systems administrator.
+**Storage of Backup Tapes**: Ensure that all backups are properly labeled and provisions to transport them to a secure, off-site location are made. An off-site backup location may be a storage service provider or the home of the executive director or lead systems administrator.
 
 When backups are stored at an off-site backup storage service provider, it’s imperative to understand service level agreement with this vendor and their liability to safeguard your data (Refer to Chapter 5). When backup media is stored in the home of a key stakeholder, ensure they understand the implications of safeguarding these tapes.Ensure that all backup media is kept in a fireproof safe or other tamper-proof/element resistant mechanism to prevent damage from theft, fire or floods.
 
 Finally, verify that the offsite storage facilities for backups are included in disaster recovery/contingency plan.
 
-*Prevention against Data Leaks*: In order to protect against “Insider Threats” of accidental data leakage, ensure there is an “Access Control” policy in place (Refer to Chapter 7 on Network Security)
+**Prevention against Data Leaks**: In order to protect against “Insider Threats” of accidental data leakage, ensure there is an “Access Control” policy in place (Refer to Chapter 7 on Network Security)
 
-*Chain of Custody*: When working with a team of system administrators, create a “chain of custody” - this details who has physical access to the data tapes at any given time. The chain of custody would also detail a “check-in/check-out” procedure for access to the backup media.
+**Chain of Custody**: When working with a team of system administrators, create a “chain of custody” - this details who has physical access to the data tapes at any given time. The chain of custody would also detail a “check-in/check-out” procedure for access to the backup media.
 
-*Facility Construction*: The physical construction of the facility where your data will be stored is an important consideration as well. Plan against adverse scenarios like natural calamities such as fire, floods, or political discord (bombings, riots, curfew). Creating a disaster recovery and a communication plan will keep key stakeholders (Executive Director, Finance & HR Director) informed about the next steps in case of an emergency.
+**Facility Construction**: The physical construction of the facility where your data will be stored is an important consideration as well. Plan against adverse scenarios like natural calamities such as fire, floods, or political discord (bombings, riots, curfew). Creating a disaster recovery and a communication plan will keep key stakeholders (Executive Director, Finance & HR Director) informed about the next steps in case of an emergency.
 
-*Office Raid*: While planning against an office raid by government officials, refer to Chapter 10: Physical Security.
+**Office Raid**: While planning against an office raid by government officials, refer to Chapter 10: Physical Security.
 
 ###Tools & Templates###
 
