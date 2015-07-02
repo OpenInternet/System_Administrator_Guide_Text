@@ -1,5 +1,5 @@
 ---
-title: 'Guide for System Administrators in At‐Risk Organizations'
+title: 'System Administration Handbook for At‐Risk Organizations'
 assistant: 'Srija S'
 author: 'Mahvash Taqi'
 ---
