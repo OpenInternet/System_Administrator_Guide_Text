@@ -16,7 +16,7 @@ This applies to important equipment, software or services that your business nee
 
 #### 5.2 Response Times ####
 
-These measure how long it takes your service provider to respond when you raise a request for support. Usually, support requests have to be raised in a specific way (often through an online reporting system), so make sure you have a good IT support process in place, yourself. For example, your service provider might promise to respond to critical problems within 15 minutes once a service request has been filed.
+These measure how long it takes your service provider to respond when you raise a request for support. Usually, support requests have to be raised in a specific way, often through an online reporting system (Note: where permissle, consider secure communication channels with the provider, see section 5.9 below). As an example, your service provider might promise to respond to critical problems within 15 minutes once a service request has been filed.
 
 As part of your emergency response plan, you might want to clarify in the SLA alternative methods for reaching the ISP when service to the office network is completely down and where applicable, discuss secure means of communication. 
 
