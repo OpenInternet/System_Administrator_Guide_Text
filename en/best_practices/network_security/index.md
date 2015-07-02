@@ -204,6 +204,8 @@ Refer to the suggested modules below for training on concepts outlined in this c
 
 - [SaferJourno: Malware and Basic Protection](https://saferjourno.internews.org/)
 - [SaferJourno: Protecting Email](https://saferjourno.internews.org/)
+- [Schloss: Insecurity Demos](https://github.com/schloss/insecurity-demos)
+
 
 
 
