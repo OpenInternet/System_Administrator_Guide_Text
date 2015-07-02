@@ -31,12 +31,12 @@ author: 'Mahvash Taqi'
 
 [Chapter 2 - Tech Policies](#chapter2)
 
-- Password Policy (#tppassword)
-- Data Privacy Policy (#tpdataprivacy)
-- BYOD (Bring Your Own Device) Policy (#tpbyod)
-- Staff Onboarding & Departure Policy (#tponboarding)
-- Traveler’s Policy (#tptravel)
-- Incident Reporting Policy (#tpincident)
+- Password Policy
+- Data Privacy Policy
+- BYOD (Bring Your Own Device) Policy
+- Staff Onboarding & Departure Policy
+- Traveler’s Policy
+- Incident Reporting Policy
 - Chapter References
 
 [Chapter 3 - Staff Awareness & Communication](#chapter3)
