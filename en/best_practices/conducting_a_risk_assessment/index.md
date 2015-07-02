@@ -73,6 +73,14 @@ Conducting a risk assessment is not a one-time activity. As the context within w
 
 Be sure to share the above risk assessment framework (Steps 1- 4) with staff as part of their IT on-boarding process or during tech awareness workshops. Each individual armed with this framework will be empowered to assess threats, identify adversaries & individual capacities and create individual security (action) plans based on their unique scenario.
 
+###Training Curriculum###
+Refer to the suggested modules below for training on concepts outlined in this chapter
+
+[**Level-Up: Risk Matrix**](https://www.level-up.cc/leading-trainings/training-curriculum/activity/backup-matrix)
+
+[**Level-Up:Empowering Individuals**]( https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
+
+
 ###Tools & Templates###
 
 - [Risk Assessment worksheet (Figure 2.1 page 15; Frontline Defenders: (Workbook on Security)](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
