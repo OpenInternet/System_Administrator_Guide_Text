@@ -69,11 +69,11 @@ author: 'Mahvash Taqi'
 - 5.1 Uptime
 - 5.2 Response times
 - 5.3 SLA penalties
-- 5.4 Does the SLA cover resolution time or only response time?
-- 5.5 What kind of issues are excluded?
-- 5.6 Is compensation capped?
-- 5.7 How are things measured?
-- 5.8 What are your obligations?
+- 5.4 Resolution Time versus Response Time
+- 5.5 Exclusions
+- 5.6 Compensation Cap
+- 5.7 Support Availability
+- 5.8 Your Obligations
 - 5.9 Emergency Contact Information
 - 5.10 Data Retention and Access Policies vis-à-vis restrictions based on local laws
 - Service Providers Recommended by the Internet Freedom Community
