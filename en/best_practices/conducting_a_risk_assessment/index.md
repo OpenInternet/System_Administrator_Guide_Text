@@ -10,7 +10,7 @@ As such, an essential first step towards a 360-degree holistic approach to digit
 
 Conducting a Risk Assessment will help you analyze **risks** to your organization, paint a complete picture of possible **threats**, will help identify **adversaries**, pinpoint **vulnerabilities** and more importantly, access the organization’s **capacities** that can help mitigate these risks.
 
-The assessment is a simple 4-step process laid out below, but first we look at a few basic definitions.
+The assessment is a simple 4-step process laid out below, but first we look at a few basic definitions as outlined in Frontline Defenders, Workbook on Security[^risk_assessment_definitions].
 
 #### Understanding the Various Elements ####
 
@@ -22,7 +22,7 @@ An overview of terms [^risk_assessment_definitions] follows:
 - *Vulnerability* – any factor which makes it more likely for harm to materialize or result in greater damage (For example: staff not trained on use of secure technologies)
 - *Adversary* - a person or entity looking to benefit via exploitation of a risk (For example: state actors or competitors)
 
-As such, Risk can be understood via a basic formula:[^risk_formula]
+As such, Risk can be understood via a basic formula as highlighted in Frontline Defenders, Workbook on Security:[^risk_formula]
 
 ![Risk Formula](images/risk_formula.png)
 
@@ -51,7 +51,7 @@ Since risks will differ according to the unique context of your country, the pat
 
 Based on your specific scenario, the list of potential risks can be overwhelming and can create a sense of “panic” among staff who may feel paralyzed by existing vulnerabilities that need to be addressed, especially if capacities are hugely lacking.
 
-As such, as a next step, it’s imperative to assess the probability and impact of these risks. Mapping these risks against a Risk Matrix [^risk_matrix] will help you prioritize the areas where most attention is required, without overwhelming staff, business processes and limited resources.
+As such, as a next step, it’s imperative to assess the probability and impact of these risks. Mapping these risks against a Risk Matrix, as referenced in Humanitarian Practice Network's publication on Operational Security Management in Violent Environments[^risk_matrix], will help you prioritize the areas where most attention is required, without overwhelming staff, business processes and limited resources.
 
 ![Risk Matrix](images/risk_matrix.png)
 
