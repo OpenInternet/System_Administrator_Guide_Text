@@ -63,7 +63,7 @@ Sending monthly updates to your managers illustrating the value and effectivenes
 
 In addition, sharing news and information about security trends will ensure that both, management and staff, are kept well-informed about emerging threats that may impact the security of their data or communications. (Refer to Chapter 3 for suggested best practices related to Staff Awareness & Communications)
 
-#### 4.4 Peer Knowledge Exchange ####
+#### 4.5 Peer Knowledge Exchange ####
 
 As you design a security program for your organization, it is a good practice to also share & learn from other organizations experiencing similar risks. Creating a safe “peer” space for system administrators working at community organizations, whether at a media outlets and/or human rights organization, to come together and share their knowledge will help you learn about potential threats, steps taken to mitigate them and will serve as an early-warning system for identification of potential threats, allowing you to be proactive in planning against them.
 
