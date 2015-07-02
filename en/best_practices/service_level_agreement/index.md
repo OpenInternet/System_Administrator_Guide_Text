@@ -16,9 +16,9 @@ This applies to important equipment, software or services that your business nee
 
 #### 5.2 Response Times ####
 
-These measure how long it takes your service provider to respond when you raise a request for support. Usually, support requests have to be raised in a specific way (often through an online system), so make sure you have a good IT support process in place, yourself. For example, your service provider might promise to respond to critical problems within 15 minutes, once a service request has been filed.
+These measure how long it takes your service provider to respond when you raise a request for support. Usually, support requests have to be raised in a specific way (often through an online reporting system), so make sure you have a good IT support process in place, yourself. For example, your service provider might promise to respond to critical problems within 15 minutes once a service request has been filed.
 
-As part of your emergency response plan, you might want to clarify in the SLA alternative methods for reaching the ISP when service to the office network is down entirely.
+As part of your emergency response plan, you might want to clarify in the SLA alternative methods for reaching the ISP when service to the office network is completely down and where applicable, discuss secure means of communication. 
 
 #### 5.3 SLA Penalties ####
 
@@ -36,21 +36,21 @@ As mentioned above, sometimes it may be impossible to fix a problem within an ho
 
 Keep "end-of-life" [(example)](https://www.google.com/chrome/devices/eol.html) considerations in mind when choosing services or products. 
 
-#### 5.6 Is Compensation Capped? ####
+#### 5.6 Compensation Cap ####
 
 Most service level agreements cap account credits at a certain level. Make sure you’re happy with this. If not, consider negotiating a clause to say you can end the contract if the provider hits the cap.
 
-#### 5.7 When Is Support Available? ####
+#### 5.7 Support Availability ####
 
 Many SLA support conditions only apply during the normal work day. You may have to pay more for 24/7 coverage. Consider your organization's needs to ensure you have the level of support that is needed by your IT service providers.
 
-#### 5.8 What Are Your Obligations? ####
+#### 5.8 Your Obligations ####
 
 You’ll need to keep up your side of the bargain for the SLA to apply, too. Be clear on what you can and can’t do. For instance, you may not be permitted to install unapproved software on company computers.
 
 #### 5.9 Emergency Contact Information ####
 
-Ensure you have a list of phone numbers for your service providers to contact during an emergency. It may be prudent to create an internal communication plan to ensure key stakeholders within your organization, including staff on the road, are aware of downtime and have a way to reach you during an emergency.
+Ensure you have a list of phone numbers for your service providers to contact during an emergency. It may be prudent to create an internal communication plan to ensure key stakeholders within your organization, including staff on the road, are aware of downtime and have a way to reach you during an emergency.And as mentioned above, as part of your emergency response plan, you might want to clarify in the SLA alternative methods for reaching the ISP when service to the office network is completely down and where applicable, discuss secure means of communication.
 
 #### 5.10 Data Retention and Access Policies Vis-à-Vis Restrictions Based on Local Laws ####
 
