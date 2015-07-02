@@ -102,6 +102,11 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [LevelUp: Anonymity During Surfing](https://www.level-up.cc/leading-trainings/training-curriculum/anonymity-circumvention)
 - LevelUp: *Module on Encrypting User Data at Rest coming soon*
 - LevelUp: *Module on Encrypting User Data in Transit coming soon*
+- [SaferJourno: Keeping Data Safe](https://saferjourno.internews.org/)
+- [SaferJourno: Protecting Email](https://saferjourno.internews.org/)
+- [SaferJourno: Mobile Phone Security](https://saferjourno.internews.org/)
+
+
  
 
 ###Tools & Templates###
