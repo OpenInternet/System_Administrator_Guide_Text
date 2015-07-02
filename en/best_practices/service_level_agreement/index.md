@@ -69,9 +69,9 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
     - [Google Apps](https://support.google.com/a/answer/53929?hl=en)
 - Secure hosting:
     - [Greenhost.nl](https://greenhost.net)
-    - [Team Cymru](www.team-cymru.org)
-    - [VirtualRoad/Qurium](https://www.qurium.org/services/)
-- DDOS protection:
+    - [Rethem Hosting](http://www.rethemhosting.net/)
+    - [VirtualRoad/Qurium](https://www.qurium.org/services/) *also offers DDoS protection
+- DDoS protection:
     - [Deflect by Equalit.ie](https://www.deflect.ca)
     - [Project Shield by Google](https://projectshield.withgoogle.com/public)
     - [Project Galileo by Cloudflare](https://www.cloudflare.com/galileo)
