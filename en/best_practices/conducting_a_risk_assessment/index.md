@@ -83,7 +83,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [SaferJourno: Mobile Phone Safety- Personal Security Plan](https://saferjourno.internews.org/)
 - SAFETAG: Threat Assessmet- Threat Interaction: [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
 - SAFETAG: Process Mapping and Risk Assessment- Risk Modeling Using The Pre-Mortum Strategy: [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
-- SAFETAG: Thret Assesment - Creating a Risk Matrix:  [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
+- SAFETAG: Threat Assessment - Creating a Risk Matrix:  [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
 - [Frontline Defenders: Workbook on Security- Sample Risk Assessment Worksheets](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
 
