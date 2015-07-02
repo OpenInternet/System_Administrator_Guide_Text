@@ -96,6 +96,13 @@ Its easy to overlook social applications such as your organization’s Facebook 
 - Review **security and privacy settings** for all accounts.
 - Setup policies for **password recovery** to an organizational email address, instead of an individual email account - this would ensure no one person has access to these key institutional social assets.
 
+###Training Curriculum###
+Refer to the suggested modules below for training on concepts outlined in this chapter
+
+- [LevelUp: Security on end-user devices- Secure Software Updating](https://www.level-up.cc/leading-trainings/training-curriculum/secure-software-update)
+- [Levelup: Security on end-user devices- Testing and Handling Suspicious Files Using Tails](https://www.level-up.cc/leading-trainings/training-curriculum/deepening/testing-suspicious-files-tails)
+- [LevelUp: Secure Organizational Social media accounts](https://www.level-up.cc/leading-trainings/training-curriculum/social-networks)
+
 ###Tools & Templates###
 
 - DDoS protection:
