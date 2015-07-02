@@ -72,6 +72,14 @@ While you have your super-hero cape on to help safeguard your organization’s i
 
 Do your customers know how to reach you? Share your contact information with end-users, when they join the organization to make sure they have multiple ways to contact you when they need your assistance. While most system administrators spend their time behind huge screens monitoring the network, walk around and find ways to talk to end-users in hallways or in common areas - “de-mystify your presence” to ensure direct communication with your end-users.
 
+###Training Curriculum###
+Refer to the suggested modules below for training on concepts outlined in this chapter
+
+- [Level-Up: Staff Awareness Workshop- Event Planning](https://www.level-up.cc/leading-trainings/event-planning)
+- [Level-Up: Staff Awareness Workshop- Setting Expectations](https://www.level-up.cc/resources-for-trainers/best-practices/setting-expectations)
+- [Level-Up: Staff Awareness Workshop- Golden Rules](https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
+
+
 ###Tools & Templates###
 
 - [Digital Hygiene Campaign posters for display in common areas from Stop. Think. Connect:](http://stopthinkconnect.org/campaigns/keep-a-clean-machine/)
