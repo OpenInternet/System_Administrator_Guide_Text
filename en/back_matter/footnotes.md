@@ -31,7 +31,7 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^change_management]:[10 Best Practices in Change Management](http://quickbase.intuit.com/blog/2012/12/24/10-best-practices-in-change-management/)
 
-[^agreement_components]: [ITDonut Resources](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
+[^agreement_components]: [ITDonut Resources-Sample Service Level Agreement](http://www.itdonut.co.uk/it/it-support/it-support-contracts/sample-service-level-agreement)
 
 [^FDE]: [Full Disk Encryption Dos and Don'ts](http://www.computerworld.com/article/2528345/network-security/full-disk-encryption-dos-and-don-ts.html)
 
