@@ -56,7 +56,11 @@ Ensure the SLA has contact phone numbers of your providers clearly listed and es
 
 #### 5.10 Data Retention and Access Policies Vis-à-Vis Restrictions Based on Local Laws ####
 
-Working at a human rights organization or media outlet, you should pay special attention to the data retention and access policies of your service provider, with special emphasis on their obligation to provide local law enforcement access to your data or systems without your permission. In addition, ensure you are fully aware of their data retention & disposal policies. (This is especially important if the ISP hosts your organization’s email service.)
+Working at a human rights organization or media outlet, you should pay special attention to the data retention, privacy and access policies of your service provider, with special emphasis on their obligation to provide local law enforcement access to your data or systems without your permission. The SLA should include how your data is protected, what privacy policy is applied to the services and how a provider (example: web host) will react in case your site is under any form of cyberattack.
+
+In addition, ensure you are fully aware of their content disposal policies, as well. (This is especially important if the ISP hosts your organization’s email service.)
+
+
 
 Finally, remember that while an SLA gives you some backup and confidence, it’s no substitute for having a good relationship with an IT service provider you trust.
 
