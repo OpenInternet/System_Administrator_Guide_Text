@@ -1,6 +1,4 @@
-##Conducting a Risk Assessment## 
-
-{#chapter1}
+##Conducting a Risk Assessment## {#chapter1}
 
 We assess and manage risks constantly in our daily activities - from pouring a hot cup of coffee in a paper cup to crossing a busy road during rush-hour traffic. This innate habit of assessing risks transcends to business as well, such as planning against financial uncertainty by diversifying revenue streams or reacting to new laws that could affect organizational impact. While managing physical and financial risks is important, it is imperative to apply these concepts to information and communication security, and the overall *"digital well-being"* of an organization, as well.
 
