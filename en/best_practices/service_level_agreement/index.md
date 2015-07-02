@@ -8,7 +8,7 @@ Your SLA plays an important role in defining the relationship between you and yo
 
 ###Best Practices###
 
-Here are a few suggested best practices [^agreement_components]:
+Here are a few suggested best practices as recommended in ITdonut.co.uk's sample SLA[^agreement_components]:
 
 #### 5.1 Uptime ####
 
