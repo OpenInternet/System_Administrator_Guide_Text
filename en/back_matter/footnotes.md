@@ -63,7 +63,7 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^document_ethg]: [Pulseway, Top 5 Best Practices for System Administrators](http://www.pulseway.com/blog/5-best-practices-for-system-admins)
 
-[^backup]: [Kenneth Pfeil, Microsoft MSDN, Data Security and Data Availability in the Administrative Authority] (https://msdn.microsoft.com/en-us/library/cc722918.aspx)
+[^backup]: [Kenneth Pfeil, Microsoft MSDN-Data Security and Data Availability in the Administrative Authority](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 
 [^systemconsole] [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 
