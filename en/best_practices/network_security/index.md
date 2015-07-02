@@ -113,7 +113,7 @@ Some advanced traffic filtering guidelines [^traffic]:
 
 #### 7.8 System Audit Logs ####
 
-An audit trail (also called audit log)[^audit_logs] is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event. In information or communications security, information audit means a chronological record of system activities to enable the reconstruction and examination of the sequence of events and/or changes in an event (For example: understanding a virus attack on the network or unauthorized access to confidential data).
+An audit trail (also called audit log)[^auditlog] is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event. In information or communications security, information audit means a chronological record of system activities to enable the reconstruction and examination of the sequence of events and/or changes in an event (For example: understanding a virus attack on the network or unauthorized access to confidential data).
 
 Some applications generate their own log files, while others use the logging capabilities of the OS on which they are installed. Applications vary significantly in the types of information that they log. The following lists some of the most commonly logged types of information and the potential benefits of each, as articulated by Colm Murphy's article [^log_management] on net-security.org:
 
