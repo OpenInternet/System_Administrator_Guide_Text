@@ -117,7 +117,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 
 - [Level-Up: Data backup and recovery](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup)
 - [Level-Up: Data retention, Archiving, Disposal](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup) 
-- 
+
 
 ###Tools & Templates###
 
