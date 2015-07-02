@@ -52,7 +52,7 @@ You’ll need to keep up your side of the bargain for the SLA to apply, too. Be 
 
 #### 5.9 Emergency Contact Information ####
 
-Ensure you have a list of phone numbers for your service providers to contact during an emergency. It may be prudent to create an internal communication plan to ensure key stakeholders within your organization, including staff on the road, are aware of downtime and have a way to reach you during an emergency.And as mentioned above, as part of your emergency response plan, you might want to clarify in the SLA alternative methods for reaching the ISP when service to the office network is completely down and where applicable, discuss secure means of communication.
+Ensure you have a list of phone numbers for your service providers to contact during an emergency. It may be prudent to create an internal communication plan to ensure key stakeholders within your organization (including staff on the road) are aware of downtime and have a way to reach you during an emergency. And as mentioned above, as part of your emergency response plan, you might want to clarify in the SLA alternative methods for reaching the ISP when service to the office network is completely down and where applicable, discuss secure means of communication.
 
 #### 5.10 Data Retention and Access Policies Vis-à-Vis Restrictions Based on Local Laws ####
 
