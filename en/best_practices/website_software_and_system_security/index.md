@@ -8,7 +8,7 @@ This section has been heavily borrowed from the FLOSS manual on ‘Bypassing Int
 ##### 9.1.i Protect Your Website #####
 
 - Secure Hosting: consider a secure website hosting option for your website (Refer to Tools & Templates section below for list of secure hosting providers). You may consider hosting your website in a foreign country, where the content is less controversial and legally protected. This may imply only a small additional delay in page load time (usually a few milliseconds) for your visitors and may save you a lot of trouble if you are located in a country where you web site's content is considered very controversial. You may also want to create a mirror server running as a standby to which you can switch easily.
-- Protect your website against DDOS attacks by deploying open-source tools such as [Deflect](https://www.deflect.ca) by Equalit.ie. Deflect is a distributed infrastructure built to mitigate DDoS attacks and keep your website accessible at all times. (Refer to Tools & Templates section below for other ways to protect against DDOS attacks).
+- Protect your website against DDoS attacks by deploying open-source tools such as [Deflect](https://www.deflect.ca) by Equalit.ie. Deflect is a distributed infrastructure built to mitigate DDoS attacks and keep your website accessible at all times. (Refer to Tools & Templates section below for other ways to protect against DDoS attacks).
 - Domain names:  Register (or transfer) your domain name to another DNS provider which is not your hosting provider. In case of attack on your current provider, you will be able to easily point your domain name to a new hosting provider. In addition, when registering a domain name (for example: www.yoursitename.org), it may be good practice to register all accompanying TLDs such as .com, .net, .info or country-level-TLDs to protect your organization’s reputation against fake sites (such as www.yoursitename.com/ www.yoursitename.net) that a visitor may mistakely access instead of the main domain name: www.yoursitename.org.
 - Monitor logs: Monitor website visitor logs and database user logs to track activity on the site to ensure they are valid connections and to identify anomalies.  (Refer to Chapter 7 - Monitor, Measure, Record). Monitoring traffic logs will enable you to learn something about the countries your visitors come from. If you notice a major drop in traffic from a specific country, your Web site may have been blocked.
 - Server side validation/form validation: Validation should always be done both on the browser and server side. The browser can catch simple failures like mandatory fields that are empty and when you enter text into a numbers only field. These can however be bypassed, and you should make sure you check for these validation and deeper validation server side as failing to do so could lead to malicious code or scripting code being inserted into the database or could cause undesirable results in your website. Protect your site from SPAM by enabling CAPTCHA on all site forms or other visitor interactivity venues.
@@ -92,7 +92,7 @@ Webmasters can and should take different actions in order to spread their conten
 
 ####9.5 Secure Organizational Social Media Accounts####
 
-Its easy to overlook social applications such as your organization’s Facebook page, twitter account or YouTube channel when you are focused on network security or protecting your sites against DDOS attacks. But these systems are equally susceptible to attacks and could, in fact, be the first entry point in tarnishing your organization’s reputation.
+Its easy to overlook social applications such as your organization’s Facebook page, twitter account or YouTube channel when you are focused on network security or protecting your sites against DDoS attacks. But these systems are equally susceptible to attacks and could, in fact, be the first entry point in tarnishing your organization’s reputation.
 
 - As part of your organization’s Risk Assessment (Refer to Chapter 1), determine who has access to your organization’s social accounts - limit access to key stakeholders.
 - Ensure these accounts follow the password policy standard (Refer to Password Policy in Chapter 2) - set a password age limit and update account passwords at regular intervals (every 3 months, at the very minimum).
@@ -101,7 +101,7 @@ Its easy to overlook social applications such as your organization’s Facebook 
 
 ###Tools & Templates###
 
-- DDOS protection:
+- DDoS protection:
     -   [Deflect by Equalit.ie](https://www.deflect.ca)
     -   [Project Shield by Google](https://projectshield.withgoogle.com/public)
     -   [Project Galileo by Cloudflare](https://www.cloudflare.com/galileo)
