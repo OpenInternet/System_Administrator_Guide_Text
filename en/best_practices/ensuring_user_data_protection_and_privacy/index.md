@@ -100,14 +100,13 @@ Help create a holistic security environment for users by educating them on revie
 Refer to the suggested modules below for training on concepts outlined in this chapter
 
 - [LevelUp: Anonymity During Surfing](https://www.level-up.cc/leading-trainings/training-curriculum/anonymity-circumvention)
-- LevelUp: *Module on Encrypting User Data at Rest coming soon*
-- LevelUp: *Module on Encrypting User Data in Transit coming soon*
 - [SaferJourno: Keeping Data Safe](https://saferjourno.internews.org/)
-- [SaferJourno: Protecting Email](https://saferjourno.internews.org/)
-- [SaferJourno: Mobile Phone Security- System Settings](https://saferjourno.internews.org/)
-- [SaferJourno: Mobile Phone Security- Applications](https://saferjourno.internews.org/)
 - [SaferJourno: Protecting Email- Two-Step Verification ](https://saferjourno.internews.org/)
 - [SaferJourno: Protecting Email- Thunderbird & GnuPG](https://saferjourno.internews.org/)
+- [SaferJourno: Mobile Phone Security- System Settings](https://saferjourno.internews.org/)
+- [SaferJourno: Mobile Phone Security- Applications](https://saferjourno.internews.org/)
+- LevelUp: *Module on Encrypting User Data at Rest coming soon*
+- LevelUp: *Module on Encrypting User Data in Transit coming soon*
 
 
 ###Tools & Templates###
