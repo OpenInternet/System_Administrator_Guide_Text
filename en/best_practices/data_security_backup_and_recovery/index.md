@@ -117,6 +117,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 
 - [LevelUp: Data backup and recovery](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup)
 - [LevelUp: Data retention, Archiving, Disposal](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup) 
+- SAFETAG: Data Assessment- Sensitive Data [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
 
 
 ###Tools & Templates###
