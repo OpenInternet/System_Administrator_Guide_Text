@@ -1,5 +1,3 @@
-{#byod}
-
 
 As access to technology and the Internet gets more affordable around the globe, organizational emails and data are being accessed by an increasing number of users on their personal devices (laptops and phones). Moreover, depending on the size of your organization or your staff’s work status (freelancers or consultants), staff’s personal devices may be the only alternative available for most individuals to perform work activities.
 
