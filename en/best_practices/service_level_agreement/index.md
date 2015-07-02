@@ -73,7 +73,7 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
     - [VirtualRoad/Qurium](https://www.qurium.org/services/) *also offers DDoS protection
 - DDoS protection:
     - [Deflect by Equalit.ie](https://www.deflect.ca)
-    - [Project Shield by Google](https://projectshield.withgoogle.com/public)
+    - [Project Shield by Google](https://projectshield.withgoogle.com/public) *Keep "end-of-life" [(example)](https://www.google.com/chrome/devices/eol.html) considerations in mind*
     - [Project Galileo by Cloudflare](https://www.cloudflare.com/galileo)
 
 
