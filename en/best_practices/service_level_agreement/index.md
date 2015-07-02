@@ -2,9 +2,9 @@
 
 As you go about your daily tasks working at a human rights-focused organization or media outlet, you need to pay special attention to agreements negotiated with service providers such as your ISP (internet service provider), hardware vendor (especially as it relates to server hardware), and when hosting a website externally, your hosting provider.
 
-A Service Level Agreement (SLA, for short) is a legal document that explains what your organization gets when it pays another organization or company. A SLA should include a specified level of service, support options, enforcement or penalty provisions for services not provided, a guaranteed level of system performance as relates to downtime or uptime, a specified level of customer support, communication protocol (including contact information for emergency assistance) and what software or hardware will be provided and for what fee.
+A Service Level Agreement (SLA, for short) is a legal document that explains what your organization gets when it pays another organization or company. A SLA should include a specified level of service, support options, enforcement or penalty provisions for services not provided, a guaranteed level of system performance as relates to downtime or uptime, a specified level of customer support, communication protocol (including contact information for emergency assistance), privacy policy (to safeguard your data), software or hardware that will be provided and associated costs.
 
-Your SLA plays an important role in defining the relationship between you and your IT service provider. It guarantees you a certain level of service, giving you confidence that if something goes wrong, the service provider will respond quickly. Without a comprehensive SLA in place, you are unlikely to have much leverage if your IT service provider fails to respond to your requests.
+Your SLA plays an important role in defining the relationship between you and your IT service provider. It enables transparency and committment by the provider that guarantees you a certain level of service, giving you confidence that if something goes wrong, the service provider will respond quickly. Without a comprehensive SLA in place, you are unlikely to have much leverage if your IT service provider fails to respond to your requests.
 
 ###Best Practices###
 
