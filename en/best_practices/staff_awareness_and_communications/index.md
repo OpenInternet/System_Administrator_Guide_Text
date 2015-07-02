@@ -78,6 +78,9 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [LevelUp: Staff Awareness Workshop- Event Planning](https://www.level-up.cc/leading-trainings/event-planning)
 - [LevelUp: Staff Awareness Workshop- Setting Expectations](https://www.level-up.cc/resources-for-trainers/best-practices/setting-expectations)
 - [LevelUp: Staff Awareness Workshop- Golden Rules](https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
+- [SaferJourno: Malware and Basic Protection](https://saferjourno.internews.org/)
+- [SaferJourno: Keeping Data Safe](https://saferjourno.internews.org/)
+- [SaferJourno: Protecting Email](https://saferjourno.internews.org/)
 
 
 ###Tools & Templates###
