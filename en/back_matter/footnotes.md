@@ -77,4 +77,8 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^vulnerability]: [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 
+[^leastprivilege]: [Indiana University, What is the principle of least privilege](https://kb.iu.edu/d/amsv)
+
+[^software]: [Indiana University, Best practices for computer security](https://kb.iu.edu/d/akln)
+
 [^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
