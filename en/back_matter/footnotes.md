@@ -73,4 +73,6 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
 
+[^website_security]: [FLOSS Manual, Bypassing Internet Censorship-Best Practices for Webmasters](http://en.flossmanuals.net/bypassing-censorship/ch045_best-practices-for-webmasters/)
+
 [^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
