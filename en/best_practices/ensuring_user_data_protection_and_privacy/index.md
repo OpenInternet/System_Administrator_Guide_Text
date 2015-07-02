@@ -104,10 +104,11 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - LevelUp: *Module on Encrypting User Data in Transit coming soon*
 - [SaferJourno: Keeping Data Safe](https://saferjourno.internews.org/)
 - [SaferJourno: Protecting Email](https://saferjourno.internews.org/)
-- [SaferJourno: Mobile Phone Security](https://saferjourno.internews.org/)
+- [SaferJourno: Mobile Phone Security- System Settings](https://saferjourno.internews.org/)
+- [SaferJourno: Mobile Phone Security- Applications](https://saferjourno.internews.org/)
+- [SaferJourno: Protecting Email- Two-Step Verification ](https://saferjourno.internews.org/)
+- [SaferJourno: Protecting Email- Thunderbird & GnuPG](https://saferjourno.internews.org/)
 
-
- 
 
 ###Tools & Templates###
 
