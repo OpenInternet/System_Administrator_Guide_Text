@@ -20,7 +20,7 @@
 
 [^byod]: [TechTarget, Ten BYOD management best practices](http://searchcloudapplications.techtarget.com/opinion/Ten-BYOD-management-best-practices)
 
-[^future_trend] [CIO, For BYOD Best Practices, Secure Data, Not Devices](http://www.cio.com/article/2394065/hardware/for-byod-best-practices--secure-data--not-devices.html)
+[^future_trend]: [CIO, For BYOD Best Practices, Secure Data, Not Devices](http://www.cio.com/article/2394065/hardware/for-byod-best-practices--secure-data--not-devices.html)
 
 [^daas]: [TechTarget, How Cloud Security Concerns Affect Trust in DaaS Providers:](http://searchvirtualdesktop.techtarget.com/tip/How-cloud-security-concerns-affect-trust-in-DaaS-providers)
 
@@ -65,7 +65,7 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^backup]: [Kenneth Pfeil, Microsoft MSDN-Data Security and Data Availability in the Administrative Authority](https://msdn.microsoft.com/en-us/library/cc722918.aspx)
 
-[^systemconsole] [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
+[^systemconsole]: [SANS Institute, System Administrator - Security Best Practices](http://www.sans.org/reading-room/whitepapers/bestprac/system-administrator-security-practices-657)
 
 [^physical_security]: [Deb Shinder, TechRepublic, 10 physical security measures every organization should take](http://www.techrepublic.com/blog/10-things/10-physical-security-measures-every-organization-should-take/)
 
