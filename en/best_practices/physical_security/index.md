@@ -155,7 +155,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 
 - [SaferJourno: Risk Hunting](https://saferjourno.internews.org/)
 - [SaferJourno: Risk Assessment Worksheet- Physical Environment](https://saferjourno.internews.org/)
-- SAFETAG: Physical Assessment- Guided Tour [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
+- SAFETAG: Physical Assessment- Guided Tour:  [English](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.English.pdf) | [Spanish](https://github.com/OpenInternet/SAFETAG/releases/download/v0.4/SAFETAG.Full.guide.Espanol.pdf)
 - [Frontline Defenders: Workbook on Security- Sample Risk Assessment Worksheets](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
 ###Tools & Templates###
