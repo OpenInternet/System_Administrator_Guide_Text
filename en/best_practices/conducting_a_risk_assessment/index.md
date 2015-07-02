@@ -78,6 +78,10 @@ Refer to the suggested modules below for training on concepts outlined in this c
 
 - [LevelUp: Risk Matrix](https://www.level-up.cc/leading-trainings/training-curriculum/activity/backup-matrix)
 - [LevelUp: Empowering Individuals]( https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
+- [SaferJourno: Risk Hunting](https://saferjourno.internews.org/)
+- [SaferJourno: Assessment Worksheets](https://saferjourno.internews.org/)
+- [SaferJourno: Mobile Phone Safety- Personal Security Plan](https://saferjourno.internews.org/)
+- [Frontline Defenders: Workbook on Security- Sample Risk Assessment Worksheets](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
 
 
