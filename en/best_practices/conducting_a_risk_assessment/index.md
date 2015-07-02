@@ -77,8 +77,8 @@ Be sure to share the above risk assessment framework (Steps 1- 4) with staff as 
 Refer to the suggested modules below for training on concepts outlined in this chapter
 
 - [**Level-Up: Risk Matrix**](https://www.level-up.cc/leading-trainings/training-curriculum/activity/backup-matrix)
-- [**Level-Up:Empowering Individuals**]( https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
-- 
+- [**Level-Up: Empowering Individuals**]( https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
+
 
 
 ###Tools & Templates###
