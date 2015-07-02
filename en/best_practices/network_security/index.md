@@ -198,6 +198,16 @@ It may be beneficial to adopt simple project management practices even for small
 
 Staying in tune with current best practices, industry trends and emerging threats will help you learn about possible attacks to your network. Its recommended for sysadmins to sign-up to security mailing lists, read security news sites, receive information guides & updates shared by vendors and follow security researchers via twitter to ensure that they are always “in-the-know” when it comes to security trends and threats. (Refer to "Community Resources" towards the end of this guide for websites and mailing lists followed by sysadmins in the Internet Freedom community).
 
+
+###Training Curriculum###
+Refer to the suggested modules below for training on concepts outlined in this chapter
+
+- [SaferJourno: Malware and Basic Protection](https://saferjourno.internews.org/)
+- [SaferJourno: Protecting Email](https://saferjourno.internews.org/)
+
+
+
+
 ###Tools & Templates###
 
 - Intrusion Detection & Prevention System (IDPS): [Snort](https://www.snort.org)
