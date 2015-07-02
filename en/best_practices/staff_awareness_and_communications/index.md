@@ -75,9 +75,9 @@ Do your customers know how to reach you? Share your contact information with end
 ###Training Curriculum###
 Refer to the suggested modules below for training on concepts outlined in this chapter
 
-- [Level-Up: Staff Awareness Workshop- Event Planning](https://www.level-up.cc/leading-trainings/event-planning)
-- [Level-Up: Staff Awareness Workshop- Setting Expectations](https://www.level-up.cc/resources-for-trainers/best-practices/setting-expectations)
-- [Level-Up: Staff Awareness Workshop- Golden Rules](https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
+- [LevelUp: Staff Awareness Workshop- Event Planning](https://www.level-up.cc/leading-trainings/event-planning)
+- [LevelUp: Staff Awareness Workshop- Setting Expectations](https://www.level-up.cc/resources-for-trainers/best-practices/setting-expectations)
+- [LevelUp: Staff Awareness Workshop- Golden Rules](https://www.level-up.cc/resources-for-trainers/best-practices/golden-rules)
 
 
 ###Tools & Templates###
