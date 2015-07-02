@@ -5,7 +5,6 @@ Internews is an international non-profit organization whose mission is to empowe
 Internews provides communities the resources to produce local news and information with integrity and independence. With global expertise and reach, Internews trains both media professionals and citizen journalists, introduces innovative media solutions, increases coverage of vital issues and helps establish policies needed for open access to information.
 
 Internews programs create platforms for dialogue and enable informed debate, which bring about social and economic progress.
-
 Internews’ commitment to research and evaluation creates effective and sustainable programs, even in the most challenging environments.
 
 Formed in 1982, Internews is a 501(c)(3) organization headquartered in California. Internews has worked in more than 75 countries, and currently has offices in Africa, Asia, Europe, the Middle East, Latin America and North America.
