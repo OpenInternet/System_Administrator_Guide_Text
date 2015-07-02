@@ -85,4 +85,6 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^ipmasking]: [Nick Sullivan, Cloudfare, DDoS Prevention: Protecting The Origin](https://blog.cloudflare.com/ddos-prevention-protecting-the-origin/)
 
+[^SSL]: [Dev.MySql, Using SSL for Secure Connections](https://dev.mysql.com/doc/refman/5.1/en/ssl-connections.html)
+
 [^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
