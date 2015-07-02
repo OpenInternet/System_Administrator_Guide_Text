@@ -99,9 +99,9 @@ Help create a holistic security environment for users by educating them on revie
 ###Training Curriculum###
 Refer to the suggested modules below for training on concepts outlined in this chapter
 
-- [Level-Up: Anonymity During Surfing](https://www.level-up.cc/leading-trainings/training-curriculum/anonymity-circumvention)
-- Level-Up: *Module on Encrypting User Data at Rest coming soon*
-- Level-Up: *Module on Encrypting User Data in Transit coming soon*
+- [LevelUp: Anonymity During Surfing](https://www.level-up.cc/leading-trainings/training-curriculum/anonymity-circumvention)
+- LevelUp: *Module on Encrypting User Data at Rest coming soon*
+- LevelUp: *Module on Encrypting User Data in Transit coming soon*
  
 
 ###Tools & Templates###
