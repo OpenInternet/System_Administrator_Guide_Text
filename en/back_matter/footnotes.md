@@ -53,7 +53,7 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^log_management]: [Net-Security, Log Management – Lifeblood of Information Security](http://www.net-security.org/article.php?id=975&p=2)
 
-[^audit_logs] [NIST, Guide to Computer Security Log Management] (http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf)
+[^auditlog]: [NIST, Guide to Computer Security Log Management] (http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf)
 
 [^logs]: [NIST, Log Management- Using Computer and Network Records to Improve Information Security](http://www.itl.nist.gov/lab/bulletns/bltnoct06.htm)
 
