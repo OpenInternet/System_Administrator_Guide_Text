@@ -29,7 +29,7 @@ Following these best practices, as highlighted by Miha Pihlerin's article [^fire
 - Change the default administrator or root password on the firewall to a complex, long passphrase. Set a reminder to change the firewall admin password every 6 months.
 - Monitor the CPU usage & network throughput of the firewall to ensure applications installed on it (such as an anti-virus, VPN software) are not slowing it down.
 
-*Review firewall policies regularly* [^fw_policies]
+**Review firewall policies regularly** [^fw_policies]
 
 - Over time, firewall policies become outdated. Servers that were published to the internet get decommissioned, and services get moved to new servers. But firewall policies tied to decommissioned servers often are not removed or updated. The danger here is that IP addresses of decommissioned servers get reused on new servers, and new servers can then easily be published for unintended services.
 - Change Management protocol: Regular overview of the policies is even more important if there is more than one system administrator. In such environments, it is likely that, for example, two administrators created two different policies for same network traffic specifications. When conducting policy reviews, see if you can consolidate any of the policies. Establish a change management protocol to document all firewall changes when there is more than one system administrator.
@@ -37,13 +37,13 @@ Following these best practices, as highlighted by Miha Pihlerin's article [^fire
 - Get a “trusted, independent” audit: When possible, allow someone who has knowledge of and experience with managing firewalls but who is not involved in the day-to-day operations of your network to audit the firewall policies - this would ensure a trusted, fresh perspective and will help identify any policy conflicts.
 - It’s recommended to review the firewall policies at least twice a year.
 
-*Back up your firewall regularly* [^firewall_management]
+**Back up your firewall regularly** [^firewall_management]
 
 - Make a backup of firewall policies and configurations before performing any policy changes. With a backup, if you run into any problems with new policy configuration, it is easy to revert back to the previous, working configuration.
 - Consider what else is needed to restore your firewall if disaster recovery is necessary. Are there any specific routes that are not included in the firewall configuration backup, but are required for complete restore? How about certificates and their corresponding private keys that might be used for SSL session termination on the firewall?
 - Practice firewall recovery in test environment. Testing should point out any missing components in the backup and, therefore, give administrators the opportunity to learn the necessary skills to perform a quick and reliable restore when necessary.
 
-*Update the firewall* [^firewall_management]
+**Update the firewall** [^firewall_management]
 
 - Regardless of the make and model of your firewall, you should regularly update your firewalls. All firewall manufacturers release updates for their products. These updates often include bug fixes and new features that can help mitigate new types of threats, thereby minimizing risk.
 - When possible, also update network card drivers. These updates often solve problematic behaviors, including those that might, at first, seem to be related to an unreliable firewall.
@@ -54,9 +54,9 @@ Today’s malware is so advanced that a firewall alone will leave a network vuln
 
 The problem with this defense is that the firewall does not investigate the data that is allowed to enter the doors on the network. If there is danger lurking outside the front door (port connection) and the data finds a way into the home (the network), it will cause an intense amount of damage. And, although it’s not practical to check your guests’ bags, it is necessary to scan all items entering your network to determine if they are friend or foe because the network’s health and safety rely on it. An IDPS is the answer to address this challenge.
 
-An Intrusion Detection and Protection System (IDPS) is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware & produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.[^idps]
+An **Intrusion Detection and Protection System (IDPS)** is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware & produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.[^idps]
 
-For added protection, you may adopt the “anomaly detection” versus a “misuse detection” approach via an IDPS. In misuse detection, the IDS analyzes the information it gathers and compares it to large databases of attack signatures. That is, the IDS looks for a specific attack that has already been documented. Much like a virus detection system, detection software is only as good as the database of intrusion signatures that it uses to compare packets against. However, in anomaly detection, the system administrator has more control and can define the baseline, or normal, state of the network's traffic load, breakdown, protocol, and typical packet size. The anomaly detector monitors network segments to compare their state to the normal baseline, looks for anomalies and alerts the system administrator when one is detected.[^anomaly]
+For added protection, you may adopt the **“anomaly detection”** versus a **“misuse detection”** approach via an IDPS. In misuse detection, the IDS analyzes the information it gathers and compares it to large databases of attack signatures. That is, the IDS looks for a specific attack that has already been documented. Much like a virus detection system, detection software is only as good as the database of intrusion signatures that it uses to compare packets against. However, in anomaly detection, the system administrator has more control and can define the baseline, or normal, state of the network's traffic load, breakdown, protocol, and typical packet size. The anomaly detector monitors network segments to compare their state to the normal baseline, looks for anomalies and alerts the system administrator when one is detected.[^anomaly]
 
 In order to set up proper network security, layers of software, and solutions need to be in place that protect against various threats. Firewalls, anti-virus programs, access controls, and an IDPS solution (such as Snort) are all necessary to achieve effective network security.
 
@@ -71,18 +71,18 @@ In most cases, we rely on passwords (something the individual knows) to authenti
 Based on your organization’s risk assessment (Refer to Chapter 1) and working with your organization’s stakeholders, create a process to authorize and document access privileges based on a legitimate and demonstrated need to have system access. Creating access modes or levels will allow you to isolate threats to limited areas on the network and will allow for focused problem-solving in case of an attack.
 Access control to IT systems and data repositories should be based on the following access criteria, as appropriate:
 
-- Identity (user ID): The identity must be unique in order to support individual accountability.
-- Roles: Access to information must also be controlled by the job assignment or function (i.e., the role) of the user who is seeking access.
-- Access Modes: Consider the types of access, or access modes - common access modes, which can be used in both operating and application systems, include read, write, execute, and delete.
-- Location: Where appropriate, access to particular system resources (especially, to sensitive data repositories) will be based upon physical or logical location.
+- **Identity (user ID):** The identity must be unique in order to support individual accountability.
+- **Roles:** Access to information must also be controlled by the job assignment or function (i.e., the role) of the user who is seeking access.
+- **Access Modes:** Consider the types of access, or access modes - common access modes, which can be used in both operating and application systems, include read, write, execute, and delete.
+- **Location:** Where appropriate, access to particular system resources (especially, to sensitive data repositories) will be based upon physical or logical location.
 
 Ensure the following best practices with regards to authentication:
 
-- Require Users to Authenticate: users must authenticate their claimed identities on all IT resources and data repositories. During the first instance of access with a new account, the initial password must be changed by the individual responsible for the account, in compliance with the defined password policy. Enable 2-factor Authentication. (Refer to Chapter 2 on Password Policy)
-- Limit Log-on Attempts: The organization facilities must limit the number of log-on attempts to five (5).  This helps to prevent guessing of authentication data.  Where round-the-clock system administration service is available, system administrator intervention will be required to clear a locked account.  Where round-the-clock system administration service is not available, accounts will remain locked out for at least ten (10) minutes.
-- User Account Review: When system users are no longer part of an organization, or their duties change, their account access must be appropriately modified or terminated.  Requests to change access privileges must be signed and forwarded to the appropriate designated individual by the responsible manager. Create a process to regularly review and audit user account access to IT systems & data repositories- this initiative may closely tie in with your organization’s employee onboarding and termination process to take the necessary action of account creation, modification or deletion.
-- Use of the default “Guest” accounts is strongly discouraged on servers and workstations but, if needed, these accounts must conform to the naming conventions and the password policy established in this policy. Additional measures, such as disabling, renaming, or decoying these standard accounts, should be employed.
-- Administer Data Properly: Establish procedures to disable lost or stolen passwords and monitor systems to look for stolen or shared accounts.
+- **Require Users to Authenticate:** users must authenticate their claimed identities on all IT resources and data repositories. During the first instance of access with a new account, the initial password must be changed by the individual responsible for the account, in compliance with the defined password policy. Enable 2-factor Authentication. (Refer to Chapter 2 on Password Policy)
+- **Limit Log-on Attempts:** The organization facilities must limit the number of log-on attempts to five (5).  This helps to prevent guessing of authentication data.  Where round-the-clock system administration service is available, system administrator intervention will be required to clear a locked account.  Where round-the-clock system administration service is not available, accounts will remain locked out for at least ten (10) minutes.
+- **User Account Review:** When system users are no longer part of an organization, or their duties change, their account access must be appropriately modified or terminated.  Requests to change access privileges must be signed and forwarded to the appropriate designated individual by the responsible manager. Create a process to regularly review and audit user account access to IT systems & data repositories- this initiative may closely tie in with your organization’s employee onboarding and termination process to take the necessary action of account creation, modification or deletion.
+- Use of the **default “Guest” accounts is strongly discouraged** on servers and workstations but, if needed, these accounts must conform to the naming conventions and the password policy established in this policy. Additional measures, such as disabling, renaming, or decoying these standard accounts, should be employed.
+- **Administer Data Properly:** Establish procedures to disable lost or stolen passwords and monitor systems to look for stolen or shared accounts.
 
 #### 7.5 Network Zones and Data Segregation Based on Sensitivity ####
 
@@ -95,6 +95,7 @@ Classification of your data based on sensitivity would allow you to create the a
 #### 7.6 Alerts to Recognize Abnormal Traffic Behavior ####
 
 You may setup simple scripts to send you alerts to monitor the following recommended abnormal traffic behavior [^traffic]. However, remember that doing so may generate denser and larger logs that may be difficult to analyze.
+
 - Port scans - opening of ports in an attempt to enumerate services.
 - Attempted DNS zone transfers.
 - E-mail reconnaissance - repeated failed attempts to variations of a user's name may give away information about infrastructure.
@@ -105,20 +106,21 @@ You may setup simple scripts to send you alerts to monitor the following recomme
 
 #### 7.7 Advanced Traffic Filtering ####
 Some advanced traffic filtering guidelines [^traffic]:
+
 - Multi-layer firewall: Networks can be threatened in a variety of ways. Maximize network security with packet, circuit, and application-level traffic screening to reduce the risk of unauthorized access.
 - Smart application filters: Control application-specific traffic, such as electronic mail and streaming media, with data-aware filters to enhance security. Smart Application Filters recognize content and apply policy as the content traverses the network.
 - Dynamic IP filtering: Reduce the risk of external attacks by restricting access to an as-needed basis and opening ports only for active sessions.
 
 #### 7.8 System Audit Logs ####
 
-An audit trail (also called audit log) is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event. In information or communications security, information audit means a chronological record of system activities to enable the reconstruction and examination of the sequence of events and/or changes in an event (For example: understanding a virus attack on the network or unauthorized access to confidential data).
+An audit trail (also called audit log)[^audit_logs] is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event. In information or communications security, information audit means a chronological record of system activities to enable the reconstruction and examination of the sequence of events and/or changes in an event (For example: understanding a virus attack on the network or unauthorized access to confidential data).
 
-Some applications generate their own log files, while others use the logging capabilities of the OS on which they are installed. Applications vary significantly in the types of information that they log. The following lists some of the most commonly logged types of information and the potential benefits of each, as articulated by Colm Murphy's article [^log_management][^audit_logs] on net-security.org:
+Some applications generate their own log files, while others use the logging capabilities of the OS on which they are installed. Applications vary significantly in the types of information that they log. The following lists some of the most commonly logged types of information and the potential benefits of each, as articulated by Colm Murphy's article [^log_management] on net-security.org:
 
-- Client requests and server responses, which can be very helpful in reconstructing sequences of events and determining their apparent outcome. If the application logs successful user authentications, it is usually possible to determine which user made each request. Some applications can perform highly detailed logging, such as e-mail servers recording the sender, recipients, subject name, and attachment names for each e-mail; Web servers recording each URL requested and the type of response provided by the server; and business applications recording which financial records were accessed by each user. This information can be used to identify or investigate incidents and to monitor application usage for compliance and auditing purposes.
-- Account information such as successful and failed authentication attempts, account changes (e.g., account creation and deletion, account privilege assignment), and use of privileges. In addition to identifying security events such as brute force password guessing and escalation of privileges, it can be used to identify who has used the application and when each person has used it.
-- Usage information such as the number of transactions occurring in a certain period (e.g., minute, hour) and the size of transactions (e.g., e-mail message size, file transfer size). This can be useful for certain types of security monitoring (e.g., a ten-fold increase in e-mail activity might indicate a new e-mail–borne malware threat; an unusually large outbound e-mail message might indicate inappropriate release of information).
-- Significant operational actions such as application startup and shutdown, application failures, and major application configuration changes. This can be used to identify security compromises and operational failures.
+- **Client requests and server responses**, which can be very helpful in reconstructing sequences of events and determining their apparent outcome. If the application logs successful user authentications, it is usually possible to determine which user made each request. Some applications can perform highly detailed logging, such as e-mail servers recording the sender, recipients, subject name, and attachment names for each e-mail; Web servers recording each URL requested and the type of response provided by the server; and business applications recording which financial records were accessed by each user. This information can be used to identify or investigate incidents and to monitor application usage for compliance and auditing purposes.
+- **Account information** such as successful and failed authentication attempts, account changes (e.g., account creation and deletion, account privilege assignment), and use of privileges. In addition to identifying security events such as brute force password guessing and escalation of privileges, it can be used to identify who has used the application and when each person has used it.
+- **Usage information** such as the number of transactions occurring in a certain period (e.g., minute, hour) and the size of transactions (e.g., e-mail message size, file transfer size). This can be useful for certain types of security monitoring (e.g., a ten-fold increase in e-mail activity might indicate a new e-mail–borne malware threat; an unusually large outbound e-mail message might indicate inappropriate release of information).
+- Significant **operational actions** such as application startup and shutdown, application failures, and major application configuration changes. This can be used to identify security compromises and operational failures.
 
 A log management infrastructure consists of the hardware, software, networks, and media used to generate, transmit, store, analyze, and dispose of log data. Some major factors to consider in the design of a log management system include:
 
@@ -153,6 +155,7 @@ However, if staff do require access to their office computer or a specific appli
 #### 7.10 Secure WiFi ####
 
 Wireless networks can provide an unintended open door to your business network. Recommended tips for securing a wireless network:
+
 - Change the wireless network hardware (router /access point) administrative password from the factory default to a complex password (Refer to Chapter 2 for password best practices). Save the password in a secure, encrypted location as it will be needed to make future changes to the device. In addition, set an alert to change the password on your wifi router at regular intervals - once a month is an ideal time frame. Be sure to communicate the new password to all staff.
 - Disable remote administration of the wireless network hardware (router/access point).
 - If possible, disable broadcasting the network SSID.
