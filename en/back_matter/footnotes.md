@@ -81,4 +81,6 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^software]: [Indiana University, Best practices for computer security](https://kb.iu.edu/d/akln)
 
+[^mail_server]: [National Computer Board, Anti-Virus Best Practices](http://www.ncb.mu/English/Documents/Downloads/Reports%20and%20Guidelines/Anti%20Virus%20Best%20Practices.pdf)
+
 [^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
