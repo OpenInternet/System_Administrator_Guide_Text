@@ -96,6 +96,14 @@ For Mobile security, refer to Security-in-a-Box’s guides on phone security:
 
 Help create a holistic security environment for users by educating them on reviewing “terms and conditions”, especially as they related to their data and its privacy and security, when signing up for tech services (email, social network sites or cloud services), smart devices or when downloading apps.
 
+###Training Curriculum###
+Refer to the suggested modules below for training on concepts outlined in this chapter
+
+- [Level-Up: Anonymity During Surfing](https://www.level-up.cc/leading-trainings/training-curriculum/anonymity-circumvention)
+- Level-Up: *Module on Encrypting User Data at Rest coming soon*
+- Level-Up: *Module on Encrypting User Data in Transit coming soon*
+ 
+
 ###Tools & Templates###
 
 - [Anonymous web browsing](https://www.torproject.org/)
