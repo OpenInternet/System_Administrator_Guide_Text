@@ -3,6 +3,7 @@
 ###Best Practices###
 
 ####9.1 Website Security####
+This section has been heavily borrowed from the FLOSS manual on ‘Bypassing Internet Censorship’[^website_security]
 
 ##### 9.1.i Protect Your Website #####
 
