@@ -149,6 +149,13 @@ do to protect your computers and network equipment from such threats, as suggest
 -   Exposed power strips or wires are a fire hazard; keep cables away
     from water or direct sunlight.
 
+
+###Training Curriculum###
+Refer to the suggested modules below for training on concepts outlined in this chapter
+
+- [SaferJourno: Risk Hunting](https://saferjourno.internews.org/)
+- [SaferJourno: Risk Assessment Worksheet- Physical environment](https://saferjourno.internews.org/)
+
 ###Tools & Templates###
 
 - VPN: [Psiphon](https://psiphon.ca/); [RiseupVPN](https://help.riseup.net/en/vpn)
