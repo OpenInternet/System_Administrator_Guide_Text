@@ -115,8 +115,8 @@ Finally, verify that the offsite storage facilities for backups are included in 
 ###Training Curriculum###
 Refer to the suggested modules below for training on concepts outlined in this chapter
 
-- [Level-Up: Data backup and recovery](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup)
-- [Level-Up: Data retention, Archiving, Disposal](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup) 
+- [LevelUp: Data backup and recovery](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup)
+- [LevelUp: Data retention, Archiving, Disposal](https://www.level-up.cc/leading-trainings/training-curriculum/data-retention-and-backup) 
 
 
 ###Tools & Templates###
