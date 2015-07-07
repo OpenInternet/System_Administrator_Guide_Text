@@ -77,6 +77,7 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
     - [Greenhost.nl](https://greenhost.net)
     - [Rethem Hosting](http://www.rethemhosting.net/)
     - [VirtualRoad/Qurium](https://www.qurium.org/services/) *also offers DDoS protection
+    - [Team Cymru](http://www.team-cymru.org) (under special circumstances only)
 - DDoS protection:
     - [Deflect by Equalit.ie](https://www.deflect.ca)
     - [Project Shield by Google](https://projectshield.withgoogle.com/public) 
