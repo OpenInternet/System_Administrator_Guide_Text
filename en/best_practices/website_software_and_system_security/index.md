@@ -116,7 +116,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
     -   [Team Cymru](http://www.team-cymru.org) (under special circumstances only)
     -   [EEF’s Guide on chossing a web host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - [SSL Evaluator, Test your site's SSL setup: SSLLabs](https://www.ssllabs.com/index.html) 
-- [Secunia Personal Software Inspector (PSI) available for Windows OS]((http://secunia.com/vulnerability_scanning/personal))
+- [Secunia Personal Software Inspector (PSI) available for Windows OS](http://secunia.com/vulnerability_scanning/personal))
 
 ###Recommended Reading###
 
