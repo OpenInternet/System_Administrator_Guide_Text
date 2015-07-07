@@ -69,6 +69,8 @@ Via this exercise, by focusing on the areas of “very high impact- very high li
 
 Next, breakdown these security goals into achievable tasks (For example: creation of role-based access policies, or outreach to TechSoup for discounted software) that can be executed, their progress can be monitored, responsibility assigned and costs are associated for accomplishing the security goal. (Refer to Chapter 3 on preparing an IT budget).
 
+<img style="float: right" src="images/tb_1c.png">
+
 #### Step 3 - Maintaining a Risk-Averse Posture ####
 
 Conducting a risk assessment is not a one-time activity. As the context within which your organization operates changes (for example: introduction of stricter laws regulating NGOs; expansion of work activities in more hostile environments; enhanced investment in surveillance technologies by local authorities; change in the political environment), the risk matrix changes too. It's important to re-assess digital risks and evaluate their impact and likelihood and accordingly, maneuver the organization’s posture against the new threats. As such, it's recommended to conduct risk assessments on an on-going basis. Discuss and decide on a workable schedule to conduct regular risk assessments with the key stakeholders.
