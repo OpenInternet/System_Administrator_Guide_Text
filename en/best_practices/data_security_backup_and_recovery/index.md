@@ -122,8 +122,8 @@ Refer to the suggested modules below for training on concepts outlined in this c
 
 ###Tools & Templates###
 
-- [Backup software- Duplicati](http://www.duplicati.com/)
-- [Backup for Windows, Cobian](https://securityinabox.org/en/guide/cobian/windows)
+- [Backup software- Windows and Linux: Duplicati](http://www.duplicati.com/)
+- [Backup for Windows: Cobian](https://securityinabox.org/en/guide/cobian/windows)
 - [Secure File Storage, TrueCrypt](https://securityinabox.org/en/guide/truecrypt/windows#601)
 - [Secure deletion tool - Eraser](https://securityinabox.org/en/guide/eraser/windows)
 - [Windows Bitlocker](http://windows.microsoft.com/en-us/windows7/products/features/bitlocker)
