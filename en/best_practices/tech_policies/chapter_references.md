@@ -34,7 +34,7 @@
 - [National Cyber Security Alliance](http://www.StaySafeOnline.org)
 - [Anti-Phishing Working Group](http://www.antiphishing.org)
 - [PCWorld, Logan Kugler: Ways to Keep Your Mobile Devices Secure While Traveling](http://www.pcworld.com/article/218671/9_ways_to_keep_your_mobile_devices_secure.html)
-- [Symantec, Wi-Fi Hotspots](Connecting While Traveling: http://us.norton.com/travel-hotspot-security/article)
+- [Symantec, Wi-Fi Hotspots- Connecting While Traveling](http://us.norton.com/travel-hotspot-security/article)
 - [Wired, Secure Your Wi-Fi While Traveling](http://howto.wired.com/wiki/Secure_your_WiFi_while_Traveling)
 - [RickSteves.com, Internet Security for Travelers](https://www.ricksteves.com/travel-tips/phones-tech/internet-security-for-travelers)
 - [Government of Canada, Cyber security while travelling](http://travel.gc.ca/travelling/health-safety/cyber-safe)
