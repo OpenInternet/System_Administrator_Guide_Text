@@ -1,4 +1,4 @@
-##Footnotes##
+
 
 [^netbattles]: [Olesya Tkacheva, Lowell H. Schwartz, Martin C. Libicki, Julie E. Taylor, Jeffrey Martini, Caroline Baxter- Internet Freedom and Political Space](http://www.rand.org/pubs/research_reports/RR295.html)
 
