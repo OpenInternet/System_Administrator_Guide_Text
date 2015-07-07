@@ -111,8 +111,9 @@ Refer to the suggested modules below for training on concepts outlined in this c
     -   [Project Galileo by Cloudflare](https://www.cloudflare.com/galileo)
 - Secure Hosting:
     -   [Greenhost.nl](https://greenhost.net)
-    -   [Team Cymru](http://www.team-cymru.org) (under special circumstances only)
+    -   [Rethem Hosting](http://www.rethemhosting.net/)
     -   [VirtualRoad/Qurium](https://www.qurium.org/services/)
+    -   [Team Cymru](http://www.team-cymru.org) (under special circumstances only)
     -   [EEF’s Guide on chossing a web host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - SSL Evaluator:
 -   Test your site's SSL setup: [SSLLabs](https://www.ssllabs.com/index.html) 
