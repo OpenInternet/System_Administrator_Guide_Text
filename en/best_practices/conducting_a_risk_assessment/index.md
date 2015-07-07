@@ -39,11 +39,15 @@ While in most cases, it may be difficult to reduce threats; an organization can 
 #### Step 1 - Identify Risks, Vulnerabilities & Capacities ####
 
 Having understood the definitions of the various elements and their relationship with each other, the next step in the Risk Assessment process is to verbally map, as a group, the various risks your organization faces, consider your vulnerabilities for each, list existing abilities and resources you possess and identify required capacities that you can reasonably acquire. Here is a [simple worksheet](https://www.frontlinedefenders.org/files/workbook_eng.pdf) (Figure 2.1 page 15; Frontline Defenders: Workbook on Security) [^worksheet] that can help facilitate this process.
+
+
 As you go through this step, answering the following questions, in collaboration with key stakeholders, will help kick-start the conversation:
 
 - What do you want to protect? Write down a list of data that you maintain, where it’s kept, who has access to it, and what stops others from accessing it. This question will help you identify existing vulnerabilities and capacities.
 - Who do you want to protect it from? Make a list of who might want to get a hold of your data or communications. It might be an individual, a government agency, or a corporation. This question will help you identify your adversaries.
 - Write down what your adversary might want to do with your private data. This question will help you identify risks associated given the existing vulnerabilities.
+
+<img style="float: right" src="images/tb_1b.png">
 
 Completing the worksheet with the information gathered through this “discovery” process will provide a detailed list of the challenges at hand.
 
