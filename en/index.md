@@ -168,6 +168,14 @@ author: 'Mahvash Taqi'
 - Recommended Reading
 - Chapter References
 
+[Community Resources](#resources)
+
+[Chapter References](#references)
+
+[Footnotes](#footnotes)
+
+[About Internews](#about)
+
 ## License {#license}
 
 !INCLUDE "front_matter/license.md"
