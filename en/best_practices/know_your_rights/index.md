@@ -46,7 +46,7 @@ In view of the complex patchwork of data security and privacy laws, taking preve
 - [Index on Censorship, Mapping Media Freedom](https://mappingmediafreedom.org/)
 - [Columbia University, Global Freedom of Expression](https://globalfreedomofexpression.columbia.edu/)
 - [University of Rhode Island, Information Security- Travel to China or Russia](http://security.uri.edu/travel/travel-to-china-or-russia/)
-- [Princeton University, Information Security-2to travel internationally](http://www.princeton.edu/itsecurity/intltravel/)
+-  [Princeton University, Information Security-what to do if you plan to travel internationally](http://www.princeton.edu/itsecurity/intltravel/)
 
 
 ### Chapter References ###
