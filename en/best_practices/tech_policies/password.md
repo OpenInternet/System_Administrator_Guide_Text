@@ -23,7 +23,8 @@ Users should be reminded against:
 
 #### User Account Mainenance ####
 
-- Ensure that all user ids belong to currently authorized users; user ids that are inactive for 90 days must be disabled - be sure to add this task to your daily checklist
+- Ensure that all user ids belong to currently authorized users - evaluate account access at regular intervals (at a minimum, every quarter or when a change to the system is introduced). 
+- User ids that are inactive for 90 days must be disabled - be sure to add this task to your daily checklist.
 - Employee onboarding/exit rules: When system users are no longer part of an organization, or their duties change, their account access must be appropriately modified or terminated. Requests to change access privileges must be signed and forwarded to the appropriate designated individual by the responsible manager.
 - Limit Log-on Attempts: Limit the number of log-on attempts to online accounts to five (5) - this helps to prevent guessing of authentication data.  Set communication policies in place to ensure users know how to contact you in case they are locked out from their accounts.
 
