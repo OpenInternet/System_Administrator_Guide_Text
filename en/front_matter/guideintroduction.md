@@ -3,6 +3,8 @@ Over the years, we have seen various examples of how the internet can [empower c
 
 Based on the [Freedom of Net 2014 report](https://freedomhouse.org/report/freedom-net/freedom-net-2014) there has been increased government pressure on independent news websites, which had previously been among the few uninhibited sources of information in many countries, in addition to more people detained or prosecuted for their digital activities than ever before.
 
+<img style="float: right" src="images/intro.png">
+
 The FOTN report also highlights that internet freedom around the world has declined for the fourth consecutive year, with a growing number of countries introducing online censorship and monitoring practices that are simultaneously more aggressive and more sophisticated in their targeting of individual users.
 
 "The internet has become a new battleground between governments that censor online content and those who advocate freedom to browse, post, and share information online for all, regardless of their place of residence", as underlined in research [^netbattles] conducted by RAND.
