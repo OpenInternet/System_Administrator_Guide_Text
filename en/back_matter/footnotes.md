@@ -87,4 +87,6 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^SSL]: [Dev.MySql, Using SSL for Secure Connections](https://dev.mysql.com/doc/refman/5.1/en/ssl-connections.html)
 
+[^cryptolaw_ru]: http://www.cryptolaw.org/cls2.htm#ru
+
 [^rights_suggestions]: [Whiteford, Taylor, Preston- Are Associations and Nonprofit Organizations the Next Big Target for Cyber Attacks?](http://www.wtplaw.com/documents/2012/10/are-associations-and-nonprofit-organizations-the-next-big-target-for-cyber-attac)
