@@ -45,3 +45,4 @@ Step-up a practice to check-in with staff upon their return from a field assignm
 
 #### Recommended Reading ####
 - [University of Rhode Island, Information Security- Travel to China or Russia](http://security.uri.edu/travel/travel-to-china-or-russia/)
+- [Princeton University, Information Security-2to travel internationally](http://www.princeton.edu/itsecurity/intltravel/)
