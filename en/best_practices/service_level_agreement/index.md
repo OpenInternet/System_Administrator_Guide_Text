@@ -90,7 +90,7 @@ Finally, remember that while an SLA gives you some backup and confidence, it’s
 - [EEF, Guide on Choosing a Web Host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - [EFF, New Report Shows Which Mexican ISPs Stand With Their Users](https://www.eff.org/deeplinks/2015/06/new-report-shows-which-mexican-isps-stand-their-users)
 - [EFF, Who Has Your Back- Protecting Your Data from Government Requests](https://www.eff.org/who-has-your-back-government-data-requests-2015)
-- [Guide to Selecting Information Technology Security Products, NIST:](http://csrc.nist.gov/publications/nistpubs/800-36/NIST-SP800-36.pdf)
+- [NIST, Guide to Selecting Information Technology Security Products](http://csrc.nist.gov/publications/nistpubs/800-36/NIST-SP800-36.pdf)
 
 ###Chapter References###
 
