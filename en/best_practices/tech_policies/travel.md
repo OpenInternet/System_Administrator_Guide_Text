@@ -14,11 +14,11 @@ The mitigation strategy for travel-related risks will depend on your organizatio
 - Antivirus, 2-factor and updated, licensed software: The first line of defense is making sure that software on staff’s devices is up-to-date and not pirated (use licensed copies only). Every release of a software update patches a number of security vulnerabilities that have been discovered. Ensure 2-factor authentication is enabled on all their online accounts - this requires them to enter not just a password but a second code whenever they log in using an unfamiliar computer. Enable the built-in firewall on their laptops; disable Bluetooth networking to prevent unwanted connection attempts.
 - Enable “remote wipe” on devices: Discuss the remote wipe feature with staff on their devices and encourage them to enable this feature to prevent data leakage in case of device loss, theft or confiscation.
 
+<img style="float: right" src="images/tb_2c.png">
+
 #### Physical safety of equipment ####
 
 Staff should be made aware that physical security of their devices is equally important. And they should not leave their devices out of sight; or leave their phone charging unattended in a public area or lend their phone to strangers. All devices should be locked and fully powered-down when not in use, including in the hotel room. This is to prevent “cold-boot-attacks” in case, physical access to an encrypted device is attained.
-
-<img style="float: right" src="images/tb_2c.png">
 
 #### Considerations against local repair services ####
 
