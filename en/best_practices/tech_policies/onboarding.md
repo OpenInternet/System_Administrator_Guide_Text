@@ -31,7 +31,7 @@ Having contributed to the organization’s success, staff who are moving on (whe
 
 #### Tools & Templates ####
 
-- [University of Oklahoma, Information Technology New Hire Checklist:](http://dentistry.ouhsc.edu/Portals/0/Onboarding%20checklist%20for%20IT_1.pdf)
-- [ABA Law Practice Magazine, Departing Employee Technology Checklist:](http://apps.americanbar.org/lpm/lpt/articles/pdf/mgt04101.pdf)
-- [Lawyers’ Professional Indemnity Company, Employee Departure Checklist:](http://www.practicepro.ca/practice/pdf/EmployeeDepartureChecklist.pdf)
-- [CSOOnline, Tim Giles' book "How to Develop and Implement a Security Master Plan":](http://www.csoonline.com/article/2124300/security-leadership/sample-termination-checklist.html)
+- [University of Oklahoma, Information Technology New Hire Checklist](http://dentistry.ouhsc.edu/Portals/0/Onboarding%20checklist%20for%20IT_1.pdf)
+- [ABA Law Practice Magazine, Departing Employee Technology Checklist](http://apps.americanbar.org/lpm/lpt/articles/pdf/mgt04101.pdf)
+- [Lawyers’ Professional Indemnity Company, Employee Departure Checklist](http://www.practicepro.ca/practice/pdf/EmployeeDepartureChecklist.pdf)
+- [CSOOnline, Tim Giles' book "How to Develop and Implement a Security Master Plan"](http://www.csoonline.com/article/2124300/security-leadership/sample-termination-checklist.html)
