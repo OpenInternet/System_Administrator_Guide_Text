@@ -1,11 +1,11 @@
 
 Organizational data can range from email communication, organizational work plans, project budgets, contact information of partners, sources and other community organizations, documents & publications, employee records. Most staff & executives at organizations consider data protection and privacy an IT issue. While IT is usually best suited to handle the technologies and technical processes involved in storing and securing data, data protection and privacy is a holistic, organization-wide effort that should be everyone’s responsibility. After all, exposure (either via unauthorized access or internal leakage) to draft project work plans or strategies, budgets can cost an organization its reputation, can invite unnecessary government scrutiny to their work & staff, or can put its staff, partners, sources, other stakeholders at risk.
 
+<img style="float: right" src="images/tb_2a.png">
+
 #### Enabling Encryption ####
 
 Based on your organizational Risk Assessment (Refer to Chapter 1), which includes considerations to local laws (Refer to Chapter 11- Know Your Rights), you may consider encrypting all communication, devices to protect data - this includes instituting full-disk encryption on laptops and phones; training staff on secure communication technologies; teaching them about secure web browsing habits and enforcing pass phrase encryption via key management software.
-
-<img style="float: right" src="images/tb_2a.png">
 
 #### Data loss prevention rules ####
 
