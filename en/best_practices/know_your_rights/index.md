@@ -33,6 +33,8 @@ In view of the complex patchwork of data security and privacy laws, taking preve
 - [ICNL, NGO Law Monitor](http://www.icnl.org/research/monitor/)
 - [UN ITU, Cyberwellness Profiles](http://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx)
 - [Freedom House, Freedom on the Net](https://www.freedomhouse.org/report/freedom-net/2014/tightening-net-governments)
+- [EFF, New Report Shows Which Mexican ISPs Stand With Their Users](https://www.eff.org/deeplinks/2015/06/new-report-shows-which-mexican-isps-stand-their-users)
+- [EFF, Who Has Your Back- Protecting Your Data from Government Requests](https://www.eff.org/who-has-your-back-government-data-requests-2015)
 - [New America, Ranking Digital Rights – Ranking ICT sector companies on respect for free expression and privacy](https://rankingdigitalrights.org)
 - [Encryption and International Travel, Princeton University](https://www.princeton.edu/itsecurity/encryption/encryption-and-internatio/)
 - [ONI, Country Profiles](https://opennet.net/research/profiles)
