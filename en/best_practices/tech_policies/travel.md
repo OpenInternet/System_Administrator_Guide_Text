@@ -18,6 +18,8 @@ The mitigation strategy for travel-related risks will depend on your organizatio
 
 Staff should be made aware that physical security of their devices is equally important. And they should not leave their devices out of sight; or leave their phone charging unattended in a public area or lend their phone to strangers. All devices should be locked and fully powered-down when not in use, including in the hotel room. This is to prevent “cold-boot-attacks” in case, physical access to an encrypted device is attained.
 
+<img style="float: right" src="images/tb_2c.png">
+
 #### Considerations against local repair services ####
 
 Based on the threat model of their unique scenario, educate staff against using a local tech repair service for their device. Based on the risks, they may be better off bringing the device back home to repair it with a certified dealer.
