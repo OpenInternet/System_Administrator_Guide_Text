@@ -33,7 +33,7 @@ Analyzing data logs may provide deeper insights into data-related incidents and 
 
 #### Minimize data collection via your website ####
 
-It's best to collect minimum personal identifiable information from site visitors. However, if your website does collect visitor information to encourage use of interactive features, then it’s imperative to take extra steps to inform users about how their information will be used and protected and communicate practices to safe-guard user data transparently via a privacy policy statement. Internal business processes of storing and sharing user data (such as choice of a web analytical tool or backup system) should reflect security protocols communicated via this publically-communicated privacy policy. Annual review of business processes with respect to handling of user data is encouraged. Ensure that your website is SSL enabled. Refer to Chapter 8 and 9 for additional security best practices.
+It's best to collect minimum personal identifiable information from site visitors. However, if your website does collect visitor information to encourage use of interactive features, then it’s imperative to take extra steps to inform users about how their information will be used and protected and communicate practices to safe-guard user data transparently via a privacy policy statement. Internal business processes of storing and sharing user data (such as choice of a web analytical tool or backup system) should reflect security protocols communicated via this publically-communicated privacy policy. Annual review of business processes with respect to handling of user data is encouraged. Ensure that your website is SSL enabled. Refer to Chapter 8 and 9 for additional security best practices and [EFF's whitepaper on Best Practices for Online Service Providers](https://www.eff.org/wp/osp)
 
 
 #### Safeguard employee personal information ####
@@ -50,7 +50,8 @@ Ensure that protocols are put in place for protecting physical information recei
 
 #### Tools & Templates ####
 
-- [Tactical Tech’s Security-in-a-Box:](https://securityinabox.org/)
-- [EFF Security Starter Pack:](https://ssd.eff.org/)
-- [Internews, SpeakSafe:](https://speaksafe.internews.org/)
-- [Digital Defenders Partnership:](http://digitaldefenders.org/digitalfirstaid/)
+- [Tactical Tech’s Security-in-a-Box](https://securityinabox.org/)
+- [EFF Security Starter Pack](https://ssd.eff.org/)
+- [Internews, SpeakSafe](https://speaksafe.internews.org/)
+- [Digital Defenders Partnership](http://digitaldefenders.org/digitalfirstaid/)
+- [EFF, Best Practices for Online Service Providers](https://www.eff.org/wp/osp)
