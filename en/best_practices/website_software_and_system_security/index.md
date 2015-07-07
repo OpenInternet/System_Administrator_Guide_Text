@@ -112,7 +112,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - Secure Hosting:
     -   [Greenhost.nl](https://greenhost.net)
     -   [Rethem Hosting](http://www.rethemhosting.net/)
-    -   [VirtualRoad/Qurium](https://www.qurium.org/services/)
+    -   [VirtualRoad/Qurium](https://www.qurium.org/services/) (also offers DDoS protection)
     -   [Team Cymru](http://www.team-cymru.org) (under special circumstances only)
     -   [EEF’s Guide on chossing a web host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - SSL Evaluator:
