@@ -41,3 +41,7 @@ Step-up a practice to check-in with staff upon their return from a field assignm
 - Staff should be required to change passwords on all accounts accessed while in the field upon your return.
 - A policy to wipe clean all devices should be encouraged so as to not infect the network with viruses. Standardizing on a laptop model and software for office use can facilitate the process of “imaging” devices, as opposed to implementing re-installations from scratch.
 - If their computer gets infected with malware while on travel, they should hand over the device to the tech staff as either they may wish to perform forensics or know of a group such as [CitizenLab](https://citizenlab.org) who would be willing to investigate the threat.
+
+
+#### Recommended Reading ####
+- [University of Rhode Island, Information security- Travel to China or Russia](http://security.uri.edu/travel/travel-to-china-or-russia/)
