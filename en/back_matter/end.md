@@ -1,4 +1,4 @@
-##About Internews##
+
 
 Internews is an international non-profit organization whose mission is to empower local media worldwide to give people the news and information they need, the ability to connect and the means to make their voices heard.
 
