@@ -40,9 +40,9 @@ It's best to collect minimum personal identifiable information from site visitor
 
 Collect only the minimum amount of personal information necessary to achieve your purposes. Create a data retention policy for employee data that is shared with all employees. A data retention policy should help your staff understand how their personal information is stored, distributed with the appropriate stakeholders and deleted. Employee data should be flagged as “sensitive” and encrypted during storage and when shared. In addition, be aware of your privacy requirements - understand local laws to ensure your internal policies match local laws on data privacy and retention.
 
-#### Safeguards against publically available information ####
+#### Safeguards against publicly available information ####
 
-Based on your organization’s Risk Assessment (Refer to Chapter 1), raise awareness about personal identifiable data of employees publically available in public databases or on social networking sites. Train staff on protecting themselves against social engineering, which usually manipulates publically available information about users to create targeted attacks. Ensure that your organization has a protocol in place with respect to exposure of staff and projects in online public forums and addresses the consequences of sharing sensitive information publicly.
+Based on your organization’s Risk Assessment (Refer to Chapter 1), raise awareness about personal identifiable data of employees publicly available in public databases or on social networking sites. Train staff on protecting themselves against social engineering, which usually manipulates publicly available information about users to create targeted attacks. Ensure that your organization has a protocol in place with respect to exposure of staff and projects in online public forums and addresses the consequences of sharing sensitive information publicly.
 
 #### Safeguards against data breaches ####
 
