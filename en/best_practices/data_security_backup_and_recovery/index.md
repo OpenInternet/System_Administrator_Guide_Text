@@ -133,6 +133,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [TechRepublic, 10 things you should know about deploying a UPS](http://www.techrepublic.com/article/10-things-you-should-know-about-deploying-a-ups/)
 - [TechTarget, How to choose the right uninterruptible power supply for your data center](http://searchdatacenter.techtarget.com/tip/How-to-choose-the-right-uninterruptible-power-supply-for-your-data-center)
 - [NIST, Guidelines on Security and Privacy in Public Cloud Computing](http://csrc.nist.gov/publications/nistpubs/800-144/SP800-144.pdf)
+- [Scott Hanselman, The Computer Backup Rule of Three](http://www.hanselman.com/blog/TheComputerBackupRuleOfThree.aspx)
 
 ###Chapter References###
 
