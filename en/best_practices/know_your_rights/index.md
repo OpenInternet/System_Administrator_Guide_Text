@@ -40,7 +40,7 @@ In view of the complex patchwork of data security and privacy laws, taking preve
 - [ONI, Country Profiles](https://opennet.net/research/profiles)
 - [RedLatAm](https://redlatam.org/es/country)
 - [Internews, SAFETAG - Threats by region](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md)
-- [Internews, SAFETAG - Threats by focus area:](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_focus_area.md)
+- [Internews, SAFETAG - Threats by focus area](https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_focus_area.md)
 - [Global Network Initiative, Protecting and Advancing Freedom of Expression and Privacy in the ICT sector](https://www.globalnetworkinitiative.org)
 - [Human Rights Watch, Cynthia Wong, “They Know Everything We Do”](http://www.hrw.org/reports/2014/03/25/they-know-everything-we-do)
 - [Index on Censorship, Mapping Media Freedom](https://mappingmediafreedom.org/)
