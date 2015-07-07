@@ -5,6 +5,8 @@ Organizational data can range from email communication, organizational work plan
 
 Based on your organizational Risk Assessment (Refer to Chapter 1), which includes considerations to local laws (Refer to Chapter 11- Know Your Rights), you may consider encrypting all communication, devices to protect data - this includes instituting full-disk encryption on laptops and phones; training staff on secure communication technologies; teaching them about secure web browsing habits and enforcing pass phrase encryption via key management software.
 
+<img style="float: right" src="images/tb_2a.png">
+
 #### Data loss prevention rules ####
 
 Consider implementing a data loss prevention approach via rules-based data monitoring and tracking - this would enable an administrator to automate and enforce certain policies governing the use and movement of customer data. For example, set a rule that prevents any sensitive files (containing employee salary information or project plans) from being shared with anyone outside the organization. This would prevent either an accidental disclosure or an employee overtly sending data out to someone [outside] the organization.
