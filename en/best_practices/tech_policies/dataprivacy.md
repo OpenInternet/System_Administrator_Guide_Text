@@ -13,7 +13,7 @@ This, of course, would only work if all staff use an organization-wide email sys
 
 #### Address the BYOD issue ####
 
-BYOD is a data privacy issue as employees access and  store organizational data on personal devices. Enforce the best practices identified under the BYOD policy section of this chapter to safeguard organizational data and user identities.
+BYOD (Bring-Your-Own-Device) is a data privacy issue as employees access and  store organizational data on personal devices. Enforce the best practices identified under the BYOD policy section of this chapter to safeguard organizational data and user identities.
 
 #### Safeguards against “shadow infrastructure” ####
 
