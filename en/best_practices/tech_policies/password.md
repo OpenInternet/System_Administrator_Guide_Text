@@ -1,5 +1,5 @@
 
-Across our digital assets (devices and online accounts), passwords are the modus operandi of gaining access to authorized content. They are our first line-of-defense in preventing unauthorized access to content & devices and as such, they deserve the required attention & thought-process beyond the careless, easy-to-remember, 6 character ritual that most users adopt, viewing passwords as an hindrance to access.
+Across our digital assets (devices and online accounts), passwords are the modus operandi of gaining access to authorized content. They are our first line-of-defense in preventing unauthorized access to content and devices and as such, they deserve the required attention and thought-process beyond the careless, easy-to-remember, six-character ritual that most users adopt, viewing passwords as an hindrance to access.
 
 A password policy is a set of rules which are created to improve computer security by preventing unauthorized access and by motivating users to create dependable, secure passwords; storing and utilizing them properly.
 
@@ -13,7 +13,7 @@ Acceptable passwords must be carefully chosen by the user and enforced by the sy
 
 Users should be reminded against:
 
-- Creating passwords that contain personal identifiable information (PII) such as names, birthdates or addresses- such passwords are substantially easier to crack.
+- Creating passwords that contain personal identifiable information (PII) such as names, birthdates or addresses- such passwords are substantially easier to crack
 - Sharing their passwords via phone, email, chat or verbally
 - Visibly displaying passwords on post-it notes
 - Using the same password across all their digital assets
@@ -51,7 +51,7 @@ As with any security best practices, consider “user adoption” while enforcin
 #### Tools & Templates ####
 
 - [Open source password manager - KeePass](http://keepass.info/)
-- [EFF’s Guide on How to use KeePass:](https://ssd.eff.org/en/module/how-use-keepassx)
-- [EFF Security Starter Pack:](https://ssd.eff.org/)
-- [Tactical Tech’s Security-in-a-Box, Creating & Maintaining a strong password:](https://securityinabox.org/en/guide/passwords)
-- [Internews, SpeakSafe:](https://speaksafe.internews.org/)
+- [EFF’s Guide on How to use KeePass](https://ssd.eff.org/en/module/how-use-keepassx)
+- [EFF Security Starter Pack](https://ssd.eff.org/)
+- [Tactical Tech’s Security-in-a-Box, Creating & Maintaining a strong password](https://securityinabox.org/en/guide/passwords)
+- [Internews, SpeakSafe](https://speaksafe.internews.org/)
