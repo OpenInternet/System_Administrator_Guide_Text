@@ -88,6 +88,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 ###Tools & Templates###
 
 - [Digital Hygiene Campaign posters for display in common areas from Stop. Think. Connect:](http://stopthinkconnect.org/campaigns/keep-a-clean-machine/)
+- [SANS Institute, Securing the Human-Security Awarness Posters](https://www.securingthehuman.org/resources/posters)
 - Example of a Service Maintenance Notice to staff
 
 ![service notice](images/service_email.png)
