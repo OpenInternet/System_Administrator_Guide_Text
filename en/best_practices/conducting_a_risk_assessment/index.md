@@ -4,9 +4,9 @@ We assess and manage risks constantly in our daily activities - from pouring a h
 
 As a system administrator working at an organization focused on human rights or in a media outlet, you are uniquely positioned to influence the digital well-being and have a responsibility beyond the daily tasks of monitoring network traffic and user account management to lead your organization through a holistic approach to security. After all, digital security is not just about the tools used but an understanding of risks and measures that need to be taken to mitigate them - more often, these measures may include enhancing physical security, or “soft approaches” such as raising end-user awareness & training, instead of further investment in a top-of-the-line IDPS (intrusion detection & prevention system). While the latter is essential, the vulnerabilities exposed by an insecure work environment (device theft) or an ill-informed end-user whose email account gets hacked due to weak password practices (information & identity theft) can expose sensitive organizational data, causing havoc and should not be ignored. As such, a 360-degree approach to digital security –which goes beyond systems and software is essential.
 
-Having said this, digital security is also *not* just the sole responsibility of a system administrator or IT staff - it requires an organizational commitment from staff at every level, from decision-makers to the receptionist, with a unified pledge of safeguarding the organization’s mission, its progress, reputation and the physical well-being of all associated individuals (staff, target audience of work performed, partner, donors, etc.) Organizational buy-in is critical for a security plan to succeed - as holistic security encompasses technology, processes and people.
-
 <img style="float: right" src="images/tb_1a.png">
+
+Having said this, digital security is also *not* just the sole responsibility of a system administrator or IT staff - it requires an organizational commitment from staff at every level, from decision-makers to the receptionist, with a unified pledge of safeguarding the organization’s mission, its progress, reputation and the physical well-being of all associated individuals (staff, target audience of work performed, partner, donors, etc.) Organizational buy-in is critical for a security plan to succeed - as holistic security encompasses technology, processes and people.
 
 As such, an essential first step towards a 360-degree holistic approach to digital security is to understand the various risks targeting your organization by conducting a Risk Assessment in collaboration with key stakeholders -- these include decision-makers and staff representatives at various levels, from every business unit.
 
@@ -40,14 +40,13 @@ While in most cases, it may be difficult to reduce threats; an organization can 
 
 Having understood the definitions of the various elements and their relationship with each other, the next step in the Risk Assessment process is to verbally map, as a group, the various risks your organization faces, consider your vulnerabilities for each, list existing abilities and resources you possess and identify required capacities that you can reasonably acquire. Here is a [simple worksheet](https://www.frontlinedefenders.org/files/workbook_eng.pdf) (Figure 2.1 page 15; Frontline Defenders: Workbook on Security) [^worksheet] that can help facilitate this process.
 
+<img style="float: right" src="images/tb_1b.png">
 
 As you go through this step, answering the following questions, in collaboration with key stakeholders, will help kick-start the conversation:
 
 - What do you want to protect? Write down a list of data that you maintain, where it’s kept, who has access to it, and what stops others from accessing it. This question will help you identify existing vulnerabilities and capacities.
 - Who do you want to protect it from? Make a list of who might want to get a hold of your data or communications. It might be an individual, a government agency, or a corporation. This question will help you identify your adversaries.
 - Write down what your adversary might want to do with your private data. This question will help you identify risks associated given the existing vulnerabilities.
-
-<img style="float: right" src="images/tb_1b.png">
 
 Completing the worksheet with the information gathered through this “discovery” process will provide a detailed list of the challenges at hand.
 
@@ -67,9 +66,9 @@ If the probability of the risk occurring is low, and the impact is low, or the p
 
 Via this exercise, by focusing on the areas of “very high impact- very high likelihood” followed by “high impact-high likelihood” and “medium impact-medium likelihood”, you have now arrived at a set of security goals (For example: mitigate loss of sensitive data or install licensed software to prevent violations against local laws) via a prioritization process. At this stage, its also critical to also assess your organization’s capacity such as appropriate personnel, necessary time and funds that will be required. Assessing capacity will help you arrive at **practical, realistic security goals**. For example, an intrusion detection system and state-of-the-art firewall might mitigate network intrusions, but if the backup system and financial computers are what you're worried about, other mitigations could achieve much of the same outcome for less budget, less time and staff training.
 
-Next, breakdown these security goals into achievable tasks (For example: creation of role-based access policies, or outreach to TechSoup for discounted software) that can be executed, their progress can be monitored, responsibility assigned and costs are associated for accomplishing the security goal. (Refer to Chapter 3 on preparing an IT budget).
-
 <img style="float: right" src="images/tb_1c.png">
+
+Next, breakdown these security goals into achievable tasks (For example: creation of role-based access policies, or outreach to TechSoup for discounted software) that can be executed, their progress can be monitored, responsibility assigned and costs are associated for accomplishing the security goal. (Refer to Chapter 3 on preparing an IT budget).
 
 #### Step 3 - Maintaining a Risk-Averse Posture ####
 
