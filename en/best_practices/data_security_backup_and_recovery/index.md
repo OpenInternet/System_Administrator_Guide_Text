@@ -36,19 +36,19 @@ In addition, a backup plan should [^backup]:
 
 - Verify that remote employees are reminded to backup critical files from their PCs to a specified user share on the network which is included in the backup strategy regularly (for example, weekly or monthly).
 - Verify that backups jobs (in an automatic and/or manual fashion) are performed per schedule and properly labeled.
-- Verify that backup media (for example, tapes, diskettes, source code) are stored in a physically secure location, both onsite and offsite on a regular basis. (Refer to Chapter 10 on Physical Security)
+- Verify that backup media (for example, dvds, tapes, diskettes, source code) are stored in a physically secure location, both onsite and offsite on a regular basis. (Refer to Chapter 10 on Physical Security)
 - Verify that the backup media is kept in a fireproof safe or other tamper-proof/element resistant mechanism.
-- Data and system restorations from backup tapes are tested in preparation of an emergency.
+- Data and system restorations from backup media are tested in preparation of an emergency.
 
 Below is a typical tape backup rotation strategy, however, you may adopt a more aggressive approach of more frequent backups and segregated tapes for sensitive data as part of your backup plan.
 
-**Typical Tape Backup Rotation Strategy** [^backup]
+**Typical Removable Media (tapes, DVDs) Backup Rotation Strategy** [^backup]
 
-- To conserve tapes, maintain simplicity and insure sufficient retention of history, a five-day tape rotation schedule should be implemented using a different tape for each day of the week and each Friday (week-ending). Weekday tapes are retained for one month.
-- The tape used on the last day of the month is rotated out of service and retained for 12 months. At the end of each year, the tape used on the last backup of the year is rotated out and retained indefinitely. Using this schedule, any file that is stored longer than one day, but not past Friday backup, will be recoverable if restore is requested within five business days of creation date.
+- To conserve backup media, maintain simplicity and insure sufficient retention of history, a five-day incremental rotation schedule should be implemented using a different media for each day of the week and each Friday (week-ending). Weekday media are retained for one month.
+- The media used on the last day of the month is rotated out of service and retained for 12 months. At the end of each year, the media used on the last backup of the year is rotated out and retained indefinitely. Using this schedule, any file that is stored longer than one day, but not past Friday backup, will be recoverable if restore is requested within five business days of creation date.
 - If the file is recorded in a Friday backup, but not month-end, the file is recoverable if requested within 20 business days.
 - If the file is recorded on a month-end backup, but not year-end backup, the file is available for recovery for approximately up to one year from creation date.
-- Files that are recovered on year-end backups will be recoverable indefinitely based upon the retention duration of year-end tapes.
+- Files that are recovered on year-end backups will be recoverable indefinitely based upon the retention duration of year-end media.
 
 **Disaster Recovery**
 
