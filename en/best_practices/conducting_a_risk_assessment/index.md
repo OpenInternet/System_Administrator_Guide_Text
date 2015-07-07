@@ -6,6 +6,8 @@ As a system administrator working at an organization focused on human rights or 
 
 Having said this, digital security is also *not* just the sole responsibility of a system administrator or IT staff - it requires an organizational commitment from staff at every level, from decision-makers to the receptionist, with a unified pledge of safeguarding the organization’s mission, its progress, reputation and the physical well-being of all associated individuals (staff, target audience of work performed, partner, donors, etc.) Organizational buy-in is critical for a security plan to succeed - as holistic security encompasses technology, processes and people.
 
+<img style="float: right" src="images/tb_1a.png">
+
 As such, an essential first step towards a 360-degree holistic approach to digital security is to understand the various risks targeting your organization by conducting a Risk Assessment in collaboration with key stakeholders -- these include decision-makers and staff representatives at various levels, from every business unit.
 
 Conducting a Risk Assessment will help you analyze **risks** to your organization, paint a complete picture of possible **threats**, will help identify **adversaries**, pinpoint **vulnerabilities** and more importantly, access the organization’s **capacities** that can help mitigate these risks.
