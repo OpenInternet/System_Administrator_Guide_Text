@@ -46,7 +46,7 @@ Most users, in most countries, have keyboards that include most Latin characters
 
 #### User Adoption ####
 
-As with any security best practices, consider “user adoption” while enforcing password policies – the key is to find the right balance between security and privacy. A password manager (discussed discussed here) and user-awareness trainings (Refer to Chapter 3) can reduce end-user push-back towards safer password best practices.
+As with any security best practices, consider “user adoption” while enforcing password policies – the key is to find the right balance between security and privacy. A password manager (discussed discussed here) and user-awareness trainings (Refer to Chapter 3) can help gain the necessary buy-in and reduce end-user push-back towards safer password best practices.
 
 #### Tools & Templates ####
 
