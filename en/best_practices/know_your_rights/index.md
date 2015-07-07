@@ -45,6 +45,7 @@ In view of the complex patchwork of data security and privacy laws, taking preve
 - [Human Rights Watch, Cynthia Wong, “They Know Everything We Do”](http://www.hrw.org/reports/2014/03/25/they-know-everything-we-do)
 - [Index on Censorship, Mapping Media Freedom](https://mappingmediafreedom.org/)
 - [Columbia University, Global Freedom of Expression](https://globalfreedomofexpression.columbia.edu/)
+- [University of Rhode Island, Information Security- Travel to China or Russia](http://security.uri.edu/travel/travel-to-china-or-russia/)
 
 
 ### Chapter References ###
