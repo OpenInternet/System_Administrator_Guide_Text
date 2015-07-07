@@ -37,7 +37,7 @@ Users should be reminded against:
 #### Password Storage ####
 
 - Institute a policy for the use of password managers (such as KeePass) to store passwords in irreversible encrypted form.
-- Password managers make password management effortless, especially as end-users adopt best practices such as using a different password for each account.
+- Password managers make password management user and security-friendly, especially as end-users adopt best practices such as using a different password for each account.
 - In addition, they also assure security, by protecting end-users against keyloggers (malware).
 
 #### Password management for multi-lingual users ####
