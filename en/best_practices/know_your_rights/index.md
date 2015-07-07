@@ -6,9 +6,13 @@ For example, laws in various countries around the globe (for example: [Cuba](htt
 
 Moreover, restrictive regimes have known to [use anti-piracy laws against independent media](http://ipjournal.law.wfu.edu/2011/02/microsoft-allows-unilateral-software-licenses-to-russian-ngos-and-media-organizations/) or [NGOs focused on human rights](https://blogs.microsoft.com/blog/2010/09/13/anti-piracy-enforcement-and-ngos/). And governments are quickly moving towards [implementing “data localization” policies](http://www.acslaw.org/sites/default/files/ChanderAnupamBreakingtheWebDataLocalizationvstheGlobalInternet.pdf) to restrict movement of information across borders – threatening the very fabric of the global internet.
 
+<img style="float: right" src="images/TB_11A.png">
+
 Furthermore, there are various laws in place to safeguard personal identifyable information collected by employers. For example, under USA-Maryland state’s law, if an organization destroys records that contain a user’s personal information, the organization is required to take reasonable steps to prevent unauthorized access to, or use of, the personal information, taking into consideration factors that include the sensitivity of the records, costs, and available technology.
 
 In addition, under other US state laws, including California, Massachusetts, and Maryland, if your organization uses a nonaffiliated third party to perform services (for example: cloud-based donor management database or employee records management database) and if you disclose personal information about a resident of that state under a written contract, then your organization must by contract require the third party to implement and maintain its own reasonable and appropriate security procedures and practices to help protect personal information from unauthorized access, use, modification, disclosure or destruction.  Since many nonprofit organizations strive for a national or international membership base, and most also outsource important functions that provide third party service providers with access to personal information via cloud computing services, these nonprofit organizations are subject to those requirements.
+
+<img style="float: right" src="images/TB_11b.png">
 
 As such, it’s imperative to understand the legal IT aspects of operating within your local context. Here are a few suggestions [^rights_suggestions] to keep in mind:
 
