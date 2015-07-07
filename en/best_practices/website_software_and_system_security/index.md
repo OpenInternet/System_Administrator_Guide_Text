@@ -115,8 +115,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
     -   [VirtualRoad/Qurium](https://www.qurium.org/services/) (also offers DDoS protection)
     -   [Team Cymru](http://www.team-cymru.org) (under special circumstances only)
     -   [EEF’s Guide on chossing a web host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
-- SSL Evaluator:
--   Test your site's SSL setup: [SSLLabs](https://www.ssllabs.com/index.html) 
+- [SSL Evaluator, Test your site's SSL setup: SSLLabs](https://www.ssllabs.com/index.html) 
 - [Secunia Personal Software Inspector (PSI) available for Windows OS]((http://secunia.com/vulnerability_scanning/personal))
 
 ###Recommended Reading###
@@ -125,7 +124,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [eQualit.ie recommended list of hosting providers](http://wiki.deflect.ca/wiki/ISP_reviews)
 - [EFF, Choosing a Web Host](https://www.eff.org/keeping-your-site-alive/choosing-a-web-host)
 - [Huridocs, 10 tips to keep your website safe](https://www.huridocs.org/2013/08/10-tips-to-keep-your-website-safe)
-- [Internews, My Website Is Down](:https://github.com/OpenInternet/MyWebsiteIsDown/blob/master/MyWebsiteIsDown.md)
+- [Internews, My Website Is Down](https://github.com/OpenInternet/MyWebsiteIsDown/blob/master/MyWebsiteIsDown.md)
 - [National Network to End Domestic Violence, Technology & Confidentiality Resources Toolkit](http://tools.nnedv.org/tipsheets-charts)
 
 ###Chapter References###
