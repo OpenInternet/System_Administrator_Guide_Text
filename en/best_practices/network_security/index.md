@@ -7,6 +7,7 @@
 This is the golden rule for all sysadmins - understand the traffic on your network. Get/build/buy a system to monitor, measure, record and analyze network traffic. It may be prudent to regularly share network analysis reports with key stakeholders and staff to help them understand the various threats to the network. In addition to raising their awareness on the network security challenges faced by the organization, it also would allow for enhanced investment in security technology and digital security education & training for staff (Refer to Chapter 4- Budgeting for Tech)
 
 Here is a recommended shortlist of things [^monitor] to start monitoring/recording/charting/graphing:
+
 - Load average
 - Memory usage
 - Disk I/O (transactions per second)
