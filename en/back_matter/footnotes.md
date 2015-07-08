@@ -47,7 +47,7 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^idps]: [TechTarget, Do you need an IDS or IPS, or both](http://searchsecurity.techtarget.com/Do-you-need-an-IDS-or-IPS-or-both)
 
-[^anamoly]: [Webopedia, Intrusion Detection (IDS) and Prevention (IPS) Systems] (http://www.webopedia.com/DidYouKnow/Computer_Science/intrusion_detection_prevention.asp)
+[^anomaly]: [Webopedia, Intrusion Detection (IDS) and Prevention (IPS) Systems] (http://www.webopedia.com/DidYouKnow/Computer_Science/intrusion_detection_prevention.asp)
 
 [^access_auth]: [NIST, An Introduction to Role-Based Access Control](http://csrc.nist.gov/groups/SNS/rbac/documents/design_implementation/csl95-12.txt)
 
@@ -55,7 +55,7 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^log_management]: [Net-Security, Log Management – Lifeblood of Information Security](http://www.net-security.org/article.php?id=975&p=2)
 
-[^auditlog]: [NIST, Guide to Computer Security Log Management](http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf)
+[^audit_log]: [NIST, Guide to Computer Security Log Management](http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf)
 
 [^logs]: [NIST, Log Management- Using Computer and Network Records to Improve Information Security](http://www.itl.nist.gov/lab/bulletns/bltnoct06.htm)
 
