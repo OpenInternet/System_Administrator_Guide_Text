@@ -19,7 +19,7 @@ Provide a walking tour of the facilities to point out secure areas where access 
 
 Having contributed to the organization’s success, staff who are moving on (whether on friendly terms or otherwise) have had access to internal systems, documents and contacts. It is important to put the necessary measures in place to prevent data loss or unauthorized access to systems and ensure business continuity.
 
-- **Network Access**: Establish a checklist to close out user account access to email & other corporate systems (intranet, databases, data repositories), including any social media accounts or cloud repositories that were maintained by the employee.
+- **Network Access**: Establish a checklist to close out user account access to email and other corporate systems (intranet, databases, data repositories), including any social media accounts or cloud repositories that were maintained by the employee.
 
 - **Physical Access**: Your closeout checklist should also include a mechanism for departing staff to return any keys or access cards that grant them physical access to the office facilities.
 
