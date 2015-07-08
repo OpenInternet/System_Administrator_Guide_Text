@@ -2,7 +2,7 @@
 
 While a holistic approach to security encompasses technology, process and people - the main focus of this chapter is on *“the people”*- this is the area of greatest impact. One can have the best technology and practices in place, however, if they are not used or followed appropriately, then other efforts will fall short of safeguarding an organization against security threats.
 
-In most small-to-mid sized organizations, the system administrator is the first level contact for end-users for computer & network support. In addition to monitoring the network & data security, System Administrators should assume the responsibility of educating their end-users on security best practices. After all, end-users are the ultimate consumers of the data traveling on the network and are at the frontlines of targeted attacks to their information and communication.
+In most small-to-mid sized organizations, the system administrator is the first level contact for end-users for computer and network support. In addition to monitoring the network and data security, System Administrators should assume the responsibility of educating their end-users on security best practices. After all, end-users are the ultimate consumers of the data traveling on the network and are at the frontlines of targeted attacks to their information and communication.
 
 Network security wouldn’t succeed without partnership with your end-users.  Its imperative to gain their trust to achieve holistic security.
 
@@ -16,13 +16,13 @@ Having conducted a Risk Assessment (Refer to Chapter 1) to understand threats to
 
 Understand the various profile of users in your organization (from program staff, to accountants, to editors or executive management), create data workflows for each profile to understand their unique business processes and apply a “User Centered Design” approach while creating policies. Policies created without the end-user in mind will lead to frustrated users finding “shortcuts” to circumvent security measures, leading to increased potential security holes that go unnoticed.
 
-Get end-user buy in while setting these policies to ensure that the solution will be successful and will not fail due to passive resistance, as ultimately “it’s about the users”- they need to understand the reasons as to why strict adherence to these policies will safe-guard them against malicious attacks and secure their data & communication. Refer to Chapter 2 on recommended tech policies.
+Get end-user buy in while setting these policies to ensure that the solution will be successful and will not fail due to passive resistance, as ultimately “it’s about the users”- they need to understand the reasons as to why strict adherence to these policies will safe-guard them against malicious attacks and secure their data and communication. Refer to Chapter 2 on recommended tech policies.
 
 #### 3.2 Identifying ‘Privileged’ Users ####
 
-Your organization’s Risk Assessment (Refer to Chapter 1) will identify users within the organization who need access to sensitive data. This will help you short-list the ‘privileged’ users in your organizations. They could include your organization’s executives, accounting staff, human resources staff, individuals working on high-stake projects such as business plans, financial forecasts, project strategies, donor & partner relationships or in a media organization, this could include the new reporters & editors. Their common trait, from an organizational security perspective, is that they all have more access to sensitive organizational data, making them easier targets for cyber threats as compared to other non-privileged users.
+Your organization’s Risk Assessment (Refer to Chapter 1) will identify users within the organization who need access to sensitive data. This will help you short-list the ‘privileged’ users in your organizations. They could include your organization’s executives, accounting staff, human resources staff, individuals working on high-stake projects such as business plans, financial forecasts, project strategies, donor and partner relationships or in a media organization, this could include the new reporters and editors. Their common trait, from an organizational security perspective, is that they all have more access to sensitive organizational data, making them easier targets for cyber threats as compared to other non-privileged users.
 
-Since each user’s workflow & style differs, its imperative to create an individual security plan for them. (Refer to Chapter 7 for best practices related to the *“principle of least privilege”*) These plans should receive their buy-in and address specific data access, storage, sharing and communication tools and protocols. Also, since scenarios keep changing, the security plan should address a methodology that they can adhere to while accessing risk and its impact. (Refer to Chapter 1 for the Risk Assessment plan).
+Since each user’s workflow and style differs, its imperative to create an individual security plan for them. (Refer to Chapter 7 for best practices related to the *“principle of least privilege”*) These plans should receive their buy-in and address specific data access, storage, sharing and communication tools and protocols. Also, since scenarios keep changing, the security plan should address a methodology that they can adhere to while accessing risk and its impact. (Refer to Chapter 1 for the Risk Assessment plan).
 
 #### 3.3 Managing the Change ####
 
@@ -53,7 +53,7 @@ Chalking up tech policies, usage protocols and security plans is not sufficient 
 
 ##### 3.4.i Communication #####
 
-Advertise best practices in common rooms/hallways. Send email reminders about IT policies at the very least once a month, along with news about threats & security trends affecting human rights organizations or independent media outlets. “Humanize” cyber threats by helping users understand what these threats mean for them, the organization and their data, communication and their relationship with sources, partners or donors.
+Advertise best practices in common rooms/hallways. Send email reminders about IT policies at the very least once a month, along with news about threats and security trends affecting human rights organizations or independent media outlets. “Humanize” cyber threats by helping users understand what these threats mean for them, the organization and their data, communication and their relationship with sources, partners or donors.
 
 ##### 3.4.ii Staff-Awareness Workshops #####
 
