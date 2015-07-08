@@ -8,6 +8,8 @@
 
 [^risk_assessment_definitions]: [Frontline Defenders, Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
+[^other_approaches]: Kindly note: There are many ways to think about risks and their impacts. We decided to use this approach to emphasize the role of organizational capacity to manage risk. As with any risk assessment approach, the goal is to 1) accept, 2) avoid, 3) transfer and 4) mitigate. We encourage you to learn about other risk assessment models and adapt them accordingly to fit your specific organizational scenario(s).
+
 [^risk_formula]: [Frontline Defenders, Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 
 [^worksheet]: [Frontline Defenders, Workbook on Security](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
