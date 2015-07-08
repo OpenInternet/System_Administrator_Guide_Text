@@ -12,7 +12,7 @@ Here are a few suggested best practices as recommended in ITDonut's sample servi
 
 #### 5.1 Uptime ####
 
-This applies to important equipment, software or services that your business needs. Typically, uptime guarantees apply to servers, cloud services (like email or web hosting) or your internet (ISP) & office telephone service and other parts of your IT system that are vital to your business. For example, your service provider might guarantee 99.9% uptime for your internet connection. The agreement should also detail the compensation available when the provider fails to meet their end of the agreement (see 5.3 SLA Penalties) and clarify whether uptime results are included in weekly and monthly reports.
+This applies to important equipment, software or services that your business needs. Typically, uptime guarantees apply to servers, cloud services (like email or web hosting) or your internet (ISP) and office telephone service and other parts of your IT system that are vital to your business. For example, your service provider might guarantee 99.9% uptime for your internet connection. The agreement should also detail the compensation available when the provider fails to meet their end of the agreement (see 5.3 SLA Penalties) and clarify whether uptime results are included in weekly and monthly reports.
 
 #### 5.2 Response Times ####
 
