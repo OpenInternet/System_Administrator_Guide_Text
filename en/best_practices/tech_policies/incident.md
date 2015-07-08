@@ -14,7 +14,7 @@ The incident response procedure [^incident_policy] for your organization should 
 
 **Reporting**: Define a process for the affected audience to notify you of the incident. For example, if staff cannot access email during the weekend or do not have access to the Internet after business hours, what is the procedure for them to contact you. A simple case of forgotten password or password expiration should not be considered an emergency.
 
-**Response, Escalation**: Once notification of an incident is received, where possible, take necessary steps to escalate the issue (for example: notify a vendor in case of hardware failure or ISP in case of internet outage) and organize your team (if more than one sysadmin) with specific roles & responsibilities.
+**Response, Escalation**: Once notification of an incident is received, where possible, take necessary steps to escalate the issue (for example: notify a vendor in case of hardware failure or ISP in case of internet outage) and organize your team (if more than one sysadmin) with specific roles and responsibilities.
 
 **Communication**: Define a communication plan to report outage to staff & key stakeholders immediately with frequent updates shared, at least every 12 hours, until the issue is resolved.
 
