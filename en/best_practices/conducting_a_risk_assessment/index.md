@@ -24,7 +24,7 @@ An overview of terms [^risk_assessment_definitions] follows:
 - *Vulnerability* – any factor which makes it more likely for harm to materialize or result in greater damage (For example: staff not trained on use of secure technologies)
 - *Adversary* - a person or entity looking to benefit via exploitation of a risk (For example: state actors or competitors)
 
-As such, Risk can be understood via a basic formula as highlighted in Frontline Defenders, Workbook on Security:[^risk_formula]
+As such, Risk can be understood via a basic formula [^other_approaches] as highlighted in Frontline Defenders, Workbook on Security:[^risk_formula]
 
 ![Risk Formula](images/risk_formula.png)
 
