@@ -40,6 +40,9 @@ Ensure that the BYOD policy addresses risks associated with device loss, theft a
 
 Since it will be difficult to control individual user devices, system administrators can raise awareness about risks associated with apps with respect to user privacy (collection of and access to data). It may be easier to focus on allowed app behaviors (for example: disabling collection of location data if its not required by the app to function), what type of data can be accessed by each app (for example: contacts, photos, location data) and precautionary measures to consider before downloading apps. Conducting regular trainings and raising staff awareness (Refer to Chapter 3) will go a long way in ensuring staff are aware of risks associated via insecure apps that could hamper data security and their privacy.
 
+
+
+
 #### Formalize your 24x7 support ####
 
 With access to work email and resources available on staff devices, create a clear communication policy for IT support available after hours and on weekends, and ensure that IT services are up and running 24x7 as downtime is no longer an option.
