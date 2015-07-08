@@ -19,7 +19,7 @@ With data segregated by sensitivity based on your organization’s Risk Assessme
 
 Before granting access to work emails and data to personal employee devices, create a device security checklist. At a high-level, the checklist should include the following:
 
-- Ensure your users understand the risks associated with device loss, which could lead to loss of organizational data on their phone, especially true with downloads of sensitive attachments, contacts & email on their device.
+- Ensure your users understand the risks associated with device loss, which could lead to loss of organizational data on their phone, especially true with downloads of sensitive attachments, contacts and email on their device.
 - Enable 2-factor authentication on their work email account before access is enabled
 - Encrypt their devices.
 - Encourage use of a strong password and a password manager such as KeePass on their device (Refer to Chapter 6 for end-user privacy protection and encryption tools).
