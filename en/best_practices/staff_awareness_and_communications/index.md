@@ -95,7 +95,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 
 ###Recommended Reading###
 
-(Left blank intentionally; looking for contributions from the community)
+(Looking for contributions from the community)
 
 ###Chapter References###
 
