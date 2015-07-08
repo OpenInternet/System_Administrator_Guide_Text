@@ -4,7 +4,7 @@
 
 #### 7.1 Monitor, Measure, and Record ####
 
-This is the golden rule for all sysadmins - understand the traffic on your network. Get/build/buy a system to monitor, measure, record and analyze network traffic. It may be prudent to regularly share network analysis reports with key stakeholders and staff to help them understand the various threats to the network. In addition to raising their awareness on the network security challenges faced by the organization, it also would allow for enhanced investment in security technology and digital security education & training for staff (Refer to Chapter 4- Budgeting for Tech)
+This is the golden rule for all sysadmins - understand the traffic on your network. Get/build/buy a system to monitor, measure, record and analyze network traffic. It may be prudent to regularly share network analysis reports with key stakeholders and staff to help them understand the various threats to the network. In addition to raising their awareness on the network security challenges faced by the organization, it also would allow for enhanced investment in security technology and digital security education and training for staff (Refer to Chapter 4- Budgeting for Tech)
 
 Here is a recommended shortlist of things [^monitor] to start monitoring/recording/charting/graphing:
 
@@ -25,10 +25,10 @@ Once you have consistent information, you’ll start seeing patterns and can loo
 
 Following these best practices, as highlighted by Miha Pihlerin's article [^firewall_management] published in Microsoft Technet, and conducting regular maintenance work can make the life of a system administrator less stressful and help better protect your network.
 
-- Conduct daily maintenance tasks: As stated above under “Monitor, Measure & Record”, review traffic logs & check for any alerts.
+- Conduct daily maintenance tasks: As stated above under “Monitor, Measure and Record”, review traffic logs and check for any alerts.
 - Deny all traffic by default and only open specific ports, protocols and services as needed.
 - Change the default administrator or root password on the firewall to a complex, long passphrase. Set a reminder to change the firewall admin password every 6 months.
-- Monitor the CPU usage & network throughput of the firewall to ensure applications installed on it (such as an anti-virus, VPN software) are not slowing it down.
+- Monitor the CPU usage and network throughput of the firewall to ensure applications installed on it (such as an anti-virus, VPN software) are not slowing it down.
 
 **Review firewall policies regularly** [^fw_policies]
 
@@ -55,7 +55,7 @@ Today’s malware is so advanced that a firewall alone will leave a network vuln
 
 The problem with this defense is that the firewall does not investigate the data that is allowed to enter the doors on the network. If there is danger lurking outside the front door (port connection) and the data finds a way into the home (the network), it will cause an intense amount of damage. And, although it’s not practical to check your guests’ bags, it is necessary to scan all items entering your network to determine if they are friend or foe because the network’s health and safety rely on it. An IDPS is the answer to address this challenge.
 
-An **Intrusion Detection and Protection System (IDPS)** is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware & produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.[^idps]
+An **Intrusion Detection and Protection System (IDPS)** is the newest line of defense in network security and combines two levels of network protection into one. Intrusion detection accomplishes traffic analysis in order to detect malware and produces reports while Prevention actively blocks the malware on the network by dropping the malicious data while still allowing normal data to continue on the network. This system identifies and prevents malware intrusion by examining information (whole packets, both header and payload, against a library of known attacks) via sensors within the network infrastructure.[^idps]
 
 For added protection, you may adopt the **“anomaly detection”** versus a **“misuse detection”** approach via an IDPS. In misuse detection, the IDS analyzes the information it gathers and compares it to large databases of attack signatures. That is, the IDS looks for a specific attack that has already been documented. Much like a virus detection system, detection software is only as good as the database of intrusion signatures that it uses to compare packets against. However, in anomaly detection, the system administrator has more control and can define the baseline, or normal, state of the network's traffic load, breakdown, protocol, and typical packet size. The anomaly detector monitors network segments to compare their state to the normal baseline, looks for anomalies and alerts the system administrator when one is detected. [^anomaly] 
 
@@ -81,7 +81,7 @@ Ensure the following best practices with regards to authentication:
 
 - **Require Users to Authenticate:** users must authenticate their claimed identities on all IT resources and data repositories. During the first instance of access with a new account, the initial password must be changed by the individual responsible for the account, in compliance with the defined password policy. Enable 2-factor Authentication. (Refer to Chapter 2 on Password Policy)
 - **Limit Log-on Attempts:** The organization facilities must limit the number of log-on attempts to five (5).  This helps to prevent guessing of authentication data.  Where round-the-clock system administration service is available, system administrator intervention will be required to clear a locked account.  Where round-the-clock system administration service is not available, accounts will remain locked out for at least ten (10) minutes.
-- **User Account Review:** When system users are no longer part of an organization, or their duties change, their account access must be appropriately modified or terminated.  Requests to change access privileges must be signed and forwarded to the appropriate designated individual by the responsible manager. Create a process to regularly review and audit user account access to IT systems & data repositories- this initiative may closely tie in with your organization’s employee onboarding and termination process to take the necessary action of account creation, modification or deletion.
+- **User Account Review:** When system users are no longer part of an organization, or their duties change, their account access must be appropriately modified or terminated.  Requests to change access privileges must be signed and forwarded to the appropriate designated individual by the responsible manager. Create a process to regularly review and audit user account access to IT systems and data repositories- this initiative may closely tie in with your organization’s employee onboarding and termination process to take the necessary action of account creation, modification or deletion.
 - Use of the **default “Guest” accounts is strongly discouraged** on servers and workstations but, if needed, these accounts must conform to the naming conventions and the password policy established in this policy. Additional measures, such as disabling, renaming, or decoying these standard accounts, should be employed.
 - **Administer Data Properly:** Establish procedures to disable lost or stolen passwords and monitor systems to look for stolen or shared accounts.
 
@@ -129,10 +129,10 @@ A log management infrastructure consists of the hardware, software, networks, an
 - Network Bandwidth - ensure that all logs are generated during off-peak hours to allow the necessary bandwidth during work hours.
 - Time and resources needed for staff to analyze the logs
 - Define a log rotation and archival process
-- Retention Policy - understand the local laws pertaining to retention of data for legal purposes (evidence generation) and for audits & compliance efforts, especially financial and tax data
+- Retention Policy - understand the local laws pertaining to retention of data for legal purposes (evidence generation) and for audits and compliance efforts, especially financial and tax data
 - Monitoring the status of the log management infrastructure (e.g., failures in logging software or log archival media, failures of local systems to transfer their log data) and initiating appropriate responses when problems occur.
 - Security considerations related to online and offline data storage of log data. The confidentiality and integrity of the archived logs (on removable media) need to be protected, similar to backup data tapes (Refer to Chapter 8- Data Retention). In addition, ensure that old log data is disposed of properly once it is no longer needed.
-- Maintaining the security of the log management infrastructure, including testing and implementing upgrades & updates to the log management infrastructure components - software & hardware. [^audit_log]
+- Maintaining the security of the log management infrastructure, including testing and implementing upgrades and updates to the log management infrastructure components - software and hardware. [^audit_log]
 - Re-configure logging as needed based on policy changes, technology changes, and other factors.
 - Monitor and document anomalies in log settings, configurations, and processes.
 
@@ -151,7 +151,7 @@ However, if staff do require access to their office computer or a specific appli
 - Provide remote access via only specific devices (computer or mobile) and usernames to your network.
 - Establish a protocol (usage policy) for off-site care of confidential data and the rules for use of home desktops or mobile devices (licensed software, antivirus, security patches on all computers accessing the network, personal firewall enabled, encrypted connection and strong passwords on user accounts)
 - Monitor remote access via VPNs and create alerts to ensure you are aware of unauthorized access to systems or data.
-- Enable two-factor authentication on all sensitive systems. Ensure a user-account lockout policy is in place to lock an account for a period of time after a number of incorrect password guesses, this will help prevent hackers from using automated password guessing tools from gaining access to your system. Refer to Chapter 2 on Password Policy to ensure strong authentication standards & protocols are in place.
+- Enable two-factor authentication on all sensitive systems. Ensure a user-account lockout policy is in place to lock an account for a period of time after a number of incorrect password guesses, this will help prevent hackers from using automated password guessing tools from gaining access to your system. Refer to Chapter 2 on Password Policy to ensure strong authentication standards and protocols are in place.
 
 #### 7.10 Secure WiFi ####
 
@@ -165,7 +165,7 @@ Wireless networks can provide an unintended open door to your business network. 
 - Avoid your wifi router from getting targeted from hackers or curious minds in the neighborhood, use a non-descript SSID (Service Set IDentifier) for your organization’s wifi connection. This would reduce visibility of the wifi connections to your organization, as such, creating a level of “anonymity”.
 - Set up zones of segregation based on access - this could be as simple as setting up a separate WAPs (wireless access points) for organizational staff and another for guests to connect to. Discourage staff from sharing the staff wifi password with guests - help them understand the risks. Set a schedule to change the wifi passwords regularly.
 - Check the access point manufacturer’s website regularly for firmware updates and apply accordingly.
-- Encourage holistic security practices, and during trainings & staff awareness workshops (Refer to Chapter 3), discuss the importance of securing their home WAP (wireless access points) with staff.
+- Encourage holistic security practices, and during trainings and staff awareness workshops (Refer to Chapter 3), discuss the importance of securing their home WAP (wireless access points) with staff.
 - Encourage staff to use a VPN such as Psiphon when connecting to public, unsecured WAPs (such as wifi in a cafe or at the airport) for browsing the Internet or accessing work email.
 
 #### 7.11 Mitigating “Insider” Threats ####
@@ -179,7 +179,7 @@ Institute stringent access controls and monitoring policies on privileged users,
 
 #### 7.12 Develop a System for Day-to-Day Work ####
 
-Create a checklist of tasks that need to be performed on a daily basis - some of these may include: checking monitoring consoles for alerts, storage capacity of backup tapes & logs, reading blogs & websites for new security threats, vendor websites for firmware updates.[^monitor] Allocate time at the beginning of the day to complete your daily checklist of tasks before moving on to other tasks.
+Create a checklist of tasks that need to be performed on a daily basis - some of these may include: checking monitoring consoles for alerts, storage capacity of backup tapes and logs, reading blogs and websites for new security threats, vendor websites for firmware updates.[^monitor] Allocate time at the beginning of the day to complete your daily checklist of tasks before moving on to other tasks.
 
 #### 7.13 Document Everything ####
 
@@ -197,7 +197,7 @@ It may be beneficial to adopt simple project management practices even for small
 
 #### 7.15 Keep Yourself Updated ####
 
-Staying in tune with current best practices, industry trends and emerging threats will help you learn about possible attacks to your network. Its recommended for sysadmins to sign-up to security mailing lists, read security news sites, receive information guides & updates shared by vendors and follow security researchers via twitter to ensure that they are always “in-the-know” when it comes to security trends and threats. (Refer to "Community Resources" towards the end of this guide for websites and mailing lists followed by sysadmins in the Internet Freedom community).
+Staying in tune with current best practices, industry trends and emerging threats will help you learn about possible attacks to your network. Its recommended for sysadmins to sign-up to security mailing lists, read security news sites, receive information guides and updates shared by vendors and follow security researchers via twitter to ensure that they are always “in-the-know” when it comes to security trends and threats. (Refer to "Community Resources" towards the end of this guide for websites and mailing lists followed by sysadmins in the Internet Freedom community).
 
 
 ###Training Curriculum###
