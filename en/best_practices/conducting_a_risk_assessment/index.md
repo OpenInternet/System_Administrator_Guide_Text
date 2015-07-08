@@ -62,7 +62,7 @@ As such, as a next step, it’s imperative to assess the probability and impact 
 
 Map each risk based on its impact (what are the consequences if this risk is not addressed) with its likelihood occurring (what is the probability that this risk will occur).
 
-If the probability of the risk occurring is low, and the impact is low, or the probability is very low & impact are very low (these are the lightest grey cells in the table above), you may consider these as acceptable risks, and use your normal security measures. However, for the risks that are probable, but medium to high impact (the pink/red cells), produce action plans to reduce the probability. For risks that are high to very high impact (the darkest grey cells), produce action plans and also, a contingency plan for each risk to address what to do in case this terrible event does in fact occur in order to reduce the impact. [^risk_matrix]
+If the probability of the risk occurring is low, and the impact is low, or the probability is very low and impact are very low (these are the lightest grey cells in the table above), you may consider these as acceptable risks, and use your normal security measures. However, for the risks that are probable, but medium to high impact (the pink/red cells), produce action plans to reduce the probability. For risks that are high to very high impact (the darkest grey cells), produce action plans and also, a contingency plan for each risk to address what to do in case this terrible event does in fact occur in order to reduce the impact. [^risk_matrix]
 
 Via this exercise, by focusing on the areas of “very high impact- very high likelihood” followed by “high impact-high likelihood” and “medium impact-medium likelihood”, you have now arrived at a set of security goals (For example: mitigate loss of sensitive data or install licensed software to prevent violations against local laws) via a prioritization process. At this stage, its also critical to also assess your organization’s capacity such as appropriate personnel, necessary time and funds that will be required. Assessing capacity will help you arrive at **practical, realistic security goals**. For example, an intrusion detection system and state-of-the-art firewall might mitigate network intrusions, but if the backup system and financial computers are what you're worried about, other mitigations could achieve much of the same outcome for less budget, less time and staff training.
 
@@ -78,7 +78,7 @@ Conducting a risk assessment is not a one-time activity. As the context within w
 
 #### Step 4 - Empowering Individuals ####
 
-Be sure to share the above risk assessment framework (Steps 1- 4) with staff as part of their IT on-boarding process or during tech awareness workshops. Each individual armed with this framework will be empowered to assess threats, identify adversaries & individual capacities and create individual security (action) plans based on their unique scenario.
+Be sure to share the above risk assessment framework (Steps 1- 4) with staff as part of their IT on-boarding process or during tech awareness workshops. Each individual armed with this framework will be empowered to assess threats, identify adversaries and individual capacities and create individual security (action) plans based on their unique scenario.
 
 ###Training Curriculum###
 Refer to the suggested modules below for training on concepts outlined in this chapter
