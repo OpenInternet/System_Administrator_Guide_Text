@@ -9,7 +9,7 @@
 - [Integrated Security, Defining the threshold of acceptable risk](http://www.integratedsecuritymanual.org/exercise/defining-the-threshold-of-acceptable-risk)
 - [Cisco, Network Security Policy: Best Practices White Paper](http://www.cisco.com/c/en/us/support/docs/availability/high-availability/13601-secpol.html#t4)
 - [EFF, An Introduction to Threat Modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
-- [PBS.org, Rory Byrne, Information Security for Journalists - The Bigger Picture](http://www.pbs.org/idealab/2014/06/information-security-for-journalists-the-bigger-pictur)
+- [PBS.org, Rory Byrne, Information Security for Journalists - The Bigger Picture](http://mediashift.org/idealab/2014/06/information-security-for-journalists-the-bigger-picture/)
 - [Front Line - The International Foundation for the Protection of Human Rights Defenders, Protection Manual for Human Rights Defenders](http://www.peacebrigades.org/fileadmin/user_files/groups/uk/files/Publications/Frontline_Manual_pdf.pdf#page=83)
 
 ####Chapter 2- Tech Policies####
