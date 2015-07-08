@@ -7,7 +7,7 @@ A password policy is a set of rules which are created to improve computer securi
 
 Acceptable passwords must be carefully chosen by the user and enforced by the system. Controls must be implemented to require strong passwords such as:
 
-- Minimum length & complexity: Security experts have been recommending the use of passphrases versus a password that is at least eight (8) characters long, with a combination of alphanumeric characters. Passphrases which are usually a series of words, (for example: “oh no its Donald Trump for 2016 again!” provide the necessary complexity making it difficult to guess and/or brute force, while being easy to remember- a definite win-win from the end user’s perspective.
+- Minimum length and complexity: Security experts have been recommending the use of passphrases versus a password that is at least eight (8) characters long, with a combination of alphanumeric characters. Passphrases which are usually a series of words, (for example: “oh no its Donald Trump for 2016 again!” provide the necessary complexity making it difficult to guess and/or brute force, while being easy to remember- a definite win-win from the end user’s perspective.
 - Password Age: the password policy should enforce users to update their passwords every 90 days (3-months) at the very least. Encouraging users to change their passwords after travel is highly recommended (Refer to Traveller’s policy for further best practices).
 - In addition to using passphrases, 2-factor authentication (where feasible to implement) should be enabled across all online services to provide added security.
 
