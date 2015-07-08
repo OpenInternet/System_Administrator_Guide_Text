@@ -20,7 +20,7 @@ Here are some best practices when instituting Full Disk Encryption (FDE):
 - Test the waters: Test encryption on a few “pilot” testers - these could be your tech champions to iron out the kinks, gauge user resistance and the scope of the full deployment, before instituting FDE across the organization. (Refer to Chapter 3 for change management best practices).
 - Don’t underestimate deployment time; enabling FDE takes time, especially for large drives. A good rule of thumb is that it takes anywhere between 4-6 hours depending on the size of the HDD for the software to encrypt the drive.
 - Check for interference with other applications. Another reason for a pilot test is to identify if there is device-driver or BIOS interference between the encryption software and other applications. Run tests for the various operating systems of devices on your network as not all of them may be compatible with your FDE solution.
-- Ensure users are employing secure storage practices & strong creation policies for their pre-boot password.
+- Ensure users are employing secure storage practices and strong creation policies for their pre-boot password.
 - Key recovery: Help users understand the implications if they forget their pre-boot password. Ensure that they have a mechanism of regularly backing-up their data, in case their device needs to be re-formatted in order to start from scratch without the pre-boot password. (Special considerations needed to put in place when staff use personal devices for work purposes that do not automatically connect to the network backup system). You may consider implementing “key escrow” for encryption keys associated with work devices. However, careful mechanisms needs to be put in place to ensure that escrowed keys are kept super secure, and a policy is defined and clearly communicated with respect to key access request (for example: a supervisor cannot access their subordinate’s data without prior permission) and the responsibility of the technical person in charge of granting access.
 
 ##### 6.1.ii Encrypt Passwords #####
@@ -29,11 +29,11 @@ Institute a policy for the use of password managers (such as KeePass) to store p
 
 ##### 6.1.iii Encrypt Removable Media #####
 
-With the prevalence of USB drives & external HDDs, more attention is being paid to removable media encryption and device control. Train users on encrypting the entire USB drive before storing data on it - this is especially critical when users are traveling with sensitive data while crossing borders and protection against data leaks in the event of device loss or theft. Ensure encryption of personal devices (laptops & phones) used to access organizational data is addressed under the BYOD policy. (Refer to Chapter 2 for best practices with respect to the BYOD policy.)
+With the prevalence of USB drives and external HDDs, more attention is being paid to removable media encryption and device control. Train users on encrypting the entire USB drive before storing data on it - this is especially critical when users are traveling with sensitive data while crossing borders and protection against data leaks in the event of device loss or theft. Ensure encryption of personal devices (laptops and phones) used to access organizational data is addressed under the BYOD policy. (Refer to Chapter 2 for best practices with respect to the BYOD policy.)
 
 ##### 6.1.iv Encrypt Backup Tapes #####
 
-Employ secure data backup practices and ensure that data is encrypted on servers and in backup media (such as tapes). This would ensure added security in case of an office raid if servers & backup tapes are confiscated or in case of loss or theft of tapes. (Refer to Chapter 8- Data Security, Backup & Restore for additional best practices to protect data on servers.)
+Employ secure data backup practices and ensure that data is encrypted on servers and in backup media (such as tapes). This would ensure added security in case of an office raid if servers and backup tapes are confiscated or in case of loss or theft of tapes. (Refer to Chapter 8- Data Security, Backup & Restore for additional best practices to protect data on servers.)
 
 #### 6.2 Encrypt User Data-in-Transit ####
 
@@ -64,7 +64,7 @@ Most email clients such as (Microsoft Outlook) have built-in settings [^email_se
 
 With the connection encrypted, it's time to ensure that the contents of the message are protected as well. This is especially true when using email-service-providers such as Gmail, but should also be applied when email is hosted in-house for additional user data privacy considerations. This step would ensure that system administrators are not able to read the contents of a user’s email, even though the metadata (to-from info, email subject, date-time) associated to these messages is visible.
 
-Encrypting email messages requires creation of public & private keys for that email address. Educate users on how encryption works, setup their email clients (such as Thunderbird or Microsoft Outlook), train them on how to exchange their public key with other users, verify fingerprint on keys and create a process for them to backup their own keys. (Refer to Security-in-a-Box for step-by-step instructions)
+Encrypting email messages requires creation of public and private keys for that email address. Educate users on how encryption works, setup their email clients (such as Thunderbird or Microsoft Outlook), train them on how to exchange their public key with other users, verify fingerprint on keys and create a process for them to backup their own keys. (Refer to Security-in-a-Box for step-by-step instructions)
 
 While backing up their data, encourage users to encrypt their email or files before storing them on removable media (USB, external HDD or pushed to a cloud storage service).
 
@@ -81,11 +81,11 @@ For complete guidance on helping users secure their communications, refer to [Se
 
 #### 6.3 Anonymity During Surfing ####
 
-An end-user’s unique scenario, with its associated threats and adversaries, may warrant use of anonymous web browsing. This would entail setting up the “Tor” browser (https://www.torproject.org) on their device and educating them on use, browser performance and the potential risks of Tor installed on their device based on laws & regulations specific to their scenario. Refer to [Security-in-a-Box's guide on digital shadows](https://securityinabox.org/en/guide/anonymity-and-circumvention) and [anonymous browsing](https://securityinabox.org/en/guide/torbrowser/windows) for step-by-step instructions.
+An end-user’s unique scenario, with its associated threats and adversaries, may warrant use of anonymous web browsing. This would entail setting up the “Tor” browser (https://www.torproject.org) on their device and educating them on use, browser performance and the potential risks of Tor installed on their device based on laws and regulations specific to their scenario. Refer to [Security-in-a-Box's guide on digital shadows](https://securityinabox.org/en/guide/anonymity-and-circumvention) and [anonymous browsing](https://securityinabox.org/en/guide/torbrowser/windows) for step-by-step instructions.
 
 #### 6.4 Preventions Against the Internet of Things (IoT) ####
 
-With shoes recording our steps during a workout and watches monitoring our heart rate, smart devices have tightly integrated into our daily lives. And by design, they have access to our personal information such as location, contacts, photos & in some cases, even emails. Its hard to truly evaluate the private data that these device providers and apps are collecting. As the consumer market continues to get flooded with even more smart devices, its imperative to discuss this new expanded “information ecosystem” with your end-user and discuss measures they need to put in place to ensure their data privacy.
+With shoes recording our steps during a workout and watches monitoring our heart rate, smart devices have tightly integrated into our daily lives. And by design, they have access to our personal information such as location, contacts, photos and in some cases, even emails. Its hard to truly evaluate the private data that these device providers and apps are collecting. As the consumer market continues to get flooded with even more smart devices, its imperative to discuss this new expanded “information ecosystem” with your end-user and discuss measures they need to put in place to ensure their data privacy.
 
 For Mobile security, refer to Security-in-a-Box’s guides on phone security:
 
