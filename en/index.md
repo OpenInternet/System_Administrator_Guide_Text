@@ -230,10 +230,10 @@ author: 'Mahvash Taqi'
 
 !INCLUDE "back_matter/chapter_references/index.md"
 
-## Footnotes {#footnotes}
-
-!INCLUDE "back_matter/footnotes.md"
-
 ## About Internews {#about}
 
 !INCLUDE "back_matter/end.md"
+
+## Footnotes {#footnotes}
+
+!INCLUDE "back_matter/footnotes.md"
