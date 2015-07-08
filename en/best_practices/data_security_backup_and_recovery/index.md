@@ -4,15 +4,15 @@
 
 #### 8.1 Understand the Data & Processes ####
 
-As you design systems to protect your organization and user’s data, understand the flow of information, along with the various categories. Once you have identified the various categories of data (emails, documents, employee records, tax & other legal records, contacts, chats), create a tiered system to classify data based on its importance and sensitivity. Access to sensitive data should be limited via “Access Control” (Refer to Chapter 7 on Network Security).
+As you design systems to protect your organization and user’s data, understand the flow of information, along with the various categories. Once you have identified the various categories of data (emails, documents, employee records, tax and other legal records, contacts, chats), create a tiered system to classify data based on its importance and sensitivity. Access to sensitive data should be limited via “Access Control” (Refer to Chapter 7 on Network Security).
 
-Understanding the business process of how information is created and stored at the various stages (for example: in a newsroom, information received from sources is ultimately cumulated & shared across the organization to produce a news story - the number of hands through which this information is passed from the reporter, to the page layout designer, to the editorial team) will help you design the appropriate data storage and security solutions for each stage.
+Understanding the business process of how information is created and stored at the various stages (for example: in a newsroom, information received from sources is ultimately cumulated and shared across the organization to produce a news story - the number of hands through which this information is passed from the reporter, to the page layout designer, to the editorial team) will help you design the appropriate data storage and security solutions for each stage.
 
 In addition, understanding the pressures and dependencies that staff deal with (such as, tight deadlines) is also imperative while proposing practical, workable data solutions that will succeed within the context of the organizational information workflow.
 
 #### 8.2 Data Collection Protocol ####
 
-As you understand the data your organization collects and creates, partner with decision-makers to understand the requirements behind collecting and storing of Personal Identifiable Information (PII). This may be personal & confidential of your organization’s donors such as bank account information and address of individual donors or birthdates of consultants. Its imperative to work with decision-makers to ensure internal policies (human resources forms, employee records, reports from implementation partners) are refined such that your organization is not collecting any more information on people than is absolutely necessary. Collecting less PII (Personal Identifiable Information) reduces the risk of data leaks and subsequent, reputational damage to your organization.
+As you understand the data your organization collects and creates, partner with decision-makers to understand the requirements behind collecting and storing of Personal Identifiable Information (PII). This may be personal and confidential of your organization’s donors such as bank account information and address of individual donors or birthdates of consultants. Its imperative to work with decision-makers to ensure internal policies (human resources forms, employee records, reports from implementation partners) are refined such that your organization is not collecting any more information on people than is absolutely necessary. Collecting less PII (Personal Identifiable Information) reduces the risk of data leaks and subsequent, reputational damage to your organization.
 
 In addition, based on your organization’s Risk Assessment (Refer to Chapter 1), if its imperative to protect the identify of staff, partners or donors working with your organization, be sure their photos or contact information is not displayed on your organization’s website.
 
@@ -20,7 +20,7 @@ In addition, based on your organization’s Risk Assessment (Refer to Chapter 1)
 
 **Backup Strategy**
 
-Based on the classification of data (emails, documents, employee records, tax & other legal records, contacts, chats) across the organization and the sensitivity assigned to each data set, you may create a backup plan that aligns with your organization’s need and the allocated data sensitivity.
+Based on the classification of data (emails, documents, employee records, tax and other legal records, contacts, chats) across the organization and the sensitivity assigned to each data set, you may create a backup plan that aligns with your organization’s need and the allocated data sensitivity.
 
 A good backup plan = encryption + the 3-2-1 rule
 
@@ -82,7 +82,7 @@ Based on the classification of your organization’s data, create a Retention, A
 
 Understand local data retention laws before disposing digital files - such as employee records, tax information. Moreover, merely deleting sensitive material is not sufficient, as it does not actually remove the data from your system.
 
-Disposal of data also includes protocols of securely shredding physical files & documents to prevent unauthorized access to printouts of sensitive information.
+Disposal of data also includes protocols of securely shredding physical files and documents to prevent unauthorized access to printouts of sensitive information.
 
 #### 8.5 Contact Management Provisions ####
 
@@ -108,7 +108,7 @@ Finally, verify that the offsite storage facilities for backups are included in 
 
 **Chain of Custody**: When working with a team of system administrators, create a “chain of custody” - this details who has physical access to the data tapes at any given time. The chain of custody would also detail a “check-in/check-out” procedure for access to the backup media.
 
-**Facility Construction**: The physical construction of the facility where your data will be stored is an important consideration as well. Plan against adverse scenarios like natural calamities such as fire, floods, or political discord (bombings, riots, curfew). Creating a disaster recovery and a communication plan will keep key stakeholders (Executive Director, Finance & HR Director) informed about the next steps in case of an emergency.
+**Facility Construction**: The physical construction of the facility where your data will be stored is an important consideration as well. Plan against adverse scenarios like natural calamities such as fire, floods, or political discord (bombings, riots, curfew). Creating a disaster recovery and a communication plan will keep key stakeholders (Executive Director, Finance and HR Director) informed about the next steps in case of an emergency.
 
 **Office Raid**: While planning against an office raid by government officials, refer to Chapter 10: Physical Security.
 
