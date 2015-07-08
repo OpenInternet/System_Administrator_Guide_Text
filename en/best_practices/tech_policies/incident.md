@@ -16,6 +16,6 @@ The incident response procedure [^incident_policy] for your organization should 
 
 **Response, Escalation**: Once notification of an incident is received, where possible, take necessary steps to escalate the issue (for example: notify a vendor in case of hardware failure or ISP in case of internet outage) and organize your team (if more than one sysadmin) with specific roles and responsibilities.
 
-**Communication**: Define a communication plan to report outage to staff & key stakeholders immediately with frequent updates shared, at least every 12 hours, until the issue is resolved.
+**Communication**: Define a communication plan to report outage to staff and key stakeholders immediately with frequent updates shared, at least every 12 hours, until the issue is resolved.
 
 **Documentation**: Ensure that a process to document any configuration changes, along with a detailed analysis of the outages and steps to prevent repeat incidents.
