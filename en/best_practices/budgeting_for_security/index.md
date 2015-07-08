@@ -1,6 +1,6 @@
 ##Budgeting for Security## {#chapter4}
 
-Even with high-profile cyber attacks on big corporations like Target & Sony, and [human-rights focused NGOs](http://www.computerworld.com/article/2846086/rights-groups-ngos-struggle-against-malware-attacks.html), cyber security makes up a [relatively small portion](http://www.govtech.com/security/Report-Rising-Cybersecurity-Budgets-Still-Not-Enough.html) of many organizations’ overall IT budgets.
+Even with high-profile cyber attacks on big corporations like Target and Sony, and [human-rights focused NGOs](http://www.computerworld.com/article/2846086/rights-groups-ngos-struggle-against-malware-attacks.html), cyber security makes up a [relatively small portion](http://www.govtech.com/security/Report-Rising-Cybersecurity-Budgets-Still-Not-Enough.html) of many organizations’ overall IT budgets.
 
 As you create plans to safeguard your organization’s assets against cyber threats, it’s important to help managers and decision-makers in the organization understand the need for the necessary investments in cyber security for business contiunity, whether this means purchase of anti-virus software and non-pirated software licenses, a secure website hosting service, locks for the physical protection of the server room or printing digital best practices material for distribution to staff.
 
@@ -29,7 +29,7 @@ Building a budget involves three core components: People, Process, and Technolog
 While defining your requirements, consider how each of these items reduces organizational risk, any alternatives (such as open source software) that may exist at a lower cost, and the security risk of not including it.
 
 With the identification of requirements and their categorization in place, map these needs to a budget framework with estimated costs for each initiative. Don't forget to include the costs of implementation, and post-installation support when arriving at an estimated cost for each item.
-While getting buy-in for your recommended IT budget help decision-makers understand their options & remind them of potential impacts. Are they willing to accept the risks of business disruption or privacy breaches that can stem from cyber incidents, or are they willing to authorize funding for organization-wide digital security initiatives to mitigate those risks?
+While getting buy-in for your recommended IT budget help decision-makers understand their options and remind them of potential impacts. Are they willing to accept the risks of business disruption or privacy breaches that can stem from cyber incidents, or are they willing to authorize funding for organization-wide digital security initiatives to mitigate those risks?
 
 #### 4.3 Security Program Metrics ####
 
@@ -41,10 +41,10 @@ Ensure that you are measuring how the current security measures are safeguarding
 - Reduction of spam
 - Use of licensed software
 - Ability of staff to better respond to viruses, malware and social engineering attacks, leading to reduction in cyber incidents
-- Staff using password-management software and two-factor authentication on all their accounts - work & personal
+- Staff using password-management software and two-factor authentication on all their accounts - work and personal
 - Reduction of response time for incidents (the ability to re-image a laptop after a virus versus re-installing from scratch)
 - Staff adhering to IT policies and best practices regarding BYOD (Bring Your Own Device, such as a phone or tablet, to the office), mobile security, data backup and secure communication.
-- Measures in place to ensure authorized access to sensitive data & systems
+- Measures in place to ensure authorized access to sensitive data and systems
 - Measures in place to safeguard physical access to the organization’s assets
 - Measures in pace to protect the online reputation of the organization via Facebook, Twitter, YouTube.
 - Number of digital security awareness sessions conducted with staff
@@ -65,7 +65,7 @@ In addition, sharing news and information about security trends will ensure that
 
 #### 4.5 Peer Knowledge Exchange ####
 
-As you design a security program for your organization, it is a good practice to also share & learn from other organizations experiencing similar risks. Creating a safe “peer” space for system administrators working at community organizations, whether at a media outlets and/or human rights organization, to come together and share their knowledge will help you learn about potential threats, steps taken to mitigate them and will serve as an early-warning system for identification of potential threats, allowing you to be proactive in planning against them.
+As you design a security program for your organization, it is a good practice to also share and learn from other organizations experiencing similar risks. Creating a safe “peer” space for system administrators working at community organizations, whether at a media outlets and/or human rights organization, to come together and share their knowledge will help you learn about potential threats, steps taken to mitigate them and will serve as an early-warning system for identification of potential threats, allowing you to be proactive in planning against them.
 
 ###Tools & Templates###
 
