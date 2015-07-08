@@ -76,7 +76,7 @@ As you design a security program for your organization, it is a good practice to
 
 ###Recommended Reading###
 
-(Left blank intentionally; looking for contributions from the community)
+(Looking for contributions from the community)
 
 ###Chapter References###
 
