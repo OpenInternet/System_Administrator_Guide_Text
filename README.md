@@ -14,9 +14,9 @@ The guide may be used and shared for educational, non-commercial, not-for-profit
 sudo apt-get install git
 ```
 
-### Install [pretty markdown to pdf](https://github.com/elationfoundation/pretty_md2pdf)
+### Install the [Documentation Builder](https://github.com/OpenInternet/Documentation-Builder.git)
 
-[Use the installation instructions found here.](https://github.com/elationfoundation/pretty_md2pdf/blob/master/docs/INSTALL.md)
+[Use the installation instructions found here.](https://github.com/OpenInternet/Documentation-Builder/blob/master/docs/INSTALL.md)
 
 ### Download the [System Administrator Guide Text](https://github.com/OpenInternet/System_Administrator_Guide_Text)
 
@@ -35,5 +35,6 @@ cd ..
 ### Create the System Administrator Guide
 
 ```
-./pretty_md2pdf/builddoc -i System_Administrator_Guide_Text/en/ -t System_Administrator_Guide_Templates/ -o SysAdminGuide.pdf
+cd /path/to/documentation/builder/
+./builddoc  -i path/to/System_Administrator_Guide_Text/en -t /path/to/System_Administrator_Guide_Templates/ -o output_filename.pdf
 ```
