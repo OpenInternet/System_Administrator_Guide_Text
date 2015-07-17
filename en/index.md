@@ -25,6 +25,7 @@ author: 'Mahvash Taqi'
 - Step 2 - Risk Matrix
 - Step 3 - Maintaining a Risk-Averse Posture
 - Step 4 - Empowering Individuals
+- Training Curriculum
 - Tools & Templates
 - Recommended Reading
 - Chapter References
@@ -37,6 +38,7 @@ author: 'Mahvash Taqi'
 - Staff Onboarding & Departure Policy
 - Traveler’s Policy
 - Incident Reporting Policy
+- Training Curriculum
 - Chapter References
 
 [Chapter 3 - Staff Awareness & Communication](#chapter3)
@@ -49,6 +51,7 @@ author: 'Mahvash Taqi'
 - 3.4.ii Staff-Awareness Workshops
 - 3.4.iii Create Tech Champions Within the Organization
 - 3.4.iv Ease of Accessibility
+- Training Curriculum
 - Tools & Templates
 - Recommended Reading
 - Chapter References
@@ -95,6 +98,7 @@ author: 'Mahvash Taqi'
 - 6.3 Anonymity During Surfing
 - 6.4 Protections Against the Internet of Things (IoT)
 - 6.5 Reading the “Fine Print”
+- Training Curriculum
 - Tools & Templates
 - Recommended Reading
 - Chapter References
@@ -116,6 +120,7 @@ author: 'Mahvash Taqi'
 - 7.13 Document Everything
 - 7.14 Develop Project Management Habits
 - 7.15 Keep Yourself Updated
+- Training Curriculum
 - Tools & Templates
 - Recommended Reading
 - Chapter References
@@ -128,7 +133,8 @@ author: 'Mahvash Taqi'
 - 8.4 Data Retention, Archiving and Disposal
 - 8.5 Contact Management Provisions
 - 8.6 Data Security While Crossing Borders
-- 8.7 Physical Access and Security
+- 8.7 Physical Access and 
+- Training Curriculum
 - Tools & Templates
 - Recommended Reading
 - Chapter References
@@ -144,6 +150,7 @@ author: 'Mahvash Taqi'
 - 9.3 System (Server) Security
 - 9.4 Security on End-User Devices
 - 9.5 Secure Organizational Social Media Accounts
+- Training Curriculum
 - Tools & Templates
 - Recommended Reading
 - Chapter References
@@ -158,6 +165,7 @@ author: 'Mahvash Taqi'
 - 10.6 Know Your Rights
 - 10.7 Know Thy Neighbor
 - 10.8 Healthy Environment for Your Hardware
+- Training Curriculum
 - Tools & Templates
 - Recommending Reading
 - Chapter References
