@@ -107,7 +107,7 @@
 - [OnGuardOnline.Gov, Tips for Using Public Wi-Fi Networks](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
 - [National Network to End Domestic Violence](http://tools.nnedv.org/tipsheets-charts)
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
-- [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en)
+- [Front Line Defenders and Tactical Technology Collective, Security-in-a-Box](https://securityinabox.org/en)
 - [FrontlineDefenders, Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 - [Internews, SaferJourno](https://saferjourno.internews.org/)
 - [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
@@ -189,7 +189,7 @@
 -   [SANS Institute, Computer Rooms - meet the physical security measures](http://www.giac.org/paper/gsec/2892/computer-rooms-meet-physical-security-measures/104866)
 -   [University of Florida, Physical Security of Server Rooms](https://security.ufl.edu/wp-content/uploads/2013/09/PS0002-02.pdf)
 -   [MIT, Protecting Devices](https://ist.mit.edu/security/devices)
--   [Tactical Tech, Security-in-a-Box](https://info.securityinabox.org/default/chapter\_2\_3)
+-   [Front Line Defenders and Tactical Technology Collective, Security-in-a-Box](https://info.securityinabox.org/default/chapter\_2\_3)
 -   [SANS Institute, Penetration Tests and Red Team Exercises](https://www.sans.org/critical-security-controls/control/20)
 
 ####Chapter 11- Know Your Rights: In-country Rules & Regulations####

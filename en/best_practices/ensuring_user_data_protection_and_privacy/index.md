@@ -139,7 +139,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 - [OnGuardOnline.Gov, Tips for Using Public Wi-Fi Networks](http://www.onguardonline.gov/articles/0014-tips-using-public-wi-fi-networks)
 - [National Network to End Domestic Violence](http://tools.nnedv.org/tipsheets-charts)
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
-- [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en)
+- [Front Line Defenders and Tactical Technology Collective, Security-in-a-Box](https://securityinabox.org/en)
 - [FrontlineDefenders, Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 - [Internews, SaferJourno](https://saferjourno.internews.org/)
 - [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)

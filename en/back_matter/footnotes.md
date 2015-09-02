@@ -73,7 +73,7 @@ Action Oriented Model for Change](http://www.change-management-coach.com/adkar.h
 
 [^physical]: [SANS Institute, Data Center Physical Security Checklist](http://www.sans.org/reading-room/whitepapers/awareness/data-center-physical-security-checklist-416)
 
-[^healthy_environment]: [Tactical Tech, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
+[^healthy_environment]: [Front Line Defenders and Tactical Technology Collective, Security-in-a-Box](https://securityinabox.org/en/guide/physical)
 
 [^website_security]: [FLOSS Manual, Bypassing Internet Censorship-Best Practices for Webmasters](http://en.flossmanuals.net/bypassing-censorship/ch045_best-practices-for-webmasters/)
 

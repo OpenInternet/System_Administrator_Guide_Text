@@ -64,7 +64,7 @@ With companies and organizations struggling with challenges associated with BYOD
 
 #### Tools & Templates ####
 
-- [Tactical Tech, Security-in-a-Box, Mobile Security](https://securityinabox.org/en/guide/mobile-phones)
-- [Tactical Tech, Security-in-a-Box, SmartPhone Security](https://securityinabox.org/en/guide/smartphones)
+- [Front Line Defenders and Tactical Technology Collective, Security-in-a-Box, Mobile Security](https://securityinabox.org/en/guide/mobile-phones)
+- [Front Line Defenders and Tactical Technology Collective, Security-in-a-Box, SmartPhone Security](https://securityinabox.org/en/guide/smartphones)
 - [EFF, Mobile Security](https://ssd.eff.org/en/module/problem-mobile-phones)
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
