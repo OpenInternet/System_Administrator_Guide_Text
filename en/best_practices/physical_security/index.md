@@ -165,7 +165,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 ###Recommended Reading###
 
 -   [NIST, Physical and Environmental Security](http://csrc.nist.gov/publications/nistpubs/800-14/800-14.pdf)
--   [Security-in-a-box:](https://securityinabox.org/en/guide/physical)
+-   [Front Line Defenders and Tactical Tech Collective, Security-in-a-box](https://securityinabox.org/en/guide/physical)
 -   [Frontline Defenders, Workbook on Security](http://frontlinedefenders.org/files/workbook\_eng.pdf\#page=80)
 -   [TechRepublic, 10 physical security measures every organization should take](http://www.techrepublic.com/blog/10-things/10-physical-security-measures-every-organization-should-take/)
 -   [SANS Institute, Data Center Physical Security Checklist](http://www.sans.org/reading-room/whitepapers/awareness/data-center-physical-security-checklist-416)
