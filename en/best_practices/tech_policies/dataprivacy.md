@@ -52,7 +52,7 @@ Ensure that protocols are put in place for protecting physical information recei
 
 #### Tools & Templates ####
 
-- [Tactical Tech’s Security-in-a-Box](https://securityinabox.org/)
+- [Front Line Defenders and Tactical Tech Collective, Security-in-a-Box](https://securityinabox.org/)
 - [EFF Security Starter Pack](https://ssd.eff.org/)
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
 - [Digital Defenders Partnership](http://digitaldefenders.org/digitalfirstaid/)
