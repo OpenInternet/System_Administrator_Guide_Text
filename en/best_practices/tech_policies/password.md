@@ -54,5 +54,5 @@ As with any security best practices, consider “user adoption” while enforcin
 - [Open source password manager - KeePass](http://keepass.info/)
 - [EFF’s Guide on How to use KeePass](https://ssd.eff.org/en/module/how-use-keepassx)
 - [EFF Security Starter Pack](https://ssd.eff.org/)
-- [Tactical Tech’s Security-in-a-Box, Creating & Maintaining a strong password](https://securityinabox.org/en/guide/passwords)
+- [Front Line Defenders and Tactical Tech Collective, Security-in-a-Box, Creating & Maintaining a strong password](https://securityinabox.org/en/guide/passwords)
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
