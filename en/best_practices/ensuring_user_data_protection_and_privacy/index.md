@@ -122,7 +122,7 @@ Refer to the suggested modules below for training on concepts outlined in this c
 ###Recommended Reading###
 
 - [Internews, SpeakSafe](https://speaksafe.internews.org/)
-- [Tactical Tech's Security-in-a-Box](https://securityinabox.org/en)
+- [Front Line Defenders and Tactical Tech Collective, Security-in-a-Box](https://securityinabox.org/en)
 - [Frontline Defenders: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/files/workbook_eng.pdf)
 - [Internews, SaferJourno](https://saferjourno.internews.org/)
 - [Frontline Defenders, Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman/)
